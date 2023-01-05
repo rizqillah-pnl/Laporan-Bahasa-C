@@ -1,0 +1,2794 @@
+From: <Saved by Blink>
+Subject: PRAKTIKUM 4 (2/2) ? Tipe Data Dan Operasi I/O ? Algoritma dan pemrograman
+Date: Tue, 7 Oct 2019 17:17:39 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----"
+
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: text/html
+Content-ID: <frame-136-960f4425-f007-4c6d-8e1d-a4bef9e4e0b2@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///storage/emulated/0/UCDownloads/Pages/PRAKTIKUM%204%20(22)%20%E2%80%93%20Tipe%20Data%20Dan%20Operasi%20IO%20%E2%80%93%20Algoritma%20dan%20pemrograman.mht
+
+<!DOCTYPE html><html lang=3D"id-ID"><head><meta http-equiv=3D"Content-Type"=
+ content=3D"text/html; charset=3DUTF-8">
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<link rel=3D"profile" href=3D"http://gmpg.org/xfn/11">
+
+
+<title>PRAKTIKUM 4 (2/2) =E2=80=93 Tipe Data Dan Operasi I/O =E2=80=93 Algo=
+ritma dan pemrograman</title>
+<link rel=3D"dns-prefetch" href=3D"https://s2.wp.com/">
+<link rel=3D"dns-prefetch" href=3D"https://s1.wp.com/">
+<link rel=3D"dns-prefetch" href=3D"https://s0.wp.com/">
+<link rel=3D"dns-prefetch" href=3D"https://wordpress.com/">
+<link rel=3D"dns-prefetch" href=3D"https://s.pubmine.com/">
+<link rel=3D"dns-prefetch" href=3D"https://x.bidswitch.net/">
+<link rel=3D"dns-prefetch" href=3D"https://static.criteo.net/">
+<link rel=3D"dns-prefetch" href=3D"https://ib.adnxs.com/">
+<link rel=3D"dns-prefetch" href=3D"https://aax.amazon-adsystem.com/">
+<link rel=3D"dns-prefetch" href=3D"https://bidder.criteo.com/">
+<link rel=3D"dns-prefetch" href=3D"https://cas.criteo.com/">
+<link rel=3D"dns-prefetch" href=3D"https://gum.criteo.com/">
+<link rel=3D"dns-prefetch" href=3D"https://ads.pubmatic.com/">
+<link rel=3D"dns-prefetch" href=3D"https://gads.pubmatic.com/">
+<link rel=3D"dns-prefetch" href=3D"https://tpc.googlesyndication.com/">
+<link rel=3D"dns-prefetch" href=3D"https://ad.doubleclick.net/">
+<link rel=3D"dns-prefetch" href=3D"https://googleads.g.doubleclick.net/">
+<link rel=3D"dns-prefetch" href=3D"https://www.googletagservices.com/">
+<link rel=3D"dns-prefetch" href=3D"https://cdn.switchadhub.com/">
+<link rel=3D"dns-prefetch" href=3D"https://delivery.g.switchadhub.com/">
+<link rel=3D"dns-prefetch" href=3D"https://delivery.swid.switchadhub.com/">
+<link rel=3D"alternate" type=3D"application/rss+xml" title=3D"Algoritma dan=
+ pemrograman =C2=BB Feed" href=3D"https://alfanbro99.wordpress.com/feed/">
+<link rel=3D"alternate" type=3D"application/rss+xml" title=3D"Algoritma dan=
+ pemrograman =C2=BB Umpan Komentar" href=3D"https://alfanbro99.wordpress.co=
+m/comments/feed/">
+<link rel=3D"alternate" type=3D"application/rss+xml" title=3D"Algoritma dan=
+ pemrograman =C2=BB PRAKTIKUM 4 (2/2) =E2=80=93 Tipe Data Dan Operasi I/O U=
+mpan Komentar" href=3D"https://alfanbro99.wordpress.com/2018/11/08/praktiku=
+m-4-2-2-tipe-data-dan-operasi-i-o/feed/">
+=09
+		=09
+		<style type=3D"text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel=3D"stylesheet" id=3D"all-css-0-1" href=3D"https://s1.wp.com/_sta=
+tic/??-eJyNVFuS4yAMvNBiks08aj629iyAFaIxGBfC5c3tV0CSiZMylR9bgm6pJQFymYQJY4Ix=
+ST+Lyc0WR5LLZIIX5NHB+cHrDNEveUfTLtgb0as4QMLRCq2iZOh6pU1eQuxVT9K6oJV7wt7pi+B=
+Ugl5MgdKD16I5HIDkN6RJmUEU7wl+xdqZXQ3R8k4E+dF9dDupZ3R9Fl3oOqp4lpTODl4IU1gkuR=
+UDxKtXA7ZDmHAB77v9gUX0SKlqoK4yS5RN/nF2ThAmENBjmUTdkbvuS5aecS2UqqQa/XG11dTcH=
+l73k0oZ4TmJAgeeYS3agr0FHl4+I9UWCf61KeUcaj1FIBL89Th7kU6cqzl2ZmU1deAl4WqlUlGO=
+ISGz6WY8xayp5DRrGVVvHB6PIH5vjG8DrIiuZV9m+CIRR1MzidKHV3oLM++GAUE4tcgEfsoXhTY=
+E3wWwEASLUwnDuHLE0Sl8vsarq5nvNJu21PjjtkjK5OD5ybhZLXg+nlWJpJOKOdfl32JRMKgcl2=
+LD2tmawOnt7in66//s3z93+7fPw9fh+z9e3PVV?cssminify=3Dyes" type=3D"text/css" m=
+edia=3D"all">
+<style id=3D"radcliffe-2-style-inline-css" type=3D"text/css">
+.hero-area:before { opacity: 0.4; }
+</style>
+
+
+<link rel=3D"EditURI" type=3D"application/rsd+xml" title=3D"RSD" href=3D"ht=
+tps://alfanbro99.wordpress.com/xmlrpc.php?rsd">
+<link rel=3D"wlwmanifest" type=3D"application/wlwmanifest+xml" href=3D"http=
+s://s1.wp.com/wp-includes/wlwmanifest.xml">=20
+<link rel=3D"prev" title=3D"PRAKTIKUM 5 (1/3) =E2=80=93 Pengambilan Keputus=
+an" href=3D"https://alfanbro99.wordpress.com/2018/11/08/praktikum-5-1-3-pen=
+gambilan-keputusan/">
+<link rel=3D"next" title=3D"PRAKTIKUM 4 (1/2) =E2=80=93 Tipe Data Dan Opera=
+si I/O" href=3D"https://alfanbro99.wordpress.com/2018/11/08/praktikum-4-1-2=
+-tipe-data-dan-operasi-i-o/">
+<meta name=3D"generator" content=3D"WordPress.com">
+<link rel=3D"canonical" href=3D"https://alfanbro99.wordpress.com/2018/11/08=
+/praktikum-4-2-2-tipe-data-dan-operasi-i-o/">
+<link rel=3D"shortlink" href=3D"https://wp.me/paqk2b-16">
+<link rel=3D"alternate" type=3D"application/json+oembed" href=3D"https://pu=
+blic-api.wordpress.com/oembed/?format=3Djson&amp;url=3Dhttps%3A%2F%2Falfanb=
+ro99.wordpress.com%2F2018%2F11%2F08%2Fpraktikum-4-2-2-tipe-data-dan-operasi=
+-i-o%2F&amp;for=3Dwpcom-auto-discovery"><link rel=3D"alternate" type=3D"app=
+lication/xml+oembed" href=3D"https://public-api.wordpress.com/oembed/?forma=
+t=3Dxml&amp;url=3Dhttps%3A%2F%2Falfanbro99.wordpress.com%2F2018%2F11%2F08%2=
+Fpraktikum-4-2-2-tipe-data-dan-operasi-i-o%2F&amp;for=3Dwpcom-auto-discover=
+y">
+<!-- Jetpack Open Graph Tags -->
+<meta property=3D"og:type" content=3D"article">
+<meta property=3D"og:title" content=3D"PRAKTIKUM 4 (2/2) =E2=80=93 Tipe Dat=
+a Dan Operasi I/O">
+<meta property=3D"og:url" content=3D"https://alfanbro99.wordpress.com/2018/=
+11/08/praktikum-4-2-2-tipe-data-dan-operasi-i-o/">
+<meta property=3D"og:description" content=3D"=3D> &nbsp; TUJUAN Menjelaskan=
+ tentang instruksi I/O =3D> &nbsp; DASAR TEORI Untuk keperluan menampilkan =
+data/informasi, C menyediakan sejumlah fungsi. Beberapa di antaranya adalah=
+ berupa printf() dan putc=E2=80=A6">
+<meta property=3D"article:published_time" content=3D"2018-11-08T07:37:31+00=
+:00">
+<meta property=3D"article:modified_time" content=3D"2018-11-09T02:48:30+00:=
+00">
+<meta property=3D"og:site_name" content=3D"Algoritma dan pemrograman">
+<meta property=3D"og:image" content=3D"https://alfanbro99.files.wordpress.c=
+om/2018/11/6-build2.png">
+<meta property=3D"og:image:width" content=3D"404">
+<meta property=3D"og:image:height" content=3D"89">
+<meta property=3D"og:image:alt" content=3D"6 - BUILD.PNG">
+<meta property=3D"og:locale" content=3D"id_ID">
+<meta name=3D"twitter:site" content=3D"@wordpressdotcom">
+<meta name=3D"twitter:text:title" content=3D"PRAKTIKUM 4 (2/2) =E2=80=93 Ti=
+pe Data Dan Operasi I/O">
+<meta name=3D"twitter:card" content=3D"summary">
+<meta property=3D"fb:app_id" content=3D"249643311490">
+<meta property=3D"article:publisher" content=3D"https://www.facebook.com/Wo=
+rdPresscom">
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel=3D"shortcut icon" type=3D"image/x-icon" href=3D"https://s1.wp.com=
+/i/favicon.ico" sizes=3D"16x16 24x24 32x32 48x48">
+<link rel=3D"icon" type=3D"image/x-icon" href=3D"https://s1.wp.com/i/favico=
+n.ico" sizes=3D"16x16 24x24 32x32 48x48">
+<link rel=3D"apple-touch-icon-precomposed" href=3D"https://s2.wp.com/i/webc=
+lip.png">
+<link rel=3D"search" type=3D"application/opensearchdescription+xml" href=3D=
+"https://alfanbro99.wordpress.com/osd.xml" title=3D"Algoritma dan pemrogram=
+an">
+<link rel=3D"search" type=3D"application/opensearchdescription+xml" href=3D=
+"https://s1.wp.com/opensearch.xml" title=3D"WordPress.com">
+<link rel=3D"pingback" href=3D"https://alfanbro99.wordpress.com/xmlrpc.php"=
+><meta name=3D"application-name" content=3D"Algoritma dan pemrograman"><met=
+a name=3D"msapplication-window" content=3D"width=3Ddevice-width;height=3Dde=
+vice-height"><meta name=3D"msapplication-tooltip" content=3D"Jika tidak bis=
+a menjadi orang pintar maka jadikanlah pribadimu menjadi orang yang baik"><=
+meta name=3D"msapplication-task" content=3D"name=3DBerlangganan;action-uri=
+=3Dhttps://alfanbro99.wordpress.com/feed/;icon-uri=3Dhttps://s1.wp.com/i/fa=
+vicon.ico"><meta name=3D"msapplication-task" content=3D"name=3DMendaftar un=
+tuk blog gratis;action-uri=3Dhttp://wordpress.com/signup/;icon-uri=3Dhttps:=
+//s1.wp.com/i/favicon.ico"><meta name=3D"msapplication-task" content=3D"nam=
+e=3DDukungan WordPress.com;action-uri=3Dhttp://support.wordpress.com/;icon-=
+uri=3Dhttps://s1.wp.com/i/favicon.ico"><meta name=3D"msapplication-task" co=
+ntent=3D"name=3DForum WordPress.com;action-uri=3Dhttp://forums.wordpress.co=
+m/;icon-uri=3Dhttps://s1.wp.com/i/favicon.ico"><meta name=3D"description" c=
+ontent=3D"=3D> &nbsp; TUJUAN Menjelaskan tentang instruksi I/O =3D> &nbsp; =
+DASAR TEORI Untuk keperluan menampilkan data/informasi, C menyediakan sejum=
+lah fungsi. Beberapa di antaranya adalah berupa printf() dan putchar() puts=
+(). =3D> &nbsp; Fungsi putchar() Fungsi putchar() digunakan khusus untuk me=
+nampilkan sebuah karakter di layar. Penampilan karakter tidak diakhiri deng=
+an perpindahan baris. Contoh : putchar(=E2=80=98A'); menghasilkan keluaran =
+yang=E2=80=A6">
+	=09
+		<link rel=3D"amphtml" href=3D"https://alfanbro99.wordpress.com/2018/11/08=
+/praktikum-4-2-2-tipe-data-dan-operasi-i-o/amp/">
+
+
+</head>
+
+<body class=3D"post-template-default single single-post postid-68 single-fo=
+rmat-standard wp-embed-responsive customizer-styles-applied no-featured-ima=
+ge style-pack-default admin-bar">
+<div id=3D"page" class=3D"site">
+	<a class=3D"skip-link screen-reader-text" href=3D"https://alfanbro99.wordp=
+ress.com/2018/11/08/praktikum-4-2-2-tipe-data-dan-operasi-i-o/#content">Lan=
+jut ke konten</a>
+
+	<header id=3D"masthead" class=3D"site-header">
+	=09
+	=09
+		<div class=3D"header-wrapper">
+			<div class=3D"site-branding">
+			=09
+				<div class=3D"site-branding-text">
+											<p class=3D"site-title"><a href=3D"https://alfanbro99.wordpress.=
+com/" rel=3D"home">Algoritma dan pemrograman</a></p>
+											<p class=3D"site-description">Jika tidak bisa menjadi orang pint=
+ar maka jadikanlah pribadimu menjadi orang yang baik</p>
+									</div><!-- .site-branding-text -->
+
+			</div><!-- .site-branding -->
+
+		</div><!-- .header-wrapper -->
+
+		<div class=3D"menu-wrapper">
+		=09
+		=09
+					</div><!-- .menu-wrapper -->
+	</header><!-- #masthead -->
+
+=09
+	<div id=3D"content" class=3D"site-content">
+
+	<div id=3D"primary" class=3D"content-area">
+		<main id=3D"main" class=3D"site-main">
+
+	=09
+
+<article id=3D"post-68" class=3D"post-68 post type-post status-publish form=
+at-standard hentry category-tak-berkategori">
+	<header class=3D"entry-header">
+				<div class=3D"entry-meta">
+			<span class=3D"posted-on"><time class=3D"entry-date published" datetime=
+=3D"2018-11-08T14:37:31+07:00">8 November 2018</time><time class=3D"updated=
+" datetime=3D"2018-11-09T09:48:30+07:00">9 November 2018</time></span><span=
+ class=3D"byline"><span class=3D"author vcard"><a class=3D"url fn n" href=
+=3D"https://alfanbro99.wordpress.com/author/arisstyoalfandi/">Aris Styo Alf=
+andi</a></span></span><span class=3D"comments-link"><a href=3D"https://alfa=
+nbro99.wordpress.com/2018/11/08/praktikum-4-2-2-tipe-data-dan-operasi-i-o/#=
+respond">Tinggalkan sebuah Komentar<span class=3D"screen-reader-text"> pada=
+ PRAKTIKUM 4 (2/2) =E2=80=93 Tipe Data Dan Operasi I/O</span></a></span>		<=
+/div><!-- .entry-meta -->
+		<h1 class=3D"entry-title">PRAKTIKUM 4 (2/2) =E2=80=93 Tipe Data Dan Opera=
+si I/O</h1>	</header><!-- .entry-header -->
+
+	<div class=3D"entry-content">
+		<p style=3D"text-align:justify;">=3D&gt; &nbsp; TUJUAN</p>
+<ol style=3D"text-align:justify;">
+<li>Menjelaskan tentang instruksi I/O</li>
+</ol>
+<p style=3D"text-align:justify;">=3D&gt; &nbsp; DASAR TEORI</p>
+<p style=3D"padding-left:60px;text-align:justify;">Untuk keperluan menampil=
+kan data/informasi, C menyediakan sejumlah fungsi.</p>
+<p style=3D"padding-left:60px;text-align:justify;">Beberapa di antaranya ad=
+alah berupa printf() dan putchar() puts().</p>
+<p style=3D"text-align:justify;">=3D&gt; &nbsp; Fungsi putchar()</p>
+<p style=3D"padding-left:60px;text-align:justify;">Fungsi putchar() digunak=
+an khusus untuk menampilkan sebuah karakter di layar. Penampilan karakter t=
+idak diakhiri dengan perpindahan baris.</p>
+<p style=3D"padding-left:60px;text-align:justify;">Contoh :</p>
+<p style=3D"padding-left:60px;text-align:justify;">putchar(=E2=80=98A=E2=80=
+=99);</p>
+<p style=3D"padding-left:60px;text-align:justify;">menghasilkan keluaran ya=
+ng sama dengan</p>
+<p style=3D"padding-left:60px;text-align:justify;">printf(=E2=80=9C%c=E2=80=
+=9D,=E2=80=99A=E2=80=99);</p>
+<p style=3D"padding-left:60px;text-align:justify;">Fungsi printf()</p>
+<p style=3D"padding-left:60px;text-align:justify;">Bentuk umum pernyataan p=
+rintf() :</p>
+<p style=3D"padding-left:60px;text-align:justify;">printf(=E2=80=9Cstring k=
+ontrol=E2=80=9D,argumen1, argumen2,=E2=80=A6);</p>
+<p style=3D"text-align:justify;">String kontrol dapat berupa keterangan yan=
+g akan ditampilkan pada layar beserta penentu format (seperti %d, %f,%c). P=
+enentu format dipakai untuk memberi tahu kompiler mengenai jenis data yang =
+akan ditampilkan. Argumen sesudah string kontrol (argumen1, argumen2,=E2=80=
+=A6)adalah data yang akan ditampilkan ke layar. Argumen ini dapat berupa va=
+riabel, konstanta dan bahkan ungkapan. Misal :</p>
+<p style=3D"text-align:justify;">printf(=E2=80=9C%d=E2=80=9D,20); &nbsp; //=
+argumen berupa konstanta</p>
+<p style=3D"text-align:justify;">printf(=E2=80=9C%d=E2=80=9D,a);&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //argumen berupa variabel=
+</p>
+<p style=3D"text-align:justify;">printf(=E2=80=9C%d=E2=80=9D,a+20);&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; /=
+/argumen berupa ungkapan</p>
+<p style=3D"text-align:justify;">=3D&gt; &nbsp; Fungsi getchar()</p>
+<p style=3D"padding-left:60px;text-align:justify;">Fungsi getchar() digunak=
+an khusus untuk menerima masukan berupa sebuah karakter dari keyboard. Cont=
+oh :</p>
+<p style=3D"padding-left:60px;text-align:justify;">c =3D getchar();</p>
+<p style=3D"padding-left:60px;text-align:justify;">maka variabel c akan ber=
+isi karakter yang diketikkan oleh user atau EOF (end of file) jika ditemui =
+akhir dari file. Selain fungsi scanf() dan getchar() adalagi fungsi lain un=
+tuk menginputkan untuk sebaris karakter yaitu fungsi puts().</p>
+<p style=3D"text-align:justify;">=3D&gt; &nbsp; Fungsi scanf()</p>
+<p style=3D"padding-left:60px;text-align:justify;">Fungsi ini digunakan unt=
+uk memasukkan berbagai jenis data. Misalnya untuk memasukkan data jari-jari=
+ lingkaran pada program menghitung luas lingkaran.</p>
+<p style=3D"padding-left:60px;text-align:justify;">scanf(=E2=80=9C%f=E2=80=
+=9D,&amp;radius);</p>
+<p style=3D"padding-left:60px;text-align:justify;">Bentuk scanf() sesungguh=
+nya menyerupai fungsi printf(). Fungsi ini melibatkan penentu format yang p=
+ada dasarnya sama digunakan pada printf(). Secara umum bentuk scanf() adala=
+h sebagai berikut :</p>
+<p style=3D"padding-left:60px;text-align:justify;">scanf(=E2=80=9Cstring ko=
+ntrol=E2=80=9D, daftar_argumen); Dengan string kontrol dapat berupa :</p>
+<ul style=3D"text-align:justify;">
+<li>Penentu format</li>
+<li>Karakter spasi-putih (white-space)</li>
+<li>Karakter bukan spasi-putih</li>
+</ul>
+<p style=3D"text-align:justify;">=3D&gt; &nbsp; scanf(=E2=80=9C%f=E2=80=9D,=
+ &amp;radius);</p>
+<p style=3D"padding-left:60px;text-align:justify;">Berarti (bagi komputer) =
+: =E2=80=9Cbacalah sebuah bilangan real (%f) dan tempatkan ke alamat dari r=
+adius (&amp;radius)=E2=80=9D.</p>
+<p style=3D"text-align:justify;">=3D=3D&gt;&gt; &nbsp; PERCOBAAN &nbsp; &nb=
+sp;&lt;=3D=3D</p>
+<ol style=3D"text-align:justify;">
+<li>&nbsp;Buatlah program untuk mengkonversi suhu dari Celcius ke Fahrenhei=
+t dengan &nbsp; &nbsp;rumus</li>
+</ol>
+<p style=3D"text-align:justify;padding-left:60px;">F =3D C * 1.8 + 32</p>
+<p style=3D"text-align:justify;padding-left:60px;">Input : suhu dalam Celci=
+us</p>
+<p style=3D"text-align:justify;padding-left:60px;">Output : suhu dalam Fahr=
+enheit</p>
+<ul style=3D"text-align:justify;">
+<li>Bahasa program</li>
+</ul>
+<p style=3D"padding-left:60px;"><img data-attachment-id=3D"150" data-permal=
+ink=3D"https://alfanbro99.wordpress.com/2018/11/08/praktikum-4-2-2-tipe-dat=
+a-dan-operasi-i-o/1-4/" data-orig-file=3D"https://alfanbro99.files.wordpres=
+s.com/2018/11/16.png" data-orig-size=3D"645,153" data-comments-opened=3D"1"=
+ data-image-meta=3D"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:=
+&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quo=
+t;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;=
+&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;=
+,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&qu=
+ot;orientation&quot;:&quot;0&quot;}" data-image-title=3D"1" data-image-desc=
+ription=3D"" data-medium-file=3D"https://alfanbro99.files.wordpress.com/201=
+8/11/16.png?w=3D300" data-large-file=3D"https://alfanbro99.files.wordpress.=
+com/2018/11/16.png?w=3D645" class=3D"alignnone size-full wp-image-150" src=
+=3D"https://alfanbro99.files.wordpress.com/2018/11/16.png?w=3D740" alt=3D"1=
+.PNG" sizes=3D"(max-width: 645px) 100vw, 645px" width=3D"360" height=3D"85"=
+></p>
+<ul style=3D"text-align:justify;">
+<li>Hasil build pada program</li>
+</ul>
+<p style=3D"padding-left:60px;"><img data-attachment-id=3D"151" data-permal=
+ink=3D"https://alfanbro99.wordpress.com/2018/11/08/praktikum-4-2-2-tipe-dat=
+a-dan-operasi-i-o/1-build-3/" data-orig-file=3D"https://alfanbro99.files.wo=
+rdpress.com/2018/11/1-build2.png" data-orig-size=3D"408,90" data-comments-o=
+pened=3D"1" data-image-meta=3D"{&quot;aperture&quot;:&quot;0&quot;,&quot;cr=
+edit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;=
+:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&q=
+uot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&q=
+uot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot=
+;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title=3D"1 =E2=
+=80=93 BUILD" data-image-description=3D"" data-medium-file=3D"https://alfan=
+bro99.files.wordpress.com/2018/11/1-build2.png?w=3D300" data-large-file=3D"=
+https://alfanbro99.files.wordpress.com/2018/11/1-build2.png?w=3D408" class=
+=3D"alignnone size-full wp-image-151" src=3D"https://alfanbro99.files.wordp=
+ress.com/2018/11/1-build2.png?w=3D740" alt=3D"1 - BUILD.PNG" sizes=3D"(max-=
+width: 408px) 100vw, 408px" width=3D"360" height=3D"79"></p>
+<ul style=3D"text-align:justify;">
+<li>Hasil outputnya</li>
+</ul>
+<p style=3D"padding-left:60px;">Tipe data yang digunakan adalah float yang =
+dimana menampilkan angka koma. Namun disini kita menginputkan data mengguna=
+kan keyboard yaitu terdapat perintah scanf. Pada scanf yang dimaksud adalah=
+ %c sehingga pada acuan nilai input dari keyboard adalah variable c. Sehing=
+ga pada printf dituliskan rumus F sehingga nilai c tadi otomatis masuk pada=
+ rumus dan langsung menghasilkan nilai sesuai rumus yang tertera bila kita =
+enter pada saat selesai memasukkan data =E2=80=9Dmasukkan nilai Celcius.=E2=
+=80=9D</p>
+<p>&nbsp;</p>
+<ol style=3D"text-align:justify;" start=3D"2">
+<li>&nbsp; Buat program untuk menginputkan satu karakter dari keyboard kemu=
+dian cetak &nbsp; &nbsp; karakter tersebut ke</li>
+</ol>
+<ul style=3D"text-align:justify;">
+<li>Bahasa program</li>
+</ul>
+<p style=3D"padding-left:60px;"><img data-attachment-id=3D"152" data-permal=
+ink=3D"https://alfanbro99.wordpress.com/2018/11/08/praktikum-4-2-2-tipe-dat=
+a-dan-operasi-i-o/2-3/" data-orig-file=3D"https://alfanbro99.files.wordpres=
+s.com/2018/11/22.png" data-orig-size=3D"603,153" data-comments-opened=3D"1"=
+ data-image-meta=3D"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:=
+&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quo=
+t;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;=
+&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;=
+,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&qu=
+ot;orientation&quot;:&quot;0&quot;}" data-image-title=3D"2" data-image-desc=
+ription=3D"" data-medium-file=3D"https://alfanbro99.files.wordpress.com/201=
+8/11/22.png?w=3D300" data-large-file=3D"https://alfanbro99.files.wordpress.=
+com/2018/11/22.png?w=3D603" class=3D"alignnone size-full wp-image-152" src=
+=3D"https://alfanbro99.files.wordpress.com/2018/11/22.png?w=3D740" alt=3D"2=
+.PNG" sizes=3D"(max-width: 603px) 100vw, 603px" width=3D"360" height=3D"91"=
+></p>
+<ul style=3D"text-align:justify;">
+<li>Hasil build pada program</li>
+</ul>
+<p style=3D"padding-left:60px;"><img data-attachment-id=3D"153" data-permal=
+ink=3D"https://alfanbro99.wordpress.com/2018/11/08/praktikum-4-2-2-tipe-dat=
+a-dan-operasi-i-o/2-build-3/" data-orig-file=3D"https://alfanbro99.files.wo=
+rdpress.com/2018/11/2-build2.png" data-orig-size=3D"403,92" data-comments-o=
+pened=3D"1" data-image-meta=3D"{&quot;aperture&quot;:&quot;0&quot;,&quot;cr=
+edit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;=
+:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&q=
+uot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&q=
+uot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot=
+;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title=3D"2 =E2=
+=80=93 BUILD" data-image-description=3D"" data-medium-file=3D"https://alfan=
+bro99.files.wordpress.com/2018/11/2-build2.png?w=3D300" data-large-file=3D"=
+https://alfanbro99.files.wordpress.com/2018/11/2-build2.png?w=3D403" class=
+=3D"alignnone size-full wp-image-153" src=3D"https://alfanbro99.files.wordp=
+ress.com/2018/11/2-build2.png?w=3D740" alt=3D"2 - BUILD.PNG" sizes=3D"(max-=
+width: 403px) 100vw, 403px" width=3D"360" height=3D"82"></p>
+<ul>
+<li>Hasil outputnya</li>
+</ul>
+<p style=3D"padding-left:60px;">Tipe data yang digunakan adalah char yang m=
+empunyai variable a. Dimana pada a tersebut menjadi tempat ketika kita meng=
+inputkan karakter sembarang pada layar ketika program berjalan. Sehingga pa=
+da saat kita input data berupa karakter entah huruf besar atau kecil maka k=
+etika di enter akan menampilkan karakter yang sesuai apa yang kita inputkan=
+ tadi.</p>
+<p>&nbsp;</p>
+<ol style=3D"text-align:justify;" start=3D"3">
+<li>&nbsp; Buat program untuk menghitung luas lingkaran, dengan panjang jar=
+i-jari yang diinputkan dari keyboard. Definiskan sebuah konstanta PI dengan=
+ nilai 14f</li>
+</ol>
+<ul style=3D"text-align:justify;">
+<li>Bahasa program</li>
+</ul>
+<p style=3D"padding-left:60px;"><img data-attachment-id=3D"154" data-permal=
+ink=3D"https://alfanbro99.wordpress.com/2018/11/08/praktikum-4-2-2-tipe-dat=
+a-dan-operasi-i-o/3-3/" data-orig-file=3D"https://alfanbro99.files.wordpres=
+s.com/2018/11/32.png" data-orig-size=3D"607,158" data-comments-opened=3D"1"=
+ data-image-meta=3D"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:=
+&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quo=
+t;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;=
+&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;=
+,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&qu=
+ot;orientation&quot;:&quot;0&quot;}" data-image-title=3D"3" data-image-desc=
+ription=3D"" data-medium-file=3D"https://alfanbro99.files.wordpress.com/201=
+8/11/32.png?w=3D300" data-large-file=3D"https://alfanbro99.files.wordpress.=
+com/2018/11/32.png?w=3D607" class=3D"alignnone size-full wp-image-154" src=
+=3D"https://alfanbro99.files.wordpress.com/2018/11/32.png?w=3D740" alt=3D"3=
+.PNG" sizes=3D"(max-width: 607px) 100vw, 607px" width=3D"360" height=3D"94"=
+></p>
+<ul style=3D"text-align:justify;">
+<li>Hasil build pada program</li>
+</ul>
+<p style=3D"padding-left:60px;"><img data-attachment-id=3D"155" data-permal=
+ink=3D"https://alfanbro99.wordpress.com/2018/11/08/praktikum-4-2-2-tipe-dat=
+a-dan-operasi-i-o/3-build-3/" data-orig-file=3D"https://alfanbro99.files.wo=
+rdpress.com/2018/11/3-build2.png" data-orig-size=3D"404,86" data-comments-o=
+pened=3D"1" data-image-meta=3D"{&quot;aperture&quot;:&quot;0&quot;,&quot;cr=
+edit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;=
+:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&q=
+uot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&q=
+uot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot=
+;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title=3D"3 =E2=
+=80=93 BUILD" data-image-description=3D"" data-medium-file=3D"https://alfan=
+bro99.files.wordpress.com/2018/11/3-build2.png?w=3D300" data-large-file=3D"=
+https://alfanbro99.files.wordpress.com/2018/11/3-build2.png?w=3D404" class=
+=3D"alignnone size-full wp-image-155" src=3D"https://alfanbro99.files.wordp=
+ress.com/2018/11/3-build2.png?w=3D740" alt=3D"3 - BUILD.PNG" sizes=3D"(max-=
+width: 404px) 100vw, 404px" width=3D"360" height=3D"77"></p>
+<ul style=3D"text-align:justify;">
+<li>Hasil outputnya</li>
+</ul>
+<p style=3D"padding-left:60px;">Tipe data yang digunakan adalah float yang =
+mempunyai variable r dan r disini berperan sebagai wadah saat kita menginpu=
+tkan data pada layar. Dan saat kita menginputkan nilai meskipun bentuknya k=
+oma maka otomatis nilai r tersebut masuk rumus luas lingkaran yang ditulis =
+pada program dan menampilkan hasilnya ketik dienter.</p>
+<p>&nbsp;</p>
+<p>4. &nbsp; Pilihlah nama-nama variabel yang benar dan yang salah, mengapa=
+ ?</p>
+<table>
+<tbody>
+<tr>
+<td width=3D"72">int</td>
+<td width=3D"77">char</td>
+<td width=3D"69">6_05</td>
+<td width=3D"127">floating</td>
+<td width=3D"165">_1312</td>
+</tr>
+<tr>
+<td width=3D"72">calloc</td>
+<td width=3D"77">Xx</td>
+<td width=3D"69">A$</td>
+<td width=3D"127">ReInitialize</td>
+<td width=3D"165">alpha_beta_routine</td>
+</tr>
+<tr>
+<td width=3D"72">xxx</td>
+<td width=3D"77">z</td>
+<td width=3D"69"></td>
+<td width=3D"127"></td>
+<td width=3D"165"></td>
+</tr>
+</tbody>
+</table>
+<ul style=3D"text-align:justify;">
+<li><strong>Nama variabel yang benar :</strong>
+<ul>
+<li>Boleh diawali dengan huruf capital, seperti : Xx,&nbsp;<strong>A$, ReIn=
+itialize, </strong></li>
+<li>Dapat berupa huruf, seperti : z, xxx, floating</li>
+<li>Dapat berupa digit, seperti : <strong>6_05, _1312.</strong></li>
+<li>Dapat berupa karakter garis bawah, seperti : alpha_beta_routine</li>
+<li>Dapat berupa tanda dollar, seperti : <strong>A$.</strong></li>
+<li>Panjang pengenal boleh &gt; 31 karakter, tetapi hanya 31 karakter perta=
+ma yang akan dianggap berarti, seperti : <strong>calloc, xxx.</strong></li>
+</ul>
+</li>
+</ul>
+<ul style=3D"text-align:justify;">
+<li><strong>Nama variabel yang salah :</strong>
+<ul>
+<li>Pengenal tidak boleh menggunakan nama yang tergolong sebagai kata-kata =
+cadangan (reserved words), seperti <strong>int, char.</strong></li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>5. &nbsp; Apa yang dihasilkan oleh program di bawah ini :</p>
+<p style=3D"text-align:justify;padding-left:30px;">main()</p>
+<p style=3D"text-align:justify;padding-left:30px;">{</p>
+<p style=3D"text-align:justify;padding-left:30px;">char c, d;</p>
+<p style=3D"text-align:justify;padding-left:30px;">c =3D =E2=80=98d=E2=80=
+=99; d =3D c;</p>
+<p style=3D"text-align:justify;padding-left:30px;">printf(=E2=80=9Cd =3D %c=
+=E2=80=9D, d);</p>
+<p style=3D"text-align:justify;padding-left:30px;">}</p>
+<ul style=3D"text-align:justify;">
+<li>Bahasa program</li>
+</ul>
+<p style=3D"padding-left:60px;"><img data-attachment-id=3D"156" data-permal=
+ink=3D"https://alfanbro99.wordpress.com/2018/11/08/praktikum-4-2-2-tipe-dat=
+a-dan-operasi-i-o/5-3/" data-orig-file=3D"https://alfanbro99.files.wordpres=
+s.com/2018/11/52.png" data-orig-size=3D"607,156" data-comments-opened=3D"1"=
+ data-image-meta=3D"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:=
+&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quo=
+t;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;=
+&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;=
+,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&qu=
+ot;orientation&quot;:&quot;0&quot;}" data-image-title=3D"5" data-image-desc=
+ription=3D"" data-medium-file=3D"https://alfanbro99.files.wordpress.com/201=
+8/11/52.png?w=3D300" data-large-file=3D"https://alfanbro99.files.wordpress.=
+com/2018/11/52.png?w=3D607" class=3D"alignnone size-full wp-image-156" src=
+=3D"https://alfanbro99.files.wordpress.com/2018/11/52.png?w=3D740" alt=3D"5=
+" sizes=3D"(max-width: 607px) 100vw, 607px" width=3D"360" height=3D"93"></p=
+>
+<ul style=3D"text-align:justify;">
+<li>Hasil build pada program</li>
+</ul>
+<p style=3D"padding-left:60px;"><img data-attachment-id=3D"157" data-permal=
+ink=3D"https://alfanbro99.wordpress.com/2018/11/08/praktikum-4-2-2-tipe-dat=
+a-dan-operasi-i-o/5-build-3/" data-orig-file=3D"https://alfanbro99.files.wo=
+rdpress.com/2018/11/5-build2.png" data-orig-size=3D"402,82" data-comments-o=
+pened=3D"1" data-image-meta=3D"{&quot;aperture&quot;:&quot;0&quot;,&quot;cr=
+edit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;=
+:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&q=
+uot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&q=
+uot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot=
+;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title=3D"5 =E2=
+=80=93 BUILD" data-image-description=3D"" data-medium-file=3D"https://alfan=
+bro99.files.wordpress.com/2018/11/5-build2.png?w=3D300" data-large-file=3D"=
+https://alfanbro99.files.wordpress.com/2018/11/5-build2.png?w=3D402" class=
+=3D"alignnone size-full wp-image-157" src=3D"https://alfanbro99.files.wordp=
+ress.com/2018/11/5-build2.png?w=3D740" alt=3D"5 - BUILD" sizes=3D"(max-widt=
+h: 402px) 100vw, 402px" width=3D"360" height=3D"73"></p>
+<ul style=3D"text-align:justify;">
+<li>Hasil outputnya</li>
+</ul>
+<p style=3D"padding-left:60px;">Tipe data yang digunakan adalah char. Sehin=
+gga pada =E2=80=99d=E2=80=99 ini merupakan nilai yang nantinya akan ditampi=
+lkan pada monitor ketika program dijalankan.</p>
+<p>&nbsp;</p>
+<p>6. &nbsp; Buatlah program untuk mengevaluasi polynomial di bawah ini :</=
+p>
+<p style=3D"text-align:justify;padding-left:30px;">3x<sup>2</sup> =E2=80=93=
+ 5x +&nbsp; 6 &nbsp; dengan nilai x merupakan masukan dari user.</p>
+<ul style=3D"text-align:justify;">
+<li>Bahasa program</li>
+</ul>
+<p style=3D"padding-left:60px;"><img data-attachment-id=3D"158" data-permal=
+ink=3D"https://alfanbro99.wordpress.com/2018/11/08/praktikum-4-2-2-tipe-dat=
+a-dan-operasi-i-o/6-3/" data-orig-file=3D"https://alfanbro99.files.wordpres=
+s.com/2018/11/62.png" data-orig-size=3D"628,154" data-comments-opened=3D"1"=
+ data-image-meta=3D"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:=
+&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quo=
+t;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;=
+&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;=
+,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&qu=
+ot;orientation&quot;:&quot;0&quot;}" data-image-title=3D"6" data-image-desc=
+ription=3D"" data-medium-file=3D"https://alfanbro99.files.wordpress.com/201=
+8/11/62.png?w=3D300" data-large-file=3D"https://alfanbro99.files.wordpress.=
+com/2018/11/62.png?w=3D628" class=3D"alignnone size-full wp-image-158" src=
+=3D"https://alfanbro99.files.wordpress.com/2018/11/62.png?w=3D740" alt=3D"6=
+.PNG" sizes=3D"(max-width: 628px) 100vw, 628px" width=3D"360" height=3D"88"=
+></p>
+<ul style=3D"text-align:justify;">
+<li>Hasil build pada program</li>
+</ul>
+<p style=3D"padding-left:60px;"><img data-attachment-id=3D"159" data-permal=
+ink=3D"https://alfanbro99.wordpress.com/2018/11/08/praktikum-4-2-2-tipe-dat=
+a-dan-operasi-i-o/6-build-3/" data-orig-file=3D"https://alfanbro99.files.wo=
+rdpress.com/2018/11/6-build2.png" data-orig-size=3D"404,89" data-comments-o=
+pened=3D"1" data-image-meta=3D"{&quot;aperture&quot;:&quot;0&quot;,&quot;cr=
+edit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;=
+:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&q=
+uot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&q=
+uot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot=
+;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title=3D"6 =E2=
+=80=93 BUILD" data-image-description=3D"" data-medium-file=3D"https://alfan=
+bro99.files.wordpress.com/2018/11/6-build2.png?w=3D300" data-large-file=3D"=
+https://alfanbro99.files.wordpress.com/2018/11/6-build2.png?w=3D404" class=
+=3D"alignnone size-full wp-image-159" src=3D"https://alfanbro99.files.wordp=
+ress.com/2018/11/6-build2.png?w=3D740" alt=3D"6 - BUILD.PNG" sizes=3D"(max-=
+width: 404px) 100vw, 404px" width=3D"360" height=3D"79"></p>
+<ul style=3D"text-align:justify;">
+<li>Hasil outputnya</li>
+</ul>
+<p style=3D"padding-left:60px;">Tipe data yang digunakan adalah float dan m=
+empunyai variable x yang dimana x ini adalah nilai input ketika kita mengin=
+putkan data pada layar. Sehingga nilai x yang kita inputkan tadi ketika die=
+nter maka otomatis x akan masuk ke rumus dan menampilkan hasil dari printf =
+sendiri.</p>
+<p style=3D"text-align:justify;">
+</p><div id=3D"atatags-370373-5d9b4eed3ca27">
+       =20
+    </div>		<div class=3D"wpcnt">
+			<div class=3D"wpa wpmrec">
+				<span class=3D"wpa-about">Iklan</span>
+				<div class=3D"u">		<div style=3D"padding-bottom:15px;width:300px;height=
+:250px;float:left;margin-right:5px;margin-top:0px">
+			<div id=3D"atatags-26942-5d9b4eed3ca76">
+			=09
+			</div>
+		</div>		<div style=3D"padding-bottom:15px;width:300px;height:250px;float:=
+left;margin-top:0px">
+			<div id=3D"atatags-114160-5d9b4eed3ca7e">
+			=09
+			</div>
+		</div></div>
+			=09
+			</div>
+		</div><div id=3D"jp-post-flair" class=3D"sharedaddy sd-like-enabled sd-sh=
+aring-enabled"><div class=3D"sharedaddy sd-sharing-enabled"><div class=3D"r=
+obots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 clas=
+s=3D"sd-title">Bagikan ini:</h3><div class=3D"sd-content"><ul><li class=3D"=
+share-twitter"><a rel=3D"nofollow noopener noreferrer" data-shared=3D"shari=
+ng-twitter-68" class=3D"share-twitter sd-button share-icon" href=3D"https:/=
+/alfanbro99.wordpress.com/2018/11/08/praktikum-4-2-2-tipe-data-dan-operasi-=
+i-o/?share=3Dtwitter" target=3D"_blank" title=3D"Klik untuk berbagi pada Tw=
+itter"><span>Twitter</span></a></li><li class=3D"share-facebook"><a rel=3D"=
+nofollow noopener noreferrer" data-shared=3D"sharing-facebook-68" class=3D"=
+share-facebook sd-button share-icon" href=3D"https://alfanbro99.wordpress.c=
+om/2018/11/08/praktikum-4-2-2-tipe-data-dan-operasi-i-o/?share=3Dfacebook" =
+target=3D"_blank" title=3D"Click to share on Facebook"><span>Facebook</span=
+></a></li><li class=3D"share-end"></li></ul></div></div></div><div class=3D=
+"sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-wid=
+get-unloaded" id=3D"like-post-wrapper-154036903-68-5d9b4eed3e433" data-src=
+=3D"//widgets.wp.com/likes/index.html?ver=3D20190321#blog_id=3D154036903&am=
+p;post_id=3D68&amp;origin=3Dalfanbro99.wordpress.com&amp;obj_id=3D154036903=
+-68-5d9b4eed3e433" data-name=3D"like-post-frame-154036903-68-5d9b4eed3e433"=
+><h3 class=3D"sd-title">Sukai ini:</h3><div class=3D"likes-widget-placehold=
+er post-likes-widget-placeholder" style=3D"height: 55px;"><span class=3D"bu=
+tton"><span>Suka</span></span> <span class=3D"loading">Memuat...</span></di=
+v><span class=3D"sd-text-color"></span><a class=3D"sd-link-color"></a></div=
+>
+<div id=3D"jp-relatedposts" class=3D"jp-relatedposts">
+	<h3 class=3D"jp-relatedposts-headline"><em>Terkait</em></h3>
+</div></div>	</div><!-- .entry-content -->
+
+	<footer class=3D"entry-footer">
+			<div class=3D"entry-author author-avatar-show">
+				<div class=3D"author-avatar">
+			<img alt=3D"" src=3D"https://0.gravatar.com/avatar/988c954a195aa1dfe7c51=
+1259b6dd858?s=3D120&amp;d=3Didenticon&amp;r=3DG" class=3D"avatar avatar-60"=
+ height=3D"60" width=3D"60" originals=3D"60" src-orig=3D"https://0.gravatar=
+.com/avatar/988c954a195aa1dfe7c511259b6dd858?s=3D60&amp;d=3Didenticon&amp;r=
+=3DG" scale=3D"2">		</div><!-- .author-avatar -->
+	=09
+		<div class=3D"author-heading">
+			<h2 class=3D"author-title">Diterbitkan oleh <span class=3D"author-name">=
+Aris Styo Alfandi</span></h2>
+		</div><!-- .author-heading -->
+
+		<p class=3D"author-bio">
+			Jika tidak bisa menjadi orang yang pandai, jadilah orang yang baik dan b=
+ermanfaat untuk yang lain			<a class=3D"author-link" href=3D"https://alfanb=
+ro99.wordpress.com/author/arisstyoalfandi/" rel=3D"author">
+				Lihat semua pos milik Aris Styo Alfandi			</a>
+		</p><!-- .author-bio -->
+	</div><!-- .entry-auhtor -->
+
+		<div class=3D"entry-links">
+			<span class=3D"cat-links"><svg class=3D"icon icon-category" aria-labelle=
+dby=3D"title-5d9b4eed3fb68" role=3D"img"><title id=3D"title-5d9b4eed3fb68">=
+Kategori</title> <use href=3D"#icon-category" xmlns:xlink=3D"http://www.w3.=
+org/1999/xlink" xlink:href=3D"#icon-category"><template shadowmode=3D"close=
+d"><svg id=3D"icon-category" viewBox=3D"0 0 32 32" width=3D"100%" height=3D=
+"100%">
+<title>category</title>
+<path d=3D"M26 10h-10l-1.4-2.8c-0.4-0.8-1-1.2-1.8-1.2h-6.8c-1 0-2 1-2 2v16c=
+0 1.2 1 2 2 2h20c1.2 0 2-0.8 2-2v-12c0-1.2-0.8-2-2-2z"></path>
+</svg></template></use> </svg><a href=3D"https://alfanbro99.wordpress.com/c=
+ategory/tak-berkategori/" rel=3D"category tag">Tak Berkategori</a></span>		=
+</div>
+	</footer><!-- .entry-footer -->
+</article><!-- #post-68 -->
+
+<div id=3D"comments" class=3D"comments-area">
+		<div class=3D"respond">
+		<div class=3D"respond-wrapper">
+		=09
+				<div id=3D"respond" class=3D"comment-respond">
+		<h3 id=3D"reply-title" class=3D"comment-reply-title">Tinggalkan Balasan <=
+small><a rel=3D"nofollow" id=3D"cancel-comment-reply-link" href=3D"https://=
+alfanbro99.wordpress.com/2018/11/08/praktikum-4-2-2-tipe-data-dan-operasi-i=
+-o/#respond" style=3D"display:none;">Batalkan balasan</a></small></h3>			<f=
+orm action=3D"https://alfanbro99.wordpress.com/wp-comments-post.php" method=
+=3D"post" id=3D"commentform" class=3D"comment-form" novalidate=3D"">
+				<p class=3D"comment-notes"><span id=3D"email-notes">Alamat surel Anda t=
+idak akan dipublikasikan.</span> Ruas yang wajib ditandai <span class=3D"re=
+quired">*</span></p><p class=3D"comment-form-comment"><label for=3D"comment=
+">Komentar</label> <textarea id=3D"comment" name=3D"comment" cols=3D"45" ro=
+ws=3D"8" maxlength=3D"65525" required=3D"required" disabled=3D""></textarea=
+></p><p class=3D"comment-form-author"><label for=3D"author">Nama <span clas=
+s=3D"required">*</span></label> <input id=3D"author" name=3D"author" type=
+=3D"text" value=3D"" size=3D"30" maxlength=3D"245" required=3D"required" di=
+sabled=3D""></p>
+<p class=3D"comment-form-email"><label for=3D"email">Surel <span class=3D"r=
+equired">*</span></label> <input id=3D"email" name=3D"email" type=3D"email"=
+ value=3D"" size=3D"30" maxlength=3D"100" aria-describedby=3D"email-notes" =
+required=3D"required" disabled=3D""></p>
+<p class=3D"comment-form-url"><label for=3D"url">Situs Web</label> <input i=
+d=3D"url" name=3D"url" type=3D"url" value=3D"" size=3D"30" maxlength=3D"200=
+" disabled=3D""></p>
+<p class=3D"form-submit"><input name=3D"submit" type=3D"submit" id=3D"submi=
+t" class=3D"submit" value=3D"Kirim Komentar" disabled=3D"">=20
+
+</p><p style=3D"display: none;"></p>
+
+<p class=3D"comment-subscription-form"><input type=3D"checkbox" name=3D"sub=
+scribe" id=3D"subscribe" value=3D"subscribe" style=3D"width: auto;" disable=
+d=3D""> <label class=3D"subscribe-label" id=3D"subscribe-label" for=3D"subs=
+cribe" style=3D"display: inline;">Beri tahu saya komentar baru melalui emai=
+l.</label></p><p class=3D"post-subscription-form"><input type=3D"checkbox" =
+name=3D"subscribe_blog" id=3D"subscribe_blog" value=3D"subscribe" style=3D"=
+width: auto;" disabled=3D""> <label class=3D"subscribe-label" id=3D"subscri=
+be-blog-label" for=3D"subscribe_blog" style=3D"display: inline;">Beritahu s=
+aya pos-pos baru lewat surat elektronik.</label></p><p style=3D"display: no=
+ne;"></p>			</form>
+			</div><!-- #respond -->
+			</div>
+	</div>
+</div><!-- #comments -->
+			<div class=3D"post-nav-wrapper">
+			=09
+	<nav class=3D"navigation post-navigation" role=3D"navigation">
+		<h2 class=3D"screen-reader-text">Navigasi pos</h2>
+		<div class=3D"nav-links"><div class=3D"nav-previous"><a href=3D"https://a=
+lfanbro99.wordpress.com/2018/11/08/praktikum-5-1-3-pengambilan-keputusan/" =
+rel=3D"prev"><span class=3D"meta-nav">Previous</span> PRAKTIKUM 5 (1/3) =E2=
+=80=93 Pengambilan Keputusan</a></div><div class=3D"nav-next"><a href=3D"ht=
+tps://alfanbro99.wordpress.com/2018/11/08/praktikum-4-1-2-tipe-data-dan-ope=
+rasi-i-o/" rel=3D"next"><span class=3D"meta-nav">Next</span> PRAKTIKUM 4 (1=
+/2) =E2=80=93 Tipe Data Dan Operasi I/O</a></div></div>
+	</nav>			</div><!-- .post-nav-wrapper -->
+	=09
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside class=3D"widget-area">
+	<div class=3D"widget-wrapper">
+					<div class=3D"widget-column footer-widget-1">
+				<section id=3D"search-1" class=3D"widget widget_search"><h2 class=3D"wi=
+dget-title">Cari</h2><form role=3D"search" method=3D"get" class=3D"search-f=
+orm" action=3D"https://alfanbro99.wordpress.com/">
+				<label>
+					<span class=3D"screen-reader-text">Cari untuk:</span>
+					<input type=3D"search" class=3D"search-field" placeholder=3D"Cari =E2=
+=80=A6" value=3D"" name=3D"s" disabled=3D"">
+				</label>
+				<input type=3D"submit" class=3D"search-submit" value=3D"Cari" disabled=
+=3D"">
+			</form></section><section id=3D"text-1" class=3D"widget widget_text"><h2=
+ class=3D"widget-title">Widget Teks Bilah Sisi</h2>			<div class=3D"textwid=
+get">Ini adalah widget teks. Widget Teks memungkinkan Anda menambahkan teks=
+ atau HTML ke segala bilah sisi yang mungkin ada di tema Anda Anda dapat me=
+nggunakan widget teks untuk menampilkan teks, tautan, gambar, HTML, atau pe=
+rpaduan semua hal itu. Edit semua itu di bagian Widget dari <a href=3D"http=
+s://wordpress.com/customize/">Customizer</a>.</div>
+		</section>		<div class=3D"wpcnt">
+			<div class=3D"wpa wpmrec">
+				<span class=3D"wpa-about">Iklan</span>
+				<div class=3D"u">
+							<div style=3D"padding-bottom:15px;width:300px;height:250px;">
+			<div id=3D"atatags-286348-5d9b4eed416b9">
+			=09
+			</div>
+		</div>
+				</div>
+			=09
+			</div>
+		</div>			</div>
+			</div>
+</aside><!-- #secondary -->
+
+	</div><!-- #content -->
+
+=09
+	<footer id=3D"colophon" class=3D"site-footer">
+		<div class=3D"site-info">
+			<a href=3D"https://wordpress.com/?ref=3Dfooter_blog" rel=3D"nofollow">Bl=
+og di WordPress.com.</a>
+		=09
+					</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!--  -->
+<div id=3D"wpadminbar" class=3D"marketing-bar"><div class=3D"marketing-bar-=
+text">Buat situs web Anda di WordPress.com</div><a class=3D"marketing-bar-b=
+utton" href=3D"https://id.wordpress.com/?ref=3Dmarketing_bar">Mulai</a></di=
+v>
+	<div id=3D"carousel-reblog-box">
+		<form action=3D"https://alfanbro99.wordpress.com/2018/11/08/praktikum-4-2=
+-2-tipe-data-dan-operasi-i-o/#" name=3D"carousel-reblog">
+			<textarea id=3D"carousel-reblog-content" name=3D"carousel-reblog-content=
+" placeholder=3D"Tambahkan pemikiran Anda di sini... (opsional)" disabled=
+=3D""></textarea>
+			<label for=3D"carousel-reblog-to-blog-id" id=3D"carousel-reblog-lblogid"=
+>Tuliskan ke</label>
+			<select name=3D"carousel-reblog-to-blog-id" id=3D"carousel-reblog-to-blo=
+g-id" disabled=3D"">
+						</select>
+
+			<div class=3D"submit">
+				<span class=3D"canceltext"><a href=3D"https://alfanbro99.wordpress.com/=
+2018/11/08/praktikum-4-2-2-tipe-data-dan-operasi-i-o/#" class=3D"cancel">Ba=
+tal</a></span>
+				<input type=3D"submit" name=3D"carousel-reblog-submit" class=3D"button"=
+ id=3D"carousel-reblog-submit" value=3D"Blog Ulang Pos" disabled=3D"">
+			=09
+			=09
+			=09
+			=09
+			=09
+			</div>
+
+					</form>
+
+		<div class=3D"arrow"></div>
+	</div>
+
+=09
+				<div class=3D"widget widget_eu_cookie_law_widget"><div class=3D"hide-on=
+-button ads-active" data-hide-timeout=3D"30" data-consent-expiration=3D"180=
+" id=3D"eu-cookie-law">
+	<form method=3D"post">
+		<input type=3D"submit" value=3D"Tutup dan terima" class=3D"accept" disabl=
+ed=3D"">
+
+		Privasi &amp; Cookie: Situs ini menggunakan cookie. Dengan melanjutkan me=
+nggunakan situs web ini, Anda setuju dengan penggunaan mereka. <br>
+Untuk mengetahui lebih lanjut, termasuk cara mengontrol cookie, lihat di si=
+ni:
+		<a href=3D"https://automattic.com/cookies">
+			Kebijakan Cookie		</a>
+ </form>
+</div>
+</div><link rel=3D"stylesheet" id=3D"all-css-0-2" href=3D"https://s0.wp.com=
+/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=3D1563361695h&amp;cs=
+sminify=3Dyes" type=3D"text/css" media=3D"all">
+
+
+
+
+
+
+
+		<iframe src=3D"cid:frame-141-2be05a65-2c5d-4bac-8649-9a56dd17ea54@mhtml.b=
+link" scrolling=3D"no" id=3D"likes-master" name=3D"likes-master" style=3D"d=
+isplay:none;"></iframe>
+		<div id=3D"likes-other-gravatars"><div class=3D"likes-text"><span>%d</spa=
+n> blogger menyukai ini:</div><ul class=3D"wpl-avatars sd-like-gravatars"><=
+/ul></div>
+
+
+
+<svg style=3D"position: absolute; width: 0; height: 0; overflow: hidden;" v=
+ersion=3D"1.1" xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://w=
+ww.w3.org/1999/xlink">
+<defs>
+<symbol id=3D"icon-search" viewBox=3D"0 0 32 32">
+<title>search</title>
+<path d=3D"M29.4 26.6l-7.4-7.4c1.2-1.8 2-4 2-6.2 0-6-5-11-11-11s-11 5-11 11=
+ 5 11 11 11c2.4 0 4.4-0.8 6.2-2l7.4 7.4 2.8-2.8zM5 13c0-4.4 3.6-8 8-8s8 3.6=
+ 8 8-3.6 8-8 8-8-3.6-8-8z"></path>
+</symbol>
+<symbol id=3D"icon-previous" viewBox=3D"0 0 32 32">
+<title>previous</title>
+<path d=3D"M26 14h-13.2l4.6-4.6-2.8-2.8-9.4 9.4 9.4 9.4 2.8-2.8-4.6-4.6h13.=
+2z"></path>
+</symbol>
+<symbol id=3D"icon-next" viewBox=3D"0 0 32 32">
+<title>next</title>
+<path d=3D"M6 14h13.2l-4.6-4.6 2.8-2.8 9.4 9.4-9.4 9.4-2.8-2.8 4.6-4.6h-13.=
+2z"></path>
+</symbol>
+<symbol id=3D"icon-tag" viewBox=3D"0 0 32 32">
+<title>tag</title>
+<path d=3D"M22.6 8.6c-0.4-0.4-0.8-0.6-1.4-0.6h-15.2c-1 0-2 1-2 2v12c0 1.2 1=
+ 2 2 2h15.2c0.6 0 1-0.2 1.4-0.6l7.4-7.4-7.4-7.4zM20 18c-1 0-2-1-2-2s1-2 2-2=
+ 2 1 2 2-1 2-2 2z"></path>
+</symbol>
+<symbol id=3D"icon-category" viewBox=3D"0 0 32 32">
+<title>category</title>
+<path d=3D"M26 10h-10l-1.4-2.8c-0.4-0.8-1-1.2-1.8-1.2h-6.8c-1 0-2 1-2 2v16c=
+0 1.2 1 2 2 2h20c1.2 0 2-0.8 2-2v-12c0-1.2-0.8-2-2-2z"></path>
+</symbol>
+<symbol id=3D"icon-expand" viewBox=3D"0 0 32 32">
+<title>expand</title>
+<path d=3D"M16 25.4l-13.4-13.4 2.8-2.8 10.6 10.6 10.6-10.6 2.8 2.8z"></path=
+>
+</symbol>
+<symbol id=3D"icon-menu" viewBox=3D"0 0 32 32">
+<title>menu</title>
+<path d=3D"M0 28h32v-4h-32v4zM0 4v4h32v-4h-32zM0 18h32v-4h-32v4z"></path>
+</symbol>
+<symbol id=3D"icon-location" viewBox=3D"0 0 16 16">
+<title>location</title>
+<path d=3D"M11.5 3.5c-2-2-5.1-2-7.1 0s-2 5.1 0 7.1L8 14.1l3.5-3.5c2-2 2-5.2=
+ 0-7.1zM9.4 8.4c-.8.8-2 .8-2.8 0-.8-.8-.8-2 0-2.8.8-.8 2-.8 2.8 0 .8.8.8 2 =
+0 2.8z"></path>
+</symbol>
+<symbol id=3D"icon-phone" viewBox=3D"0 0 16 16">
+<title>phone</title>
+<path d=3D"M10 1H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h4c1.1 0 2-.9 2-2V3c0-1.=
+1-.9-2-2-2zM8.5 14h-1c-.3 0-.5-.2-.5-.5s.2-.5.5-.5h1c.3 0 .5.2.5.5s-.2.5-.5=
+.5zm2.5-2H5V3h6v9z"></path>
+</symbol>
+<symbol id=3D"icon-mail" viewBox=3D"0 0 16 16">
+<title>mail</title>
+<path d=3D"M12 3H4c-1.1 0-2 .9-2 2v5c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V5c0-1.1=
+-.9-2-2-2zm1 3.2L8 9.1 3 6.2V5l5 2.9L13 5v1.2z"></path>
+</symbol>
+<symbol id=3D"icon-time" viewBox=3D"0 0 16 16">
+<title>time</title>
+<path d=3D"M8 2C4.7 2 2 4.7 2 8s2.7 6 6 6 6-2.7 6-6-2.7-6-6-6zm2.5 9.5L7.2 =
+8.3V4h1.5v3.7l2.8 2.8-1 1z"></path>
+</symbol>
+<symbol id=3D"icon-cart" viewBox=3D"0 0 16 16">
+<title>cart</title>
+<path d=3D"M11,12c-0.6,0-1,0.4-1,1s0.4,1,1,1s1-0.4,1-1S11.6,12,11,12z M5,12=
+c-0.6,0-1,0.4-1,1s0.4,1,1,1s1-0.4,1-1 S5.6,12,5,12z M11,10H5V9h5.6c0.8,0,1.=
+5-0.5,1.9-1.3L14,4H5V3c0-0.6-0.4-1-1-1H2v1h2v7c0,0.6,0.4,1,1,1h6h1C12,10.4,=
+11.6,10,11,10z"></path>
+</symbol>
+<symbol id=3D"icon-zoom" viewBox=3D"0 0 16 16">
+<title>zoom</title>
+<path d=3D"M7,4H6v2H4v1h2v2h1V7h2V6H7V4z M11,9.6c0.6-0.9,1-2,1-3.1C12,3.5,9=
+.5,1,6.5,1S1,3.5,1,6.5S3.5,12,6.5,12 c1.2,0,2.2-0.4,3.1-1l3.7,3.7l1.4-1.4L1=
+1,9.6z M6.5,10.5c-2.2,0-4-1.8-4-4s1.8-4,4-4s4,1.8,4,4S8.7,10.5,6.5,10.5z"><=
+/path>
+</symbol>
+<symbol id=3D"icon-edit" viewBox=3D"0 0 16 16">
+<title>edit</title>
+<g>
+	<path d=3D"M12.6,6.9l0.5-0.5c0.8-0.8,0.8-2,0-2.8l-0.7-0.7c-0.8-0.8-2-0.8-2=
+.8,0L9.1,3.4L12.6,6.9z"></path>
+	<polygon points=3D"8.4,4.1 2,10.5 2,14 5.5,14 11.9,7.6"></polygon>
+</g>
+</symbol>
+<symbol id=3D"icon-close" viewBox=3D"0 0 32 32">
+<title>close</title>
+<path d=3D"M25.4 9.4l-2.8-2.8-6.6 6.6-6.6-6.6-2.8 2.8 6.6 6.6-6.6 6.6 2.8 2=
+.8 6.6-6.6 6.6 6.6 2.8-2.8-6.6-6.6z"></path>
+</symbol>
+</defs>
+</svg>
+
+
+
+<img src=3D"https://pixel.wp.com/g.gif?blog=3D154036903&amp;v=3Dwpcom&amp;t=
+z=3D7&amp;user_id=3D0&amp;post=3D68&amp;subd=3Dalfanbro99&amp;host=3Dalfanb=
+ro99.wordpress.com&amp;ref=3D&amp;fcp=3D0&amp;rand=3D0.7491920010597346" al=
+t=3D":)" id=3D"wpstats" scale=3D"0">
+</body></html>
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://s1.wp.com/_static/??-eJyNVFuS4yAMvNBiks08aj629iyAFaIxGBfC5c3tV0CSiZMylR9bgm6pJQFymYQJY4IxST+Lyc0WR5LLZIIX5NHB+cHrDNEveUfTLtgb0as4QMLRCq2iZOh6pU1eQuxVT9K6oJV7wt7pi+BUgl5MgdKD16I5HIDkN6RJmUEU7wl+xdqZXQ3R8k4E+dF9dDupZ3R9Fl3oOqp4lpTODl4IU1gkuRUDxKtXA7ZDmHAB77v9gUX0SKlqoK4yS5RN/nF2ThAmENBjmUTdkbvuS5aecS2UqqQa/XG11dTcHl73k0oZ4TmJAgeeYS3agr0FHl4+I9UWCf61KeUcaj1FIBL89Th7kU6cqzl2ZmU1deAl4WqlUlGOISGz6WY8xayp5DRrGVVvHB6PIH5vjG8DrIiuZV9m+CIRR1MzidKHV3oLM++GAUE4tcgEfsoXhTYE3wWwEASLUwnDuHLE0Sl8vsarq5nvNJu21PjjtkjK5OD5ybhZLXg+nlWJpJOKOdfl32JRMKgcl2LD2tmawOnt7in66//s3z93+7fPw9fh+z9e3PVV?cssminify=yes
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://alfanbro99.files.wordpress.com/2018/11/16.png?w=740
+
+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
+AAAASUVORK5CYII=
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://alfanbro99.files.wordpress.com/2018/11/1-build2.png?w=740
+
+iVBORw0KGgoAAAANSUhEUgAAAZgAAABaCAYAAACFbEBeAAAABGdBTUEAALGPC/xhBQAAAAFzUkdC
+AK7OHOkAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAdrSURBVHja7d1rbts6EIZht8jC/DNr6YK6lvz0
+znKQAgIcHfFOilT8vIDQOpSo4fDycUZy8uv94+/nx/ufGwAAPfnNBQAAAgM08ng8OEH/gMCMGbwG
+cNw3Of4pObfnYqP/QMyuxdtVB8X9fl9+wO5t/CqfbXfIf9vn1KRboQ0r9HPMB6Hy2PhIjZ3W+ntc
+38v+2f1zdE5L22vFLNYHP2aOfT3kv91uzcfj8WgqL7lHj7p6Hzk2zbY7x39n9GNPn55d59f1Kf+F
+yp9/XuvnUP0lP6u1r4f9s/sndJ/U51Y7S2zquVbOnsfdUmRfihvb/abKe+3MQ2mUnLTO8zk9bX2u
+L1b/UUroDPvOSEOm+ifVTyu0uzZyOSqrmQ+t0WOLfT3sXyFyyU2Nrdi+M8Zpb7o+gxkpMqnF99lx
+R/fZfp5y+vPRK6f7XF9t/c+hc246q9R/pSJZ4v/S8qMU3uy0Qer+JfbVzIOctE9pSqbWvhUX35L2
+rZaCap2fK4rLt2cwscUxp3wvIqFGpMpzBkVogZo5aI78VCtSOe2rEeuU/3LbF+vb2kn9Ks92njcK
+sUWl1Bf78Vfry5h9I+2ftZDXXttjAxp6Dlq7EW+NsHus/0GB6bk7u9pu5qhTa9v73CGli2YvG644
+eV+B1HjYP3SuiThahKZ199ti/8prQ277cgXkij6ptb17BDMiRHtOzYzc9facICvlcM/wX+qtHIxf
+YHpFuD9lk3mV/u01P1uyR5eIYEbm/0qc8go74B6Lxyj/9cgf/7S+3U/u1Xb4KftWt79HhDZy83rW
+/KwVmeERzOjOmz0gQw9AQwvaiPfcc1JgsQGwf7je058p/4yO2PbtO3qLqcW+UT4KRW2hFFXIRznj
+L1Z/6MWWEvtvDQ/3V/geTE77cq/v/T2YM3008jl4Mb2+B+NY+/sfDr595f7R73MOv4vswmE8gLHP
+R9DGGxesIywA8JP45e/BAABGIEUGACAwAAACAwAgMAAAEBgAAIEBABAYAAAIDACAwAAACAwAAAQG
+AEBgAAAEBgAAAgMAIDAAAAIDAACBAQAQGAAAgZlE6m/SX+Fv1n/ZGLJzK2tpR+v1Pdp2VfsBnM/b
+fgG43+/fFvTtM9rY+3UFIS/p21XsX2UjceS7vW/MHRCYC0UIVxGRVevfL4yhhfKq/lkh0ibEQCCC
++Zocz5HL0SSJRTaxHVzp4lZbHrJvO782MktdXxsZlNjfUv+Rv2L3qPVRrP9j9eaMj9kRwn4MxOzf
+zhPFgMBULFIjd8Mt4hKyL6e8pf09dq6j6y8Rtu15SamPQue32r/CYl1yfxEMUCgwZ0zwlsgmZV+r
+/aunwHreP7RTX1kAahb83janMgDAywtMaNLFJsx+QvVK45SWX5mVXgBYjdbxtcLmCHh5gYmJSyin
+fnRtbXolFaHkpMeuKDYr2L/64tgyvs6IYIgL8J2q78G0Ln4lkVBpuUgm32+pz7PsHtX+o2OUf0Uz
+QMEzmNTCnnrDJ+cNtZZIZnbOe7+47P2QKi/xb8t3WULXbmWhfsy1P1R/SftzxHDG4n3UhtSbbsAr
+8+v94+/nx/sfngAAdMXvIgMAEBgAAIEBABAYAAAIDACAwAAACAwAAAQGAEBgAAAEBgAAAgMAIDAA
+AAIDAACBAQAQGAAAgQEAgMAAAAgMAIDAAABAYAAABAYAQGBQx+Px+Hdc2fYW+2e2f3W/z7avx/2v
+PL4xh7fYALzf7zx0QaGo6b/tXAtI/gJtfvzfR7N8ktM/+3NKbU1dv3r5VIHZG7TtVkyifGb7at9f
+Z/ffTx8rrz4XVm9/jn2tG6nU9auXTxWYvaF7I2MKuS1m2zlHnZ3aZfSoP7bA9rY/VHdsoIfqz7l/
+6e7xzB1cqv054tdzBza6/tL+7dH/reM3ZV9t/z6X1UbQZ2++Nl/l2pi6fvXyabx//P283W6fj8fj
+37/Px/PPvv5f+jlUV+hzS/2pe/S2P3TEzkvVn2pf7X1z2ltqf+k5peOh9MgZGznt79X20v6tKS8d
+vy319xofo46c8R9rb2n9I/w9snzW8bs2p3mkjK1q2aP+WGg42v7WEP7M+/eIkK72HKCl/bfdixA1
+z2R6lteM39b6R/fb0VFbR+qc2valrl+9fGqKLCfNsXoOdrMxJ0VSMhn3KcPaBWr24nuFvmvxb056
+ctQGoad/Z8y/meOj5+Y0Nv97p12vVD5dYEbvsGfnZ3sO4tLOTD0PukL7z7SvZrKk8s4j239G/86O
+sGeIW0+beovY1cpn8LvHICjpoO1I1T9igq6ygx+1+KReymi9by+7R/bDkR/O7v9R9/npEczR0asd
++3ER2ojE0p+x61cvXyKCyZm4LW/ixK49qr/GQaFdbKv9Je+gH7UhtvCdkWZKtT/X/lD9Je0vfUOx
+xxjoMX5rha1n/aPtrx0ft05pzl7imLOJHSHCq5efzvYW2Yy3PFZ4y8HhcDgcJ79FBgDAKSmyESkE
+vyUAAAhMN5EBALwGUmQAAAIDACAwAAACAwAAgQEAEBgAAIEBAIDAAAAIDADgZfkPdGvIn6HR9KQA
+AAAASUVORK5CYII=
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://alfanbro99.files.wordpress.com/2018/11/22.png?w=740
+
+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
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://alfanbro99.files.wordpress.com/2018/11/2-build2.png?w=740
+
+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
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://alfanbro99.files.wordpress.com/2018/11/32.png?w=740
+
+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
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://alfanbro99.files.wordpress.com/2018/11/3-build2.png?w=740
+
+iVBORw0KGgoAAAANSUhEUgAAAZQAAABWCAYAAADokmCrAAAABGdBTUEAALGPC/xhBQAAAAFzUkdC
+AK7OHOkAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAYOSURBVHja7d1dbqM6FADgzCgL62PXchc0a+lj
+dtarjJQrLsL47xhM832SNdM6cYwBH3yg7a/Prz/fX5//3ACgx29DAICAApUej4dBsH8QUGIOVgfs
+/tiUjE/NayMnF/sPwWtu96seBB8fH9MfoOs+PuvP7ndq/F5f506yGbZhhv28Nwap+r3jI3fs9LYf
+8f6o/p+9f7Ze07PtrcFrbx9c9hx73pS/3W7d5fF4dNXXfEZEW9GlpE9n97tk/I7Yj5FjenSbz/fn
+xi9Vv/x+6zin2q/5Xmv/Ivp/9v5JfU7u695+1vQpcq48+jwOS3k9I+re1W2uPurKO5UWKUnTLF8T
+2ddle3vtb6V4jujfEWnF3P7J7acZtrt1ZbJV13I+9K4Oe/oX0f8ZVialqa4Zt++I47RX6D2UkUEl
+N9kuB2rrc17fzw3yskTlZJfttba/XAqXpqdqx682KNaMf239Vkru7DRA7vNr+tdyHpSkcWpTLK39
+m3Gyrdm+2VJKvefnDMHkf/dQ9ibDkvp10Eh1OldfchCkJqQzD5KtcWoNSiXb1xKcc+NXun17+7b1
+JH6XezPLC4O9SaR2LNbHX+tY7vVvZP/Pmrhb3xtxwZm6j9l64d27go6Y/+8jrr6udrWytRNbt3e5
+A2onyag+XPFkfQe542F9k7hlRdETWHqvbnv6P/PcULp9pQHjimNS2vfwFcqIJdcy1TLyqjbyhJgp
+B3vE+OWemmH8hBK1gv0pF5VX2b9R52dPdmjKFcrI/F3NILzDFW7EZDFq/CLyvz9t365P5tmu4HP9
+m73/ESuwkRerR52frUElfIUyemedfQCmblimJrARz5mXpLT2dvj6ZnjkeObGZ/SKbL19W08Z9fRv
+1BilVmWplFNqjEqOv732Uw+i1PT/1nEzfoafQynZvtL3R/8cypFjNPI+dlbUz6Eoc//8hWJs33n/
+2O/HFL/L68LLcmDs/Q3q3A3BPIEE4Mp++XsoAESQ8gJAQAFAQAFAQAEAAQUAAQUAAQUAAQUABBQA
+BBQABBQABBQAEFAAEFAAEFAAQEABQEABQEABQEAJ8fz76f6GOsDPcl9O8msfHx9G6KSAuzX2631k
+/wBTBpT1BPVaRYyYtEyE+8GkZOys8IDZ/K6d9FPpqtf39urXJbL9ms/Ym8jPTMftBfB13fP/ggow
+lc+vP9+32+378Xj8/XdZ1t9bfr1Vt1efa7u3/dzXuVLb/5GldF+c2UdFUZR1udekXnKpqt5U1uj2
+R6biUquF6D6/PscKBZjNPTUpltwUHpHymUVtIDjivtCoe1oA4QFlb7JaT2bRk39E+7mAeEYwjOyH
+YAJcJqDMspJobf/MCfeIdNwy6FqtAJcNKKNz9hHtX/3nNJb9X94rOTKYAzR7PeU1w5NMo5+MUhRF
+UcaV0371CgBvmvKKDiLR6aitlJl7DAA/MKAcMbkLIADn8evrARBQABBQABBQAEBAAUBAAUBAAUBA
+AQABBQABBQABBQABBQAEFAAEFAAEFAAQUAAQUAAQUAAQUE7z/Hvxr5J7zajPByDtvp40Z/277K9+
+mdjPC+hb+yP12lT9q52W4yzXh9nr4a0CytU5gY8b21TQGB3wcxcWs9fDj/b59ef7drv9LY/H47//
+r8u6LvXa5/dzdXuvyZWStvfeV9O/5et6t7/k8yPef1TJ9TG3DyI/7wr1ivIOJXSFsrxqXV/Bjk6n
+lVwZ1vQvl7ZJXZ2n2j+ifuYVYvQVe6692etByuviKaeI/u1N5Ln2R9e3THA1bS7baOlL1Pi/2tra
+ptnrQUAJuGpcn2BXvN+RWxXUTCBH33+IGO/WFWfUaqpk/GeuBwGl8WTfmhyPTIH1BsStvr2CYi7d
+1RIcet9/xAol8vNbnvY6ewU4cgUJbxtQfmr+uGRC2AsqUds/YvzOnOxKnxDbCzTrcV+3MXs9vGVA
+ST1Lv0xZbeWHcznj3mf0l+/fWknk6lsm8r17JakJpWfSnTkQl4zN1j6InlTdjIeJLR8bfufisU9F
+UZS+4nd5ATAm5fWuUmk8AASUpqACQBspLwAEFAAEFAAEFAAQUAAY5F+sKIb+3ZsQJgAAAABJRU5E
+rkJggg==
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://alfanbro99.files.wordpress.com/2018/11/52.png?w=740
+
+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
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://alfanbro99.files.wordpress.com/2018/11/5-build2.png?w=740
+
+iVBORw0KGgoAAAANSUhEUgAAAZIAAABSCAYAAAB+HVL6AAAABGdBTUEAALGPC/xhBQAAAAFzUkdC
+AK7OHOkAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQ8SURBVHja7d09jtNAGAbgWZQDLTdwGSQKzkHJ
+BWg5wXKV0E1NtSehpkAKFZKxYns8P/Zk8zxSCuJde/yN7dczTtin6/V6DQA8lNfXEJ6f66zrnXIC
+PJYYQ3j/PoRv3wQJABmen0P4+jWET5/qrO/J1BYARiQACBIABAkAggQABAkAggQAQQKAIAEAQQKA
+IAFAkAAgSABAkAAgSAAQJAAIEgAQJAAIEgAECQCCBABBAgCCBABBAoAgAUCQAIAgAaC904cf38Ov
+P79VAoC8IAkhhJ8fv6gEAFlMbQEgSCBVjFER9A+CpOwgdaAu1yalPlt+tuZFRf8htPp0utfOH4ah
++wNz2sYY4+Htnqvfv3+vnVw97EMP/bxUg7nlS8fH2rFTuv4av1+r/Uf3z62fKdn33NBa6oO7O8fO
+l5drCKH4FWMsWr5lGzXWVfuV0qaj251Svz36sWZN915njHG1fnPLx+/n1nlu/Vvey21fjfYf3T9z
+21n7d2k7t7Sp5rVyr3Or2tTWMAyLd7Nry2vdac9Nf6RMx4x/pmZbx+tbWv+tqZw92rfH9OFa/6z1
+Uw/7nTsSubUs53woHQ2WtK9G+3sYiaROafW4f3scp7mqPiNpGSZrF9lxgW5t59/7a8Udv2rNuY7X
+l7v+8ZA3dRpqa/22huGW+m9dfmvq7ejh/tr2t7Qv5zxIma7ZOpWS274eL7Jb9q+3qaPS8/PIEPnv
+GcnSRTBl+TQs5hq7tjyl8+cuREceHLfqlBtGKfuXE8pr9Uvdv6W+zT15H+XZy/iGYOnisbUW0+Mv
+t5ZL7WvZ/qMu2Lm/W+NGc+45Ze4Nd+mIueT6f2pxt3Vvdye3Oi93f8eF33pxrNWGezxJH8Ha8TB9
++JszgigJlNK72ZL293xtSN2/1KC4x5qsLa8+ImkxtBpPqbS8i615IvQ0x7pH/dY+BUP7C0mtEetb
+uZm8l/6tdX6WzAZ1NSJpOT+3Zecf4Y62xkWiVf1qzO++tb6dnsS93bGvta/39tcYcbW8Sd3r/MwN
+k2ojktaddPSBN/cgcu7C1eJz4ilTV0sdPX3IXbOea/VpPQKb7t+tTw2VtK9VjeZGYXNTS3M1Sjn+
+ltY/9wGTLe0PBQ/Ze/geScr+pf5+7e+R7Fmjls+pZ9X6HolX39+f8FLbR+4f/d725f/auuPhN9D2
++QVpTkrQT4AA3KOn8+Xlejl/VgkAspjaAkCQACBIABAkAAgSABAkAAgSAAQJAIIEAAQJAIIEAEEC
+gCABAEECgCABQJAAIEgAQJAA0DhIjv474v6OOYARCQCCBADmnaZvmM4CIDtIYoxhGIbDLupHbx+A
+giCZXsRrjSRS11m6fQA6GJGUEAIAgqRI6YgEgDcQJOPppa3PJ2oERsn2ATjGu2kQxBgPeV5x9PYB
+yPN0vrxcL+fPKgFA2YgEAAQJAIIEAEECgCABgDR/Aei3oUZ8gVyOAAAAAElFTkSuQmCC
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://alfanbro99.files.wordpress.com/2018/11/62.png?w=740
+
+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
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://alfanbro99.files.wordpress.com/2018/11/6-build2.png?w=740
+
+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
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://0.gravatar.com/avatar/988c954a195aa1dfe7c511259b6dd858?s=120&d=identicon&r=G
+
+iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAg
+AElEQVR42ny8WYxkaXqe9/zLWWPPPbMqq6qrq6u7ZnqWHnJ6qJmxRIq0BYqgYcK0DZm0AZsCJBgW
+oBsBvpwrX/nOlwYE0PBukF4AUrJA0TQlmhxxtt6ruquqa881Mtaz/psvTvY2HDluIuOckxEn/vdb
+3u/9vj/EV3/r74UrX3qNZ3/xFyyXp0hbsHzxhMbVCAHeB7ySEMBbC0Ew3JygdUycbkArkMIw2Nul
+TPtUtkWUDen0gmg6Q3qDRCC1wngHziOFxONQUiKFQIrAeGeMmWiEhaN7z/HeEQfQm2OGv/wtBldu
+8/gf/3fooiZ+42vEkzH19AH+5IjixRSNxLgAUqGjiFEes7hYoeIEOdqiLNdoUxFsS7K5idQxy4tz
+4iAhOAZ726wrg724wONJvMTLwNJYsuEY1Ve4YoFGU1aedHOb3/pH/4jzeYFNxrzynd9ATM/5H7/3
+91lMZ/zWf/Ff8ad/8D9xeOsqP/qjP+D6S3v83F/7CtPTI6bnR5Tzkj/5Jz8k+EBvZxc1yGhPT6gW
+S6yzSB0RpCROU1zd0K5KsuEImUT0dzaoVmvaVYmKFGmSsHxxgm1aQBCk4Nbrd1hPF6gv/87vfO/r
+v/nbPP3Jv2L64hGLakmyMcCsStJkguptkQx2ifMhKu2jooRqvqSZXWAWc4rzU6r1ktViRmgaQt3S
+LpeY1QLpDDIEfHBIoREBQgApJJGQGNNQty3GOqq2wTvB/PgCrCPVCu88zgbSrQ2SnX2mHz0ingyg
+XrN4eI/6xRHtfMXGRoyOJLbxKCS2bWkc7F0/JBoOmZc1sVK4coW2FuMCjQ9sHl7B25YQHFXVUK1W
+DLIE6wNCa7x3RJFmuDmhrGq0NWgrQEgqa3jvnfvsjnd598//FUmqefj2jxnkCXd/8hfkWcZwOGE+
+P2ZrawMpFYvljOHOiI/vPqKoYL6u8YATHrtcsjo6A+8J3qO0IspStBS0yzXBOlzbYMqKNEmpLxbU
+swW+bpEh0FRVt7bAlevXOTs9ZXE2RdVx8r0QBM4qiukU10qCi4mTMTKZEFROvVrRrCucAXxCnOQk
+iUY4T1NWxL0UpMA2Bl9VCB+oizVRlBAlOaGxKAlaa7RSGNtivSHSGoTonn3A1QZbG6IoZjgcoOOI
+tmlozpZEgwn9O6/R391g/pN3CcWaVAl2b+2y99cOCFpSvijQUuF9II4yyHo8PT4l3tild+NlmvUa
+aRybb3yL/je+SW/Q4+TddwnWEClJLDVOCkSaUBQViZZIHxDO4xsDLiCExqoInWXsXH+J9bJg+vQp
+SWu4+6Pv89af/TFtVfLgnR/z5MP3+OhHP+Dj997j6MlTHt17SH+4wfl0xaOHp6goZn12RpSmiLKl
+LSuSKEYCSgjasgbvCNZCgEAAH+jnPWzdYNuG4D3DwYBiXSAuI+X+3gFHz54iAO3aFY/++J/z6p2v
+8tFsSjAWZyVOCJANSkriOMVLfRmiDVppQisYTLaQ+YimabFFjYoUSIeMBHJjA7ezTTIY0rx1F+kt
+TdOilUQAIPAhIKXEWNtZrFDIJAEpuXXjJt9/6y22r14l2TugKdb4dcH5hx/iiwItA7hAcbZi/cOC
+xccLFAolNWmqCDJQFEu2rx9SZBvUk12G38ipHtzDvvo1VBxx8eF75AKcD1C3OAQyymjqljiNUVKA
+sSgBzljQCtA4FMV0RV2+x/nRMQAP3/lxFx69R4hACFCtVxA8EKjXKwjwh7/7e6g4RUYxSgSkhyhI
+iqJEIrDOIRUE70njmAA0ISAiiRACLRRSKVzwXC4jOlJMRmNmizm3X3+dh/fuIQMIAdqFFrc45+yf
+/RP8xXOi0QjiPuV8jo4EHoEgAh9QQmJbg5cBlfdp04xonBKWK8zREUFp9HhIPNkh3t0g0Qn12Rmh
+bamaGq0UUoD1YH0A54gjRQDwgSA8SgicsXzwwV1wjvOTc25tX+HJD35A2stppudkGqJYQwjUy5os
+ZMQogofa1MRKYIJDtDUqTkiyPm59Tissg80B9d0fQFnSnj4nGeRoBEorvISm9YwHA9qmIdKaal0g
+hMZJRVkZirLAGEcIAlh0aywEIQDBd14W4NLfECF8dkx0eIe2gaZBCoEA6vMZrmkA8N6hdYQQgijW
+WAKxSvHBE8UR0gqUFAzHA87KggA4Z5ktZ4w3J1R1QVvXSNHxGy284/z8iMgkbN34MuumoZqvCcZi
+W0M2GNEWBcF7QvBIJUAorOsMyBYFWmtUlJCOJkSTTegNwDpks8A+eYYGpNJIJfCXC+KdQ0iBcwHv
+A8iAFJIQJNZBW3uIeuxcvc6jux8hi6rzAm+oArRWEoJHCUm5aAhBojQ4BMQSgSBNE6rpOaKqYTjA
+esPx8RnWGPI4xjhLGRxIiYo1wgeasmZ5doGQmrSXEYSkalsWi4qqbgiIT8OlEEAI3TE6UAWBEAJ8
+euRzj0+Ad64zCjqAm7JAAFJJHN06VG2DiyRBSaSUxF5g1w2tcQz3D8j6I0b9lKOjM4TQqEizdXDA
+w/fv8kmMDCGgenu974kAemOP+bqlXtUEa7uPFgrTNphygSkWiOCJogjbVJiqwNsWby3eGFxVY9dr
+hDVgKqrnT7l4/12UMeS9nE+NWAqkDGgdo5BIIdFSY4VCZgOifEg+3sEqRRPg5PSc2WyKsZa818PY
+QNUYfBDESUwcKzwe5ywy1hgfMMHROk/jPU4qxHDIlZduMP3wI6K2xXnfGZr3REAaKWRwRNbT05Jc
+KVKtKYuGSGmKqmFd1Jfghk8iYxcDxWfHukXtzomfAexfeQhQQn56SimBkBKEIGgFcYRMUuIoppkX
+2MaS5zkykehcsZyt6OcDnBDkaUK5rqjXJerzH5Ec9kNvsokyPbb3rvH8+SkijnBNRWhbcAZvK3xd
+EKyDENCxxhNASUQUI6MIV1a0qzUh+E+/vIo0AkEvzdkcTRDGEMcRSI1UCUJEgERrRVGXnFycEOmY
+qixomgodxSgdkSYJ3loCIJViuZjinWFrY4QWgoBHe48kIERAR7IjdFHK6GCPQkUUR6fYizMiBIWH
+SGkCXX70wZPHmmAsWsoO/EizLFrSJOfJdI4NHUafYfkzACNchurOu8Mn130B4M+gFwKk7O7V246I
+JnFC3TSofoaPNCqJEcbRXizp93vkezlRCidPz/ANaBmT9PoM0pQXHz/lM4YjgIAS8D2zKDHrAlOv
+sR7ibIAMBtdW9IZ9Nje3mL14zs3bt7h1+ybr+YK27nKqbVqUUgglcHWLCN1NR3GEjiLiLKW1Fp3m
+OGMxziPiDK9TgkpwQjJbL5lenGGdpSyWCCnRShNFcUfEVISOU1pjMLahaSq89zS1oapbfOhyW19F
+SDyp0ggHzhhWiwXN+QWhLFAhIHXGYLTFeLRJ8JZId3kyCmBdR1ycD2glybWi8YJF+UloFvzrH+Ez
+CMVPuelPAfuF1wLiLOtydfBkSUrTGkSaIKKO+/jWQGvYf+k6S7NmubwA6QlCsHX9gO39qzy7+wDh
+O+cSSiKVJoSAFgYQAaEtxWyG7AtMsaCeHpNNNpGDMfPFjM29K/z2f/J3+cv/55+x2tnCO8u6qpE6
+QiYxznl0nDBMEqI4ompqRJQSJSkydZRVhUaQ6BhjPcvZMQSBEJK2rbCuJQSP1hFKxxB8l9uRrJYX
+IARaKXzwSKlwzmKdRQgJjaEFFJBrgQ8dSIpALDwhgJcCjySKNeuqwAWH0JJQeyLV5fMk1njXxVh5
+yYidD4D8nOuGz1D8qWPip6PyF7w8/BWD+MQS2qpGeAci4L3riJb3REmMDoJyWSCRHD96yuTKBkku
+aIXFeI9I4dm9D/GtIYpjdm5dYXhjH532qdY1OhmOEcF09F5lxPkYYz06HRD1RsTjDfKNDX7+5iEq
+VGzvbHJyfMxrd27zwb0H6J0DXJRiyoo8aAYIVnVFXVtoS+qywliDvPx+pY7Qak2eDynLNWW5Ikkz
+ojimqSus97R2RZrmzC7OupAvO3EheIm/JHufLHAIntYaBHBeWLYHPWIhCcHiCQjfBStxmRtbU4EI
+RCqwWhbgApGSIAJSiu6zCPjQAdsaT7gkLF/EJ/xVjwxfhFX8TKA/eS0QIXxaWnWKXseIlZDgQQtF
+uy4wVYMMAWssR/cK0l7GrV99A317wOP/8y3KszlZnnPzm1+l3JY0KIzo2Lt++dvf4sWPf4RwHpEP
+MN6i04R4uI1Witm993jla1/lO//G3+D8/rsUqzVxHGGt4/DmdZ5Nl9TrguACzjbUZUFVNwipEEJ2
+uTMEvAClIoQHnUQkSUac9hlvHXD09CPGvRHWOISCpi2wpiGKE0zboKMY7x1SakKwXwiHn6Y5ASEI
+nIOyasmijkk759BSXeamLjcOh32WqxIdBJ6As45Iq08B0lIQZMeGO4MKfI4o/zR6l+D+rKD9M2n0
+T8Hc3btQEkGgNpao30P1ckTrsJf3GS4/0BOQWUx8e4+mWuAry3Bzg2ZV8ujtu6g8JklyZi9OcHWD
+Pn73LqlIEApcYyhWC3r7h7SuRfgIv17yy3/9OzT1MdP5GYtZzWJecHp6jJMSq2OaxQKpJJFWNM4S
+LsmDNxbvHUrpT79R3hvhfWB6cUqaD3EhkPYn1HVFkmQ4a5BCY9qWyeY+VbXGmoYkz2nKgiTtUxVz
+hOjC6udXy+OZrgs2ezmZ1ggVEEiCBCkV3gSGg5zFck0UJFJ15/ylGBEu83AsFZKA5VJQEJ9xJSHk
+Z+XQF8Ltz/gz8LPz7k+9DCEgI42OFARJkuQUyxU2gDcGQUAKAXS17ZXXrmGD4fRP7jO5ep32ZElx
+scDMGsIFFHTlqESgFyfHDIZ9dBSTTzYIeYoTFi0UsVR87dvf4caNXU6O7zMvlhTViun5lPW6IugY
+GQHG4AwYY5A6QqnoMnwGtI4AkFLjvacs18RxihCSvDdkVawQSKSKiZIEYwxJNsC0FcY6VJLRtjXO
+GOIkxbTlZ2sjZbdA3iMuQ7YXgco6Bgi0ABnoam0JvWHObL4mAjwOqSSy6zUQQkdapBR4D5qIVW0p
+W/MFPIT4nLeKTxjyF+EWn0c6/P/yss9ApmPQ6/mKernuUsXn0sXlNyXLe8yPZyz/qGJwdY+6sCzO
+zgneAwJ5yaDlJY/WUS8nqJjNw5eYz+eUywXD4YjldE5RFnz5V7/N+cMPODt+xmo65WJ6TlGW+AD9
+yQYijmmdRQRPvr3FxsEBFw8esz4/BwRJknYh1nVeFMc5QkpCWyN1wubOBouLY3CWuirQSUpdLJGy
+WzSJRgSBtxahNM60l9xEgO88T0jxuWok0DpLbR1aSKQSRFFEkqXMlkuU95jQsWQhwVmPlqIjZZ8Y
+TJDM1g1nRYNT+ouh+HPhWSA6Yn1ZGoafvu6vgBz+NYy6M1LbNHhj6aU5VlgODvdIVcK9Dz6CIEji
+hKZtGBF1ziUjVu8/pJktP33f8Cl/6wxDZxtb+Krl6MUL8A5ft8zXx2xsbrH7ykvML6acHT9jOj3j
+2ZOnTM+XiChid2eP9XrFejnrNOigEArOHj+gni0RQqBUjNQdw5YqxgfwQmDblu39l4j7W1TlkrYu
+ESLgbIu3AUkg0SlSRZTFAiUCSZJSVkUXSr3/QpzrpMJO1wYw3jEtSuSgx/awh3We9XpNoiTy0tf8
+Jw50GYG1kJcLJDlfVqxrixCqA02IS3/g87GaS23xU8CECJ9LrJ9Uo+HSCD4D9ouO3f2D0goZS7RS
+tM6gIsXFxYK2bkjTuLsseKy1RDJi+uAIzlY0p7NOd+azPP0JJRBCoLdeusPZs2eMrhySeI87fc6z
+ex9A8Fw5uMJyNmc2m3N2esbZ6Yy6NmweXuXpvfukWUaaJ3jZ9YzHWylm5WnOBUpFqCjuciUBISVZ
+2qepK9LBhKAzisUF5eoCiaCt1timYtAbkveG7E2ucHzxApVEZFEPR6BtSvzlzUspOy/3HeUKqgPI
+eYcIAmMdFsliVaLoNG6lJCiJDeAIKNflVIdDCU1jAyfzNa29DPmXhvOFEI28rJrCZepRXXgPnyuf
+LkugTof+THT4rLQKl4DwqV7tnUMGTd7LaExLsI56WaG0IM8zIq2ZLZfsXNlH5DHiIpCJ+Is297ny
+LYjuiL54+phosk95ccqLex+QJymvffUbNOWM6dkZ1racnU0pijVNZegPRxgXOPzmLyCExK7POP7w
+I17+5i22Xs6598fnCBRRkiOjCB8CcX/cqTtKk/XHnSokoK1WBGtwpsG3DfuTPW5cfYmt4QaRj7m1
+d43ar9gaTfj4xSPef/gOTSvYHGXsbozIkoTz+YqqdZwv11jnaY2hbi3OB5ZFSTJIUSGA6khHEyA5
+2KYta/Si6soSFVEZz8miwNhOPgwhIEJACnXJvrtOgUQw7I842L3CzmiXXtYnUoqmWXfnpaJuSuaL
+KUJKluWMtjUU9YqqqSnbFus8PoTPa1pY6wgOyrJEa4WzFuHBW4HVCU1d0e/1mdzY5fzkDC0ETx89
+7nKzvHSiy3f0nwsRejTaolURp48eYosl8+Wc9dYGTblkNZ/hL0NQWVa0rYXVGmEteX+DeHOCbZZk
+oz4bhynlakq5aukPNxAiwjmLThKiuIezBus8edYjWINwDb0kpjQV/f6EV159k9s7NxgMxsQqJ9ER
+eENjp8SRpicjtvqKOLGM8oxekiIELKuSICTzVYnB8/a9D3l8PIUAxlqCkCgpsLKT7azUqK0x7mKB
+X5YICYuqZbqqCV52JdKlN15yawSB6wfX+dW/+ev89q/9Ni/tHWJLSzlvOZ+fs1zNeHH+GOtqBAHT
+ViznZzhraW3Julqz8ifMVmdUdUNrLS/OZhxNFxStpTYW7zx4CNYjVNfTJkAaxTjvSeIE1zpWpwvK
+kzmDJO+uv5RGg+iIo7hMH5quBNTUJc3ZC/x6ydb2LuenR9TrOavVGmfNp8ShNS3WOm688jqPHz9g
+q7+DGm6yePguu7cHXPv5hLf+oETRQ8cp3oPwgSTpg9ToSKCkQgpBlmREUjKebDLYOeTrt3+BzXyb
+uA3oKCKLe+AqFBXWJPjQMog0+5MY40sEHqWgbQ3ZOEMEwZX+FkuzZmsoefHinLc/PuZ4tqa0jv7+
+FuQR5XKNDxJbtsiqxnuYrmqKumuuaClx4TNfkEIig+fv/MZ/zL/13X+T3eEGL21dJXMRrfUsaktb
+GrCSXjTgeLEgjSOqdUW5rpECsniCkZZVZYmCJ4oFaEWdRajNIaWDi6JhuS5ZLQsUoiuJBEQ66jR/
+55iVJTqOyeOYJE1ZFwUudM1cJS47dCF0lQDdswgC/fjdvwShUDpmNj1nMBzifFe/WtMB7PGY1gKC
+3RtfJtp7DddPWD17ijubEu/1GY8DoU3Jev3OKLwjTlPSfEJrSkzbkiZ9vKlJI824N+Rw+wq39m6x
+1z9ga7CBbWoQAulAOEVrAk4G2qbFG0emcyLRYn1N8I5YdZKkRBGCIxKeTMHBZoYI2wTgvDIUOsYl
+MW1SkaBYPz8nbWqmF2sq45BIFALn/SWh+iw3/vzrb/Ir3/olNtIhw2hMtaoJiWK2WnOxntH6ltpW
+PD95hiBQFiXSCfbGe6R5n3VT0tgZPZMTa4vxFWerBU44PB6tIrIoJWSS0q3xznXChxQkccSqKsn7
+OTpKGF49oNEBOc5wruwkXRtwtUVGiiSKCaLrRjlvUcajrTHs7O+xc+Nljp7epylWVHWN9w5Hp+MG
+IZA6wlvHenmBGBzgixXxes12PsIce+7+Hwvqi5w4m3QljWywtr30iEB0OZ0glSKOU2IdkyY5edYj
+VgLXlsSRpjVd3WlcQ2tajDNY2xK8o1gVRHFD69cE3GUpBT5EOF9T1nOsb3CuQWO5sjVg9nxG09a4
+dYOQnSa9ffMqD/70R2A741CXzDvIT6jPJwDDnZtfoa4MPutyb6w11hhmizlFucBccog8iinrkkUx
+pyxWbPTHnC7mrNs1dXlKZSs8LZEOSOsIoWtZNsaC0MRJgqkbau/wSpJlKUVZonsR+Y0+lfHIyYBm
+dkFvU+PzFNWLWD8vUE3EcGuD3m6f5cUMj0dKiSstSmfZ92wQXe6dT2nbGmMN/pLehwAqSvCAd4bV
+Ysqdv/Hr3LrzJnf/5H8n8o6z2YqjJ2tGk9sgEwIC51uiLO8EjbyHEIFIa6JIoYQkT3N6acYw6xEL
+RSL1p43z4A3Bt7S2wtoGgkeFzjt9KFBa4oLHhRYhDOAJtBjb0rYW2zrqymB8wAWFyFOGkyH1+QyF
+ZH42w1hH0sux3uOsQ3xBbexKL61ivv3GL7GxsUskBEks2dvYpigLCIE0icmyhOdHT5A+UJRrNiab
+DPoDJsMxwTs2xhNuHewglUdIR1GXXCwXlFUDCBrjqJ1HKU1TN+goQiWatmmJ+jEbr26jN3OSaIAm
+Q0rD1ms99r69R1mVqExSliXL8znZJOH6m9fZuLZFstWnWK9RUZ5/L0iBtS1428l3n+gy8hPa3d2A
+d462rujnA4rzFyyPn+BcTWkMw+Emab6JCepSN4YozpFRQi/LiCSkOkInKWmc46wlS3LyJKef5qQi
+7hoCAbJMUdQFCMi0RElFHmVoIYi0ABGIY4WQAS01sY4QQnXChgDvPc45GuuQOsamCe18RXO2ZDld
+Us5XSK1IdzfpbW3hmxbbtF9gtVJIhFJ8643vMhjktM2cTMRolaGUpt/P2docMkxzeklGqgUyNETS
+0rYVy/WCm1evM0iGlPWao+lDegNBZQxax0gC67JkVjZ8kiQaY1BJjGkavLPoUUY0GiJ0D1MY4jhl
+vK/Y/uoAMXQIYcnyiOFBhogE04/P0UnC4TdewbYWXxu08wEdPMEHkIKAA/XFpnQwvstxurOsavac
+V77yBt//w99lezKilyTEUuNDwDqLjmNc2xLHMUgNwRGrCC0UKEm/10cYh20NxWrNMiTEmSDRCWmS
+UZQ1AUma9lHeorQllhrtc5AJjU0wrqK1PRw1rTNoBZESKO0ROLxzWC9oreX4YslitqJeVXjZDa7l
+MqKZr2BD0TvcwX7c4KoGcdnlCZclUT/tEZxlfXGGzbfRsWJza8LR2RGniyXVsuT07ARbr3h6fI9+
+lhGCZGsw4vTsKbXxzOtTSlZcXFQsS88o3+4mS88uOmMUFh3FxL0EmUQ01Zo4y+nt7BP1RySDBFs1
+FOWUXI8QJmHU62OGNb39mNOjCzb6Y+p1w9P3HtHfG3Pj9ZdpZiU6WIML3Rxw8F1bRgrZjY740DUM
+jCWIjrFJIVjPzphPjwmha2n1o4yqrkmVIvYKLQSN84jgO3B1TB71sHWNimJiLZGAlp6muqAQnoFO
+yZIcrTStNUwGW0gpiGTAeYtGIW1NYyyxb3CmRguDFwaFQwqBsQGtFEkcMe7niKBYlmuaxYpqVSJD
+p9LiA+VyjQPMsiDqp4g8Io0U7bJECdW1J0NgNjtn1EvZS4fcufYyg+0xz8+f8vv/9Pd4cvyIal0j
+QkCFhmJ+wstXdoh0THliWKzWrJqW02LKfL3ABotSmixSWFsRRZoAtG2DD2AJBNfiBCS9Htn2PsZX
+TJ89IpKdg5zeO+f03hl7X93k2ps7iKjl6isx06drFqMFwmk+/pcfMd7YoFxW6OAd/WEfpTVl4TDG
+EGxgtDnh7MULvvTVN/jg7R8jgkcqhYoUpy+e8LqtOq3fWbw0tA68l0gZ0zYrtEoI1qKVx9SOKliS
+KCJVCukcOjhMUZKO9tgd7jMcDunnGb2oT5xtM55s0noHxrKuZhhTUqznNEWFaWrmzRlOLuhIYzdu
+WvsW0xik88RKkg9S+k03Sywvyx4vIFISjQIpKZuG+sKgsxhiDUoR7KW6FByNafBVzWC8gZYVJ48/
+4vf/8H/j2Ytn3D/6mMcnTzDOkEYR21mPXixJlOP++QtqYzldlSyqlkhHbA5HZJGkrZY0psUBsRbU
+VmJdN8UodcJga0iINCIWlC9OyUYpwmtsZRBO4p1leVzx5N1Thrspqydz1uct5kIh2wjTtLzzh28R
+jSRaErh2dZ+6rnF1has9w40Jv/07/zk/+OHbRFpy952fdIKHc5/KhG/9y/8LCJTGUPuASvr4tkWk
+KRZDwCOsw3mFb0GKjDiSNKYkSlO0Umxu7nJ95wZ7k10mww3y/ohBf4PecMzp8pQPHt/j8dP7LFZT
+6naFFgbpa1IMebzCuRlCe5SSON815lsbECiUVhQefBQz7A1YrCpUpLHO0LSWOgTiOGIw7IbGKRqa
+2iC9JBKC3/zmL6OTMdI4dJSwsznh8ZO7PJkec+flV/jyqz/HKw/f4vvv/QUfHz9hWRQcL2b00owk
+qnkxm7IsW7K0x6uHN3jlyqvkuWNVPWc+9zw7u6BqHLGSKOGJtOLG/g693pCPjk+wOsatC7ZuXaUu
+5oS1oTyZk+oUoRxRotF5QtxLOXn/nI3NXfIspjYeGTtQHpWDTuKY89MznPM0TTdxeH5ywj/5/f+F
+7/7m3+X42UedbCfEp/3Q4D3zs2PiWGNDIJMS5QIST1nO8bbLiUmWoIQGD7ZtqY0jFhKhNf20xyuH
+r3B165BhPGTSH7O7f5XaB/707T/no8cfcP/pPZ4dP2KxPKeoFlhX470ljyNu7m+wN1CMeopICawz
+eBxNC6tWUFnBdF2zqAyrqkHFcScMhK7DLhG41lPYkl4voygqhPNIPF/avcqjZ3d57ebXeOOl1xBZ
+xmjU4+mzh1zZ2CHdPOAnjx/x5x+9xXvP7lMUa3IdExDsbhxg/QnhzOMlOCF5fHLG+4+fIpVnMozY
+6kVEWuMcxGlEZWuyWLOeTnlw/xE6TljLgnxryMWHM/R2n6yX4Ivjbv9YBO16zepFn+IgJ09TdCLo
+TWIuXhzhfUC7AHOFjtOEqqpx1uG9v5Qm4cHdd1n+7n9NPuxdli6dyjSabDCbnuOc6+S0SCBlTqwl
+zlconeONRcuI4ANeeuI0wdQGvGM47LE7GvGVwy+xNzlga7zJztYe+9ubtE7xx6Z1prcAACAASURB
+VH/6J9x78hFHZw85PfuY5foUH2qUagnB4L2laA0PjgzrZcyVjZxJPyYES9E0LNaejxcF87Whal3H
+Ly6bHQKB9x51WecGPApBsS7J4pS6qQHBOE05mx1xenafxcUtXtn8BiZUHC/mGEr++//hH/P+x/ep
+TAX4Tknyge3+Frev3aZYpzw/f4qxFWnaJ/huOvR0foKZN7w4NWwPE1It6SUpWaQpyxLfGrQQGGsZ
+jCdMHzwmH00wz1b4VJIPR5RFRS9V0EL9rGL1bIUHVFRijCEbj0FIsr6mnM1Q+3vb3+tkSY9zHcBS
+CLzzFIsLrl895OToOeGygf+Lf+vXUWn86ZaNEAJN24AU9IdbtG1DphWxCkQ6Io403hqk7ASFca/P
+q1df4hu3v8bGZIuDgz0Obu7Q28h59/13OXp+xGJ+jAoNm4M+t69c48bOiN1RzLgHiQpI2e3d6bTW
+gJIC0xqmi4rzomZVG6rGIkUgjyWx7kZ4dRJ1m7uAdJjjtGOyOaBeN10tDCgUwzxhI4/58rVDjA9c
+27tJlKYk2Rabe4f8R7/6H5A5BcGwNRgwTDOubV3l1uGX+Otv/Cq5MswWD6hay82rr3AwucbmoMfm
+QBNLw2YvRoaAuixD69axLmqySJDFMevG01YNobXU8xVxUMRxgm9aRDB46VlXLflwRNs48Aq8JI4j
+ZByRbgzRkSY0LTqJI+IoomhroijuQrEP3XC497x49oRIR7SmJYRA2dS89nNv8tHbb306EGetZbla
+kPYv0CpnkA8YjwdYHzAO1m2N0l3jXSjF9t4BV2/cIskzBqOM/maPsxcLLs6OaeszBokg1wOOz5c8
+PXvOdPEC6ytcMAjvyVXABU+sus1szgdWZctFUbNuDRrBVj9ikCekiSQguSg9x+uSaJIQpMBgieKI
+2jkUAoWETgLm4fk5v/bal9BB8tZH73DnpTe4dXiTvJcQIsXDDx9wfbzN/OA67z2+S2kkb7z0Jt/+
+5t/icPs2YfExg0hzONEspo9ZVs/o5z02+zE9MaRuavKNPjZYpqVBfm5SM+jOcIO13eCfkPTihGK2
+oFqtQANConoZq9USoRTCOEJraBtJkiviIaR9x871TbR1jqY1OO9oK4OSXXnwycawk6MXxEmCUgpr
+LU8+fJ+77/yQ8cYGi/kFw/GY+fQCIeCN1+4wyofYdc233/wupYQfvfce9x7exxmD7g3oZ0Ou777M
+5mhI2s/oJRnNccU7b/8lx0cPmC+PefTsY956dJej2RmWQFmvyNIYayyJCowyjRaSST5kszcBYZi5
+gqqxtC6gI826cZyvV93uAWCQ91BO0DaGaNQpUMXZmuA8Do9EdgNtAWpjWRlHrFK+eu1VWltjRMHO
+zi7vvv+Itz54hw/u/4QPnn1Er7/Jv/1L/w7f+cZ32dvcZ3e4x/MHeVdRCEGiHArHcm1YrCx5ItgZ
+95gMEmbFmheLEu8cwzQijSReaNJY0rpuFsuLQNpLmZ/PyCc5RVURBERpjBYRrjF4102KxpOcaBSx
+eaDZPrigXAZ0WbUIBDdv3eTRw0cEHzo1y9jLWSeJMaabkpeSZ48fEmcpaIF1lvlsTr835B/+e3+H
+xcMHbOsBd77ydUovkaMtxMuByAuezE5IYk0qFb0oJlMpymlsHbj70YccPXrC6ekJ7358j/cevsvp
+eo6K4q6c8IGD/W0iBI+ePqdqAr1YsNnf5er4BkFOWZVzWufxQnK2ajHOEUcR1/a2ePz8lGVlaL2j
+vz/GOENxVNKLIn7j33+d3/tv38ZWXVnUdfPhh8+e8N3bbzIcbhNCzcnpW5TllPOjKRu9Ea8dfp2t
+nTu8/sp32N6YgGnppQnxUOJjhU76rGdTtApc3+p1uxatwosGGTmenS9ZFiVVbTHOkkWaNIl4sWgp
+jEMqRdrr0R/kyFyRjHLSccqkN0YGw+njc5qqQkmFdS3JJCXd6dPbGRLlgbaS3P/TBbppum2dr3/l
+Vd78ha/zT//gn7NeFZ+2CUPw6EijIkVT1+hE0YYGJSJUpJBIvnLrNubRXWYff4BeXOcvT55y5aU7
+yNUNdsZj3vzyV6nf/wFtVTHu9dEqoHQKCKbLKUVTgoxBxtzau8nt67cpm5bj2XPuPf2Q6eKMVAjK
+cs0gjkiU5OrmAdd3b7M9OiBLxqzrOfeOpt1wu+qmKIZpjLSGLFK0AXQaE2+NqE/OiZOI7c2Ut77/
+EcaYyyAtPh1jPStWPJ+v2R2/xP7GgJPzu6ynKxKR8uRiRj89YGNnk82kx5P7P+bR+WOu7P2n1G1J
+3MuI4pTGek5WBa8fZgRR4IzjaLFk2TSUVU0/0dStI4s0wzjCpRlJPKStDMO0T7SxQWtLlr4m3dmB
+TLGqZsSuYfcwZTZtCUEiRYIapAgtME2L9DuYQnP91UPU19/87vcmozGnJ1POzy6YXcyxxnWjpEIg
+L3cTDPsJhwd9Kl0jsm4bR3ABPPzNr36Zi3tvcXXvgIMrX+JsMcXjOF9POzA29th/6QaH+wd8887X
+eOXwJlmaISRY06CURAvJwcYOu4MNMpfQlkuwc/qxZpRqrKkwbQvesTMacefq62wNDrm6fY2djW0i
+3XL/xSMQ0EsSNvOMXEvwjjyNUXHCvCjJ8pzydMEgj9HCMpn0WCwc9rIn/MkklUBwulrwD//df0Br
+1xyvHxBHFbP5EoIk1zG5rPn40Y/5s3f+jDde+ya377xO1da8/d6/4Oz0Q6T0GCtZrFv6sSKSFo1B
+ikCQgXXTtWO1klzbHVMnfS5EhhqOWJyfYb3Ex5p4lJFMhrTWkMQxo80Juh8zP5/T38lQeYbxkE36
+bN/c58FffMTTt884fnKM9qbGWUNd1bi1Y3d3n+VyxnK1Io5jZBKzWi4YRJqbkyEvni5prYXWE0w3
+0qKcIUPTzzZIxnscInAUnJ8/YRErDvevcW18hf7NlznoTeglCR5DolLiOCFPMnYmWyztOSox2HhN
+TyuOmor5/Jjz1ZTGWhItefVwj/3NXbZ615hke2TpmGF/wlWx4Nb+D3l8fob3sCpqKmu7nzWQgo3N
+TU4XgvmDI6QPeDTLXNKGmGxvg2pxjAji0/mpQODJ+pS3i4e8lGiSaEhZLVlVC0yb4ozj6VnJD++/
+w+3rX+HXfuVXePvDf8Hduz/gBx/+GY/Pn9MG2On3ef/ZMW0w7AxiWudxweNtQIVufjmNNHmScnE0
+pw0xrfcMdzaJe2Na3aIk+IsX7B6O2LqyR6QVxXqNm8+58+oWP3j7nMZoTN3QmwzYPNzhxB6RTzbR
+rq2RWpOkKXVdI6Xk4OoVrscx9bJgXhUYPKXwPFwb6kVAJQlSCgwGbxwfHx3x2sYmzoAwJRfHH/Lu
+k4cMJ2PG2zdIkgStFHnw+GaFVhrvIlApqYpxcY6Lany/jzeGfj3koNmnFzlubI5Z1Ke0do0PBkJC
+P56wM9xhMNinn+2is5SB2+b2ziFluSSLI8RWj7J1GAepFrTpiLtPz4njCNE4mtowev0Q2waWD15c
+TiZ+MnjaTShGOyP+m//3f+Zr6YQ7N3bRAdbtnKZWNM0F3797nyzfZn97m3/wX/59/u97f8nh9hZF
+tWZWrVmWLVe2+kRaclbUNLYhlqHb7+Q9UktwsDCBP7t/xLRoyLYPGIw3iXODszNkMsbHCRs7PW7f
+uUo8zjm9OOHk7SN+/ku75GGFmxfo/oh0mLI6OePsyQu+8ovf4ud++RdR0+nF90zTUBZrlFJESqEu
+S6VYa5RWuAClcaysIB4MSCcb2MZ2vx2BYLZY8cbNV7CNIVIN9x+/x/5gyCDdYePqTb70lW+SaEkx
+n6NdQ0+BRCJFRGttt7/IGYy1XXelDTSrAtmWeG/Q0qGjGoIjURm7o5v000PyXo/eaIO0N2GUZEDB
+8/OHxCowSGPGWcQ4j0h1t1/n6cWKKEup6prNO/v4Hlz86Mml5JdBY7uRcdENnY/297l/731Oi3N6
+4z65MJzOz/n4+JwHR6cI1ePv/cZ/xqu33uBoekEvG5HmAxyO1jQkkULjeXlzhJKCqjUY73He4y6H
+49ogufO1n6MmorCBfPeAIGrq9YJ8MsLoISrKuXZtn829LbwHV7a0Z+d8+YZm+eyUs1NHHaXY1nPx
++Ixs0Kc4XfD9//WPUELp7xlnKKqC5XLObDHnYj5jXRYs1iuccygBXguEFujNPr5qKE8vyAcD6nVB
+Yyz94ZheFNPPIk4vTnntyh1kMuTlW9cxxjDsDTHlmhiDsDWRUsRxhtJZ93MIlxvGirKkWrd4IRCR
+R1uLDzW1WRC8ZJRuMcr3SeId0myT8eY2W1uH9JI+SdxjvvqYqlqQakEqAiI4nLUUNrBEEO1uIfsR
+su945aUN5idLOMipLipcbT/dvRCgExk0/Mp/+AscPT9mI4p58OyU44uSQMLf/vbf5kuvfBOvNLtb
+e4z7m+goJVOSRFkGUWBvnKAICDzr1tJ6jzH2chIFWi/ZuXadfHNEWTaU8wtoCoabY+J+jrcxaS/j
+ztdvErRheXGOmdb/H1tvEmRZdt/nfXce3vxezpmVNXZXV3cXekA3xiZAEJwEkCBIgqNMc5CDIS4c
+oiyLdpiyXF6YYckb0hGSvVFQMrmwIkhKQZpBQiIGEiDmbvRUXV1zZeX85nffHc8951wvbqLphbe5
+qYy89d495////b6P559ZJzm8g7lMmYwNRnlFHmf0t1eIjqfM98c4rod18dr7bhgYlKXAMEwcz6PR
+ajKfTutmXRCC55IvM5pra+jlBEvnVGWF63rkywTbczgYjfjglWcJrUadeNQGiZJEscLAYGWwhqlj
+Qr/E8StMs0LrHJSNIR1EkVMWC2QmsIwQUSwp85SkmJGKBYUo8TyHXBlEiUXo9fHsBl7YYXd9lUJH
+FMUEpcYcjPaRZ1c8wzTBsXEshyMlGMkcM9AsHsw4vj3F6AcYvo2Jg2u7oDmbSdd7YWVo9uIZrdBj
+yw8RWYFl+Wyt7XJ56ymOTvY4Pr7LdD6iyFJG0wOieEGlY6ROKWVJkpekoqYOyKrCqOqVeyYrEqEo
+tUYUguO9x2TRsr6TC8H5K1tEUcrm1XOs7jSZjU/Z2N5h+M4jnthtkYwOSJeab72dorFotptQgs50
+fbde6WK9+IM/fWOwfQHX8zEMRW+wwunhIaZpce79H8JZ3aayXSrTpkymfPCVNrahWE4Fi8kc23Vq
+nlVVoV2PZy48w6XeJqMo4vrlF8gKg8Bx6Q1CVBnhuSWmU6LJKUTCbLbk6OQAKSJkYVAIzXyxJE0W
+LJZD4uKEpIgoVMEoWjKNFRuDJ3nq/LNc3dmmG9qMhsc82v8Ojw5f5XD0FkJlREm9O7Ytg8owKBSc
+VJooKymjDDMDtxVi+CadQZPWSkBl2hilic5LzErj+B6XtjeYxAnb5y4wqAy6KBqBxyIp6YQtDo/3
+Sc4WLEkSkUYRcTKhKGOiNGUpBJGQZFIiq5pH4lgGpQZl2kSpYDpbsFxESCnr3fIZ7KbValEWGelo
+gmtYJOMlr/7517EVfPcb73C0n/PwECqzAZWBWGZYZQVKkxcCqSvswep54vmEq892KK5cZjI+wQm7
+LOcLSmUgkpp7VWYLzu1owsaMybAgmifYrovpuBiyQpWC1+/f4onVLZqbV1npX+LqUy8T3b7F01cu
+UpY5lQIEKFfiOR6lLBiOH7FcSnqtPq61ziSKmC2OWUYT0nxKLHJiuWS4GHI8ydjpXaMVrtJt+Dw8
+eoObj29xPJ1hmEtyPeJ4ccDJNGGr3yRNM0xCTNtgnioals/lC7vMhyOSKqLIS6xCUqmE3Wc2mUQZ
+pzLBcj1s26R9rse4W3F96zo//PTHefMrX2J34ECWMIsT/vbd77BMMlYaDbQ0GEcLHNNFVDFHiymF
+FggpKZVCVRrTNGh6NlAhlOb8pR26yxxt2FiOQ6kqNgYrzBYRJ9MJe3cfY/sBlJJv3nlE5TpoJIvD
+IVZlUMl6yydUiq50XXtJcpzAQZWSwPewglb7xqAXcuXqk8yWBXbQ5vxT72OwvsMyWlCUOcGgjyhi
+pIqwKpN7by5RyiBY6dO7eIGw0aJYLFCy5M1H9+htbPETn/klwl6P6089R6Nh8s03vkOnYaF1jGGA
+43goBaIsyEVBqUvSpGQ6HTOcnbCIliR5RBQPGS5OOZrN2B1coNfc5ebeHb78xhf5v7/2Z/ynm9/k
+4WgfoTP2xkMeDCc8nsQ1BkHXC5I4F4xTyTiSyLzmcXlOwHpvldXOCulSMj3JKXOLXmfAxXMXCX2P
+axe2+bWf+RwqrvjLv/gys0XE1c0VRB4RZRnjRcKzl5/h4vo5MFzSEh5OTng4OSHKc/JSkZcSVakz
+6oAm9ByKUpLLiigVXL+8xsCDbssBy+TOg706aUlVozEcCy3r1r82KipdURYlSso6mn/2MzBQSlJK
+ieGaPPHK01z/kY9gbW5v32g3XHwXXD9kdWWdsN0izgX93YvQ8pgPT7E8H1mUHL4zBe3WacvQx240
+me3to5XENA2U0uwPj7FNm92dc5yc7vGXf/0f+O7Nb7PWXaEVuviWX6cwdEGUxORFQalylsuY0+kJ
+02hClqck+ZxpMuR4McFzGlzcfIK13mXWVs7VofLAodsIcW2LSTxllkTkpcJzLC6sdShlfahZFop5
+XjGNS+bzOckiRuYCkQmWUUQhCmzDBq3YOrfDJ37oY/wX/+AX+OzPfxo/bPPdr3+XJzfO89W3Xuf8
+yoAsXRIndVju8tYWWmQYlHTbA1zHxzEMLFNjGHX40DIr3DPeJ1WF0JAITak0jcBiMo0QpWJ3s810
+uSRaplS6QkqNUIpSSyzLwvZcsEzcdojXbFAKSbJMkFIipaqbHFS47ZBws4OQAkvk2Y14PkGkSwxd
+YJmaQleMsoSDg/ucHt7HCTwswyU9HmOoCl0qLNvBtEzEIkLEMc1Ou15pSYUbuPz1q1/lP37xT3l8
+eJ+djotjKpJEstru4dkuGJIkW7JMYvK0IEkS0ixmmUQs0wVZmaNMweH8iFlSsNHbptPcxHX6yEqj
+EFg22KZEyoxKl1hOXeb2PZtmwyfOBaXS9RVPaHJ9dkLWCgxQaEpVUilFr+nzq7/yc/wv//J/5aOv
+vEwrdHn1tTc52p9z9Pgxdx/dZTiZMJ0v2Gk3yYVka3WVOE94dHrA/eM93jm4x72jB0ziCalIKZRA
+a/leQcw2DUpdsczrSk23HYLt8Oh4wTwW2LbDp3/kGZ59dp033twjTgWD3Q2U0uR5jtaaoNvACBy0
+5xMEIWKZIPKiDmXYJp3VHobv1pSDbgOrLIobnmtzdHjE/Tu3a+JNmTAf7hE0HNbPP0E2i4gODvG9
+kPXLlymVpLW2Qh7HNFstZCnJoiWoCte26sxvBaWSZEryEx/7JG3bRWlJ4Fm4jkIbglzkJEnBZB4h
+RFmfLIucXAgq02QUTbh7fEC30WOtu03or9AMAxzHwHVtHAeavkleLPFs6AQhoWdj2xYYBvOkQChN
+XplMEoFUEnRZ/wcxKsqiACX4zIee4R//wse5e5zw7//ozzBLzTs3b/Kjn/kJbvzz3yGdRCwXU6Q0
+eHBySNsL6DZ8JsuIvKxotTo1usmymSdLYpG9RwawzbN9taqQVYVQFVlZ94nPbXc5HS0JgoDlMiFJ
+S954Z5/r1zY4txKw3gnQQJJLrH4PJ7Bp2gWOJcnmKcvDCVUhCTyPsNkgaAUIWdJcWyeJUhbDIbbt
+2KRJQhyn9WLh+Ih8fw/f8wne9zyjyT1mDx9gG5prL3+Co4NHmIHPbDxCpinzOEHkGb4fIGWJ4ThU
+hoHlesgip8JG02Sl7+L4R6RlSpJZ5NohF4J5nDKLI6igFTbBUAgpsB2Hh6f7YJoUyiSVkqTMaOoc
+z7KJ85jxYsZiMaIUYOEiVImQQGUiJUS5xDQrCiqEljxzrYutBYejktJx6Xlt/vGv/H1WHfjPX/k2
+/souN996mzdee43/4bd+kzwr6HV6fOjKOcjH/MHnvw62w9tHI0zdR1UCkUqCwMdyTR48OGSWJciz
+h2tWRl1mw6ibIrqiPHtfGgYM2h6TacrFnTXenC/QUuDbLl/+0j3e/9waF9Y8Ni2frY0ud4cxrmOR
+zTLSVFHlJiovMKp6YJJmGY4Z4HUCsvkUwzSRRYV9fmOT+wePMTDRVUU0mWC7LkbgM3r8iMn+ESur
+a3S7XUZ33mR6MiQvBY7vInWFFALP8zFNA6E0jmtiGLouPRsGyyxiNJ/S6bfxbJ+0WBIXJS4GiZDM
+84K4FBRCkSsQuSBOIrBBU6/49qcjJklCyz9EV+BbBot4get6pEVWx29FRqlLFBW51DWaodL4ocWN
+3/1F/uhPv8rJ/RNCVbLe9/jMZ36Un/rUzzLan/L7f/gndDod/vwLX0Dmko+/9ALXrl2gEAXv3HqH
+4/1j7tx7m0ZzQLPRYjqfchK3WAkcpMz51ru3CAOXJM/eA8EZgFaaogKl3qubo8+2dKZhEKcZKytN
+jk9nnNteZ3g6Ik5zNsw2p8cpTQ9cP+HqWp+2rjHJNyeSUVZzvL3QQ+sKw7WwKhsr8MiXKe1Bu672
+Fgb2B3YvcjoaE+UJnuciSolj28iqJBsdIIuMo4d3GdoWfrNJe/s8liixtcRtd4hnM0RRYFkWvcGA
+KFrUc1zfx7RN8rLg3b07XOm/n6qqUFrV71ckuSjJixIpYJkU5LlCl5LRfIEXuISexyjOcZ0A2/VZ
+WdtiY2WLne0N5vGMK7vn2Rs9ptVyeHT3JovlkKPTGTcfnODaJs3Q5upzqxj9A578gEW+aPPiylU+
+90Mfw27u8vCd2zycTLjw1Cq/+Gu/xKfvHfA//9Y/wxVjyukx7UtP4toWYSPkhRde5uR0SssIiRZT
+ZlmGazewTQPDULQDi7L0mCxrYk8uFblQKMUZiuKs/XdWJnAcizgRXL64wTeOHxJuDOgPOsiyZLEs
+2d0ImS0XuCUoMaNv2biOg17tMlksSYu6Y4xvYgR1Rsu0LNCa6GRE0OvhmRaWU3o3WoMNUrNAipJO
+r49jO1SirGl1DQfDqimoTrtJc2Ob8b17hJZJGi2RsqTRbBKGDWQpMW0bIWqMUilyTNvCoOKT119E
+q5xCZhQyR8h69lzkkixVpIWoM2GqQkqF5Vg4rolVVVza3OH8yiV8o0M0TVgLt3C0T16qmgPSbGLl
+JWIRcXw6wjEg8EwM22LlYpPrL4QY83V+4NlP8YkPvYJu7xDPF9x+9Zv4ocVP/vJPcXx0yB/+7/8a
+J5pwoe0StjqMZikP945p+T6dsMGjvQPCZki3GzIcTepTsNvEdU0C12a2TOmGHoWQ+LZJJuT/B4hS
+cVb5pQKCwKXfCdjdXOPBwQQvDLhyfhXbhuG0nty5to0XWCzyAqEqnKpi1XPxA5+9/Wl9nQossOti
+lc6Lmt6rNLqqG6F25lTY7RA5qumy09EQwzDxfR+ZSMzQBtvAbfnYhsXo1jtYaBrNFloo1tc2GI5O
+6y6QyBGixD779HpeE8uxCFe6ZHaFjazjNFGKrEwMy0EZJtqUmHZFUWqoqAf/VDSxcVeh5Qe0gzYW
+bVrdPg3Rp+95HN57nUJMGYuIKJ2w4tm81Nni9eqYBMEwznEI8dJVfv1z/xPf/Pp3eXR6Snxym9Hd
+m+gi4T9/+TusDjZ5eHjE0cM9LjYs1to+j+4+xFgseOrpC/zp//M3NFwXz/c4Oj7ik9/3ISbHpwil
+mCQxW70uabZkvExZaQakQtZlvTPqjWOCquqgoIKzhY6JVlDIkm475PhwRLZc8iOffIaVgcfdexNm
+qckHPv40fqckMDz+6vO32O64rA4Mnr6+xusPpjXaGROlFINWk+loTkmFYxuURYFZeCUPH74Npap/
+nap+d4miwDJtZFKisooyq1iOphTRgmYjYD4Zk2Uph4f7WKaFZVp1idq2z5jPgjLNCBotzm9dJvSb
+GK6Li4uBQ5xlRElCLgSYJr7r4Ls2gefSCkKaQYOGF9AJe3iug+dA4GqkuWCc3Wc4f8S6s8Zlu8Nl
+r8XlRg/LsHm0nJOjyJUJlcnHt5/h9G9Nfvc3/wn521/Hz2MevfUWg8Di/v6E9V6P2a09Rg8OmCcl
+mTRoN1pMTx7TNxOeubRDJUuunh+w0jFJs5j1wRr9TpMwsGoyX1mhdA1yGcY5aanJzwh53wOrWWfF
+Odsy8T2LTqdBJir2TmZs76yyuzmg6TcYTyMMU/PstS2kNPg3f/BNvPY6pVPyM7/8AQ6SlKvPbfDU
+1Q7NhoHtWIiiQBYF8yhGSInnB8hC4lgOluWaN5bzCBMTrxHWqYmqjsNWgB80MAybsLeKZRgM1lZZ
+ziK67T6LxaxmRqu67OX5IYZlUhYFVamopKJMMn72lR/nysYmVlVSFYpCSpZFxnS5JJc1OM0yTBzb
+xrJMfNfF81xsy8IyHSzLwqxqFINQGblYcO/kHV49+i6vD2/z1myPt2YHvDs/YiwTfN8hygQfeull
+ruyu8oKTsa3H5HnCW8cTXvzAdV594xbTpeajH/t+vG7IOw/3QEO/00Y5Ho1el1yVXH/pA7z99gPW
+eg4Nv8n9g2M21vpQJoymM5RUrLdXziq3BYWq772OaeBaJq5lYZj1Q7Zti8Ggw+pqB8M2mU4TplHK
+yy9d5Y3X79BudXB9g8sXmhwcRjw+WKAUHOyNefG5LeaziCcub/H27SE9t8HwNGKZ1hUYU9eUXLcR
+IIsSz3fJkxR7Np7XAXVDkSdJnYmuai6HVgrX9Wp46OEBjW6fbnsdnVXsnLvMaDysodOeC7ZNKmvO
+otY1ArAWTJS8cPl52r6HyBWlU+IaGTYuWhscj+tE5lqnT+C62LaBZWkC38GobERWE+gqQOqUCoul
+iIl0yqxaEuuYXBZns17wPBPTMekNVvjFX/0ZBic3Gcz2cbe6/OnNEWbLYufiGk88/SRJ+Yhuv8mr
+b77J/uGQlX4fv9clcTW/8A8+y2vffo12v8/rt++wd9TidHiC6/kskzm2odNRkAAAIABJREFUa+IZ
+FV5oQ5VjGxa+ZdP2LHJR1Z9Yy8SxTaSuM9fatNhcHdBfb1NVFfNJAoaJbzkYpsloHuE3+5TK5eR0
+SZxkYBgsximPH2asrxt4bsXaepPktMLIKz763Hm+8p0HKG1h2Aa6lEhRIPL0TO7h2DeMyqixgFWF
+YdSE8eoMjqy1xvVc8jSh2W5iasizlGvPPkdm1Ih7bRlo28LtdFBZjhc2akalUly/8hz/8Md/g6qs
+8CqTMitIC8EsXSB0TlJmDGdzjqdTpFJYtolh2TiGjWfWtFnbtAhdD9OocMyKEkGJIC5iCi3ArPAd
+g6Zv0235FKXmEy89x8vPXyZ/9dsUy4jbsxLT9TBLxee/9Dqnk4zPfuaT7B0+4s13HzCJMrQV8Nqd
+fdphk+Gjffxmk9ULT/BHf/J5tle3ubS5jmlb5KLkwy8+zXxygllpYqUwbYMsz7BNsE1wTZPAMQkc
+G8uoN0SV42A4AYNehzdefxdDSgytGLSbdb3G9sHQXHviIt/89ju4lo1nmzimyXQccW5rlbv3D0ij
+gvsPFqwP1jCVILDg+HSJyOupXNAMMYy6e2W5nn/jewwnP/TPcIISP2zUkVlR0O0PKMsCVSmmw1Mu
+nL/CdDGGho+2LRrdHqZjk40nIGv6OoaJLAWf/fSv8cyV69hFiqlytMzIRMY4HZHJGKkFhZDEecbx
+bMpwsahbEAZYho3p2Bimg4GNa3t1QM828J2KhmvhOgahZ9EJHLqBjWOaXNtcYyc02RiELIFRXrE3
+TWj4Hu8+npNbIX/vM9/Prb377D0c4Tkhk1jyxu27lKWi7Qd4hmKalbz80Vf46y9/i07Y5NLuCm/f
+vcfR6Qm75zZ4995DtK5ItcJrBCRpinf2dexYBr5jnvHSalqCNFzGUY1V1kVCy3c4N2gT54Kg0WLv
+6BStFefPb+CYBXlcm1+SVOA7LtGyoN9tcnqc8vg44/bjIaYFlsoxLZvFsp4gNhq1WCRPC+xSiPc4
+UEHDJ44zDMugKHJs28H1AsYnx/XsVkq2zl0gzTNG+wdo08TyfbLFHKfVpDEYMN/bP2v3N9jYuAC2
+zehwj3PNJqEXEBlgWApdWWjtgrZwbfAdg0JClCW8dvcOG90eT2ydY9Bq0vbbYJlUhqJUNdpBa4nr
+mLQ8C9uwyEuF0gaplGwOumyf28b2LWS3z+MZyMDlW7fuIw2Hlz7xMh/76Y9z+1/d5WAR0fR6PDo4
+5OkLO6x3u3iVwcr6Br/2W7+B291EiIy7ozHffGOIkCW+F/DElaf50le+w+pqj5YhuHTxHPFqi5s3
+7+JgUJkgAduoH7TAIlMmK70mZVFw+dwqWZrgY/BwFvF4cozneShZ8aW/fovf/PUf4Otf+TZ/9ZX7
+NIOAshAc7o/QuuT1m8coZZMIwe72Veanj7FJ8T0H27ZxTROtdL1DAG5g1BxmXVWErQZ+q02WpChZ
+F5bDoIXj+Oxeukqz3WN//yGiyBBZRpll2JZN0O5Q5gWqqIP0upT8+Of+S/qbG9x59Q1euPgkrikp
+8gWj6JRhNCEvc4oyJy8zVCVRlUYqjaoU8yThcDxkWeRUhiaXBYUUFConLhJmyYJlnpCUGfM0I5ea
+RGi2t9fwXIfrL1whlopFEvDHn/8Obz48Zv38FZ554Ro/9JM/yJ/9+V9w9GCPj/3gR3nj3QfcvvOo
+nj9JzfrGFp/71b/PwSTCUDa///v/F3E8o9m0ePaZXXzP4/u/7wMcn4xZ7XaZLmc0Wo16KnUyQpWa
+KJcMU0laVniWRa40uzubbGx06YQ2P/SRa7QHDncejDEsj/3TCaahsC0Ds9IUcXpWRKuIkxxDSxqe
+xb3HU5SsUEphGCazZc5L77vKa7f2WN1ew7JtpIRSKdprAyzDMG6cARmhAsf1yZOc3Ve+D5Hn5PMZ
+YHLl6vMcH+5hmCaO51OKAlmK9/xHMs8RSYLlOnyPIvbf/Pb/yPHE5dt/+594ZnOb1bBFIQWnsyHj
+ZEReJkglSIqcQpXvBfBMAzzbwjQNFmnC/mjINF4Q5xnTOGaWxsziuEYZpTlLoVlkFZubT/LzP/8p
+ynjOzrl1hpOcP/vCq9y88xDHa3AwGvKBl9+H4Sp8q+Lt19+mEIpf/69+lr/64jdZJpLRPOLnf/In
+CActvv6t1/in//S3KUTGzkafH/6BpzEtzYvPXODB48fsPz7l5GRIXqQMp0ts26bf8hiNFpimSSoU
+lmnh2BZSw6XzG9i+RbxccHIy5vB0TqfT5zu39rAcg9W+x6XtFnEcc3Iy5eB4wdpKi1lSoITCNmFz
+tUmWlyhtvKfyy0rF4ekUYYLR8MG1cdoN3EYDyzTNG0BdrzQMBltrWK6P2ljH29kltH26jS5xumAx
+G6GUZHVtjUU0R5YlhnlWxtQax3FRShG0+1x84kk+9pEfo9SaNLWZRVO2mn3cSnIyP2WaTChkRlbk
+ZEIgyhJ51nA0zk6gtm2i0UitWGQJp4spk2XEaBkRK4ulCkmERXNwnfbax/H7P8jdA5PVzT6hD57V
+4ktfe43nnriM5zpcWN+mg8GDdx/x1W99h/YgYPXcGobQnN/e5PadPS5trDEa7vPv/+hP+OY3vk2n
+GXLx3DbRZI5VmXz/R59nODlha6PF0dGIW3f3mMyXvPzyM1y62sQg4fGjCaFr0nQtfMs4A8uEXDy/
+TVFKNgYdLAxeu3XArUdDslJhWSbXnlwBU3D9yT7TRc6g0yEVEsty8WybohBsrXUZzhJKVZcSzm1v
+8PSVHcoyJ04FZiPA7rRx3JB4PMWyHOeGYVs43Q5eu40R2MgsB8fC2djCkCXx0T6mYxNHMy49+RTL
+42NsTDY2z5MXOaUoarqs4+L5AVqbfPpXfpWLz17g6N0RSQxJVtB2HFqBwXg+YhgNSYuEtMgpZFkL
+N0p5VlPl72CgxplsylCYhq4BbVqD28Vt7hLnmnmSEaw8T1ScME9yHhz3eXgacns/w/ZbnEwPePD4
+AR985ir5csr+yZCT4ZSbdw65dm6XzfUet27f5ur5HZYnB1TpHK0qBp0WV8/vMh0NWW24ZFnJg8fH
+vPKRpzl6NObw4TG+WaOA7z44rIVVDQeRlHWRDwPHAMO2uXrpInGWs9Lv8fhoxKPjKQ+OprUvw7Qo
+Ss10XvD+F3ZI05Tnnl0lyWRNuVe1eEticzJL39tzO7ZNu+Gy1XGYzRaMJku8RlCLQHOB1epg+X54
+o39uh3B1HSdsUcxnyCzGbTRxttdI9u4iplOC/gqN/oB8uqAfBkTRHG2bFHleO/QA07apKhMsm0/9
+o3+CEzi89aWHNJ2KB6cTosLgQstimo4ZRiMKmZIUKYnI3+smC1nWyX+og3yyJrEaGHVz0gChNJMo
+QlsBndWnwfQYn7yKyPYZHnwNvx1S2AMivYM0ziOc81ApLuz0GXQ8jocL7h3sY5Zw/94hzz/7DBut
+Ll//0ld4atXF0QJDV7hhE8NxkFnCRjtgFmVMpwl39sYky4Lx6Ziua2DaNUR8/zDCtBt85PpF7j06
+xbVsTNtCabPmd5WCh8cjdrZ6fPvt+3ieheu5pFntnFAKxtOCj3/kEgenE649tU40FwSuR2nY3N0f
+kRZ1egNqgaVpgKELpvMlF3YGbK63eHj/CFwfuz3AanUHN/JlRjGfIeIpdgC9lQ6GHyDKmHIyQccC
+jc389JhCVlS9Ptrx0EpTirx+F5+R1d2wzwd/+5+z8fITlIeKe/fGPLzzmIbfxPQNcjNEpSek6Rih
+CoqyIC1yRCkppUJXdTdZao3U1RkOSaPrMTVCQywUpVL4jSZRtKTTv4TMFygR4boWk+ObtDormE4L
+0xvg9J6mu/MJvMbz3HzwXaTIOD7dp+25SKm5e2ePfLkkW86QecJa26ldin4Avs/3ffBp3rn7iDiV
+lFXdc254PtEyO6MEVPh2rb/bP57z5p1DPMc580QYgCb0TPAcLl3e4c6DB3SaBlmhWaYS13XoNjya
+QcB8mbHaD7l0scdoEtHvNrn7cMrROMZ3HSqtkFqdLS4Mtlb7iDwlTnM++OIKN++PUEEb028i0xQL
+y77hBwEWBugKr+2xFAnL2RwRzWup5DyjiGIqwOl0sQbrhGGAjCPi+ZRK18F1y/a5/rM/x+Zv/UP6
+gcnrf/hFHt8f41gOO/0VVnsNXrv3oCa7iSG5iMnLglIpclFSSInUCiHVmc6mPq0pXb23LC815PJ7
+foWC3sYu09NHdNYuUxYCx3PJlqfE0TFhe4NCZBiWSSYtRrmH0X2FogqYn34bqQSmVa8le50eWS5w
+LIMoF/jNNsfzJau9gPd/4Ck80+Lh/oSdnS1Wuh0c28Y0QVawSAps32OZFHQbHqtrXR6dTnFcF6Er
+bBved2mH7z4aU0rNaHzKpZ0OpukynhVIVRFnJVlR8sSFTWaziDBwCELIcsl0WnJ3b4JtGISei2FZ
+tVDLcdCGRSnrm8fJUvD4KMEIGoSrXdLJKZbleTeKLCHLkpq+NluCaRNsruN4DnKRUOUlmDZu2MG2
+bIrhEflkiCpyijynosIyPS6/8lO8/3duMI4VRpLw1h+9TmitYGKS+xoVK5SOePhoj6xIcMwMURZk
+okCeJQLVWfJB6/rd+70yes251iiMs0F+7RhyHZ8snqKVSdDbxZAVVVVSpCN0mdYPOU9wLA/Pssm1
+he1doBWYqOQ2BhXPXXuKlZUOZWWiTJdSm0yilPOrHUyt+PLXblKU4AQhiyTCcU3mcUxSCIJGA2U6
+jBcpTc/CsyuWacGg1yVKckzL5OmdLV59cIS0HKJoxvntBuO54MF+VC9pTBPLtui0W7RbNVRmOsvY
+2ezx5s0xt++OcRybOC+Js5xer1XbTbO6hrpYZoSeg7YdFrFAxBmVEkghsMJu74Zh1MhafVarGFx5
+jv7zH8G0LJLjIWF3gCollWnWatNSoIocjYFWFZbl4gR9PvQ7v4e4us74a5Llacnxa+/itFeonA7C
+dYmGB6TTIaPxAYtMk+uaGy1FQfHew60/sVLX4km+56Yw6jSErGq+Y1WBZZoMVrZwGj2SZIxWFabt
+4Dk2WTxC5BG24WBZNqVYUmmwnSaqKlBVg8DZw9IZtgWyzFkKQdAbkJs2Qmh82+FouKDEIpcQNpuY
+lkGnFSKkwvMDmp0+dx8f02w2EaIgzep0SpwWXL60zdrqANcJ8P2AuCiI8xjfsxlPC5SqcExoNzxs
+2+LqpW1CxyZw/Br4vb9g/6DeFZhnyoFOu4FlVCRpTikVoqy/4mu7nM1ymaOkpIiSuiXie8ENKURd
+lHFdwo0tjEGfxvnLjF57HV0a9J59GbGYUWkDq9nGCgNcL0QkCUpKnKDJp37399DPP8/kVoS61WC5
+LzA2LyEbJRsrPrNbd1ieCqbTMYFf0Qgs4qQkLwWmUVJVJfJ7D1h9D5FfvXealrpC6AoFFLI+dBlm
+zbFcO38VHbSZH9+v/WdVhWEqyiJGFAmN1iqyzJH5HEMmVDpGG4IsnrI2cOh4DpaGRV4yiRK++849
+Aq9JUShkmWO6Dr/yS58mLhOm8yV+ELCIM8Jmm2+88S6T2ZJlktJqNlkkGVJX7J7fxPXg0qUt3r71
+kCu7W/zt6zdptUM8x2E+T3Adi37DJS8kzdBDlkUNUi1y4jxHyXph0w89SqUIXJvAs2qNbQVCalqN
+kIbvEjga26qIYvF3cjbA6nV6NyqtqQyT3rldhGmw8tFXSE/HLN99B6+/QePCE+hoTnywh1YKZIlY
+LqikxrR8fvJf/1vECx8nyzTygUQea8REk400KjSJ929jZiHR8ISwvUsplpjWFCmmZKVCVga2Wf4d
+p1rVn2CMOixeqgohdR0er6BUdTm90tAI2zimQ+W4GNjEk31st0ujuUaeDFGqQMmS3to1smxJlo6o
+ZAKVRMkMz9H0WtBrt7GbPf7mW9+iKAoKqdFGxebaGh/6wFMMsxGXnlhHVYqD4xmLRcnRcM5oMqVS
+dW55PI9YXVnh3PYq/b7P5UsDCqE4OZwTFSVH4ymdVpPNfsjTF+t3flnW6F9ba3RZEvgetmNRYUIl
++ej7L3JyOj8jHyks08D1bBzHRlcGcZqT5gWhb2HbJlEiMUzzzNwGZhQtyLIMUeQM793F77cxLZP5
+a9/B769gNTv4QffvBMdCoIVCCwmmySd/51/Aj76Eey5m+fUxR3/hkBw2SE8M1EkXcdNledjn8O2/
+odk9z+z0HYL+K8zSgLKCQhaMooJxGpBpB3VmCKr3zBVS1w9UV/8/esczvY7MItTsEEtleH5AHB1j
+2iGu3wM0eTphNrpDf/0CjmsjigV5PEVVPtNYUXkdTudzvvHqazx5YZcXntgl9E0enpxSBQGrW6tc
+vnqO23ce8/T1S3zgw1fJypLxJOKpixe4urtOv92s1QdZxs7OOlevnufB41P29ifsbK7wzv1HWIZB
+IWrNweFoyYvXLzCLBbZhMPANXBRpElPpipPRnDgpGE1jtO0SehbrDQe7UkihGE1jpFS4roPrWqAr
+VKnPdHl1esTAwDJt+0Z1FvM0LJMrn/okj7/wRYy8xGv1CFY2CQarTF7/xlloXGO6TYLeCj/9f/4r
+Wr/w/Zi43PwXd3n4xwlG6SBTDxFPQBs4Vp9keIzXWWcZ7dEfXGM2uY8sEmSRkWUzmmGLygyQ2KAL
+qBRSKUpVfyV/L6hmnTkMhdTvYX+b7VVarTaubdFo9XEH51nOxiSL47rBqPL6W0crlIzpb1xDFApV
+5piWg5JLvu+DzzEe73P3/h52pbANjawMLl24gKklRydDKsvk6tVd3nr7Aed2VzFMh9def5fZMmE8
+j+oJ1dqAQSdksYiIlgUbqwNcy2c0GbGYL/E8l6KUXNxe4/BwzOu3T9he6aCkwNKalmeTVxXPv3SR
+k+GM0DFJkpJcKAohUEKiK2i3G4znGaWGl5+/RrKY14bSquLK1S5Hx8mZjs/Asmz7xvcSHFSa9GTE
+cu+Q7somi4M9fCfANiXZ0X4tgcBh7fr7+JH/7fcYOs9x/wsGj/94QsO9iFyMScYpptnCdkKUirEd
+B0MW5It3sTtbzEffxbUk2XIPJUtsp825nR0KMUUoyIQ8O2jVy4ez3xPXMvBdG8uyKFV9TTIth7W1
+i4Cm1ezgOB6l7VHZbYpogtYCo5JQ1YeUslgQz05Y33yeTERUlUamE6LFiF//jU/zrW+/wcloxjhK
+qTB59spFZB5jGgYHB0PGk5gnL23xzp27bGx1OLe7w5tv3QdqnW4Q1Hpbw4DT4Zy80ERRRqkUB6cz
+SqUppea5py4xHE1wPY/dc6tkeVGHJBScu7hCZz3g5ee2uXP/lDgrOb85IE4Lokzg+TbPPrPB6TRh
+mZZ0mx5FHOOZYBoV159voB2LKAbTsbBM077xvSuJgYFIUizTIplN8IMGchkxufcuSghEUfK+H/9l
+LvzUf8+drw7Y+/OY7E6dHCwWGY32Ol7DIx6fYFoNtFzWiY9ySZHdpzRKrKCNWh5gYOP76zRaT9Rt
+dz0mz+dUeJh2GyFzUHW3x7VMfM+h4Tm0wxDX8WrPsddFVwag/k6OhUlZVqTRuNa0Oh5aF4DG91tk
+yZAim7O6/RyiKKl0xmQyxLYsfuwzL5MlBTIveHJrg4YDhgVb613KQrCYLplHMS+9eIm7d/bptEOu
+XNpldDLENw1C38VxrDMNLpRCMxzPCX2f2SLCDwKk0rS7LZZJimUYSFVhmnU0Ny0Efsfnyad6ZCJi
+fbXNbFaeccpMolTw9LObKEuyTCTjaYZrW0hR1MMgw+Tew5TS9ClKKAuBZTveDc9v4Dgeln1m3A4a
+eEH9MyU1vt/Faa7x4q/8t5ibv8Dp/RZaWaw+77L72Ra7P+aTTk3soImUgt5ghfHDr2KaIY6MGT36
+S4r0lFZvC5mcIJMZjuPiNzexgk1Ms0ESHaHLGWWZ43oh2AGe41FVJQ3XohW6NMMahO07ActCod0G
+ujLRZUFRJNi2Rzqf1ILq9jp5mtZaPVlQaY0fdinLBJHPqbRFZ+0qeT5FiYzjw0MCu+QHPniNycN9
+qmSKYWiWRYlpwvHxKXG0pEwyjo7nvP99z3JwOGIxmxKN55iqJMkKRKkQpWa6WBIvE3rNBr1Bm/E0
+wnEdlNKsrvWxTDCpcC2bZVKglGKZlzQ7TXKV0uk4eJYLhs3RaUxSlJxMU5JSsbPR4LtvnSIkNIIA
+w9A4noOqIFMG0g5obq2ilcI2DBM/bBLNx/hBA1HU/1glSirPprtyAaEtLn7ul3Be+mG077PWdrGa
+LlVXUK1UZLFHks7orFc01leokgOevPIit/7gz1gux4hsiB3sEO19sTZTqwjdeZ6Uiq7TIBrexDB6
+FIVFp+njuhal0SBPDaQFwlI4QYOmYxE6Dmal8JwAu7Ndn+TLBY5tIESJ7wa4oY8XbCG0S3zyDl64
+Rh4fUYoMy3KQpWA+ehMsC9drUaCZJyVHh5ov7X+RNbeoUfvxAttt0w373Fk+4Mm1JnmleOfmHnEk
+uXJph1tvPcKtFAaaUmsqadDvdpnNFrRDH1EIfM9GSk1R1uZyLeHK5XMMT4a1/IqqNpibHvNI8Oza
+DpPZhNFRxLu3pzWlzzDxHQvftJiOC9JcYZomrmNj2g5JURKlGtuzyJYxVsPHbzewHDe4gQG26wGw
+sraJadrkecba1jUqu8n5n/gkF/7rn2P9fW3aV1yaWxbBADxXYuaw/FaE3PPof9ih/WGT9Q/5JA8K
+0r0OIhlSqRyZHqLECCfoEKy+COUUy+2TTB/gmDZZuo8frmDaYNk5Sgk0BqryKPDI8BDaxDU9ChyW
+KkCYTSzDIPAcfN9jNJvSbPVxbUXQWaFyujUeyTKQYkmlKzy/iSxzKq0p8hmWZaBkAVoiUkWVDTFE
+QtO3KZRGmXAwmrE+aFOUOYeTnGUh6z/oMiPJU8pS1tFYy6olXUnG+mofLSVJmrO9NeD+/mntYjIt
+Oq0WjabDtWvnGI7HnI5jHh/NmC9TFouUUkG3b7PSbZHEAsOoTWhFKdk932U0jRlOsrOIMoSBzWiR
+IlX9/heipMjS+m9p2c4N0w9prGxiCMXw+PGZNTSk2VknOLfFy//sv2M48Tm+FyGzgv3/8JhH/+4u
+d/+Ptzn8jxnVuE/oWgTnK7hY4pgGD/7NEuY2tmMi0mNkfohh+kgpaZ57GcsL0dFDpJiRRjfprTxJ
+styj3btKWS6xqpg4jmi0Bph2k1wWpEKRS8GLH/57nMxLJCa6jDFUSSZKKjvAdhs0ApsyjsjTjLzI
+yOMJYXuNIp3ghi2kyKmqWm1T6RJD1SlIbQU0bAevSmpHReAS5/V18Gc/+wkOxlMOJzG2HbAy6FEI
+gWfbpIUgL2vikJD13Pz6tfMUQhOlBZ5rMZzMaQQ+lmXTCBs0Gh5Kl6wPutx/NGQWpfQ7TSyz4uBo
+xpXdDfJlzMrA5/6jCUJqxvOck1GC63nMFzmObdFrhxhGXf1pN30Mqyb1aaNC6hKrtXn+xtb7P0Y6
+HiHzGNu0abT6aNNG202e+Mw/4uY3WwzfXdBbt2kkDsMvjNGHq+jFCZ7pkp08Ijk1EOM2vuVz/Pmb
+xG/00GlE2HsfWi2oVEKZn2AYLvniEc3tl9H5mKbjk2cz8nxCa+UCoshRWpOnc4xK4jo2ntfBMn2K
+LCJOE5zBJvM4Z3b8iMBvQGUyHh1Qao3d6CFFzmJ6Qhi2cZt9clFg2R5lPscyndoRrFQ99UJTaYFl
+2VSWT4lme7NHlKWMFzm2ZbHe8vnbN95h99wG+wdTHMclbPukeUqpK2zHI88VRVmhqorAc7jz6IR+
+t1erBqRkHqWUsh4F93sdWq2AZZzyta+9TRLnhEGAUpKG52A6NmmSce3KgLyQDMcZ86ikEPUpPM3q
+fbBlmWytd1gmGaWsSFNBGDjYrkUhJZUJ1s6Hf+TG7HCf5PAhRiX+X6be60e3LD/Pe1bY8Yv1VdWp
+dM7pEzon9oSe4TCYQw45NKMt27Ipw4AAyYYBAYZ9J8C+cMOwAf8LBgTDECxfOJCSAQI2LWnIYSaH
+5Mz0dE/nPrFy1Zd3WskX6+tDXfRFoxunCmfvvdYvvO/zboKSwXnB6NarZK/9HfpvpNz/9oj1Rwnv
+/7Ml1z+uWZ1ds57O6OoOmd4ikFBfadqnx9x6fsj8g1OW55/iQknSH9I1ZwRXY7tT8Jr24ocoUWDs
+kp0bb2GNJNg1zixo6hmB6AHW0hBCR13NI9ag7FM1DfnwBtVsSp72CAgW83OscSR5H9PU9IuSTEny
+4S6dylhePGIw3KdenZEXQ0wXNcdSKpxdo3RKkvZo6gU7ewekecJyuWJYJJwvlsxqw+dPrrlz+wit
+JaMyoWsNWZZSFAW18dFVoCRN1+G9YLas2N3dYl23NK1h0O/RGcPu7gTvHE+PzyNbMgSyVFO1lnnV
+kmcJ/SJFK0eeJeRZwQefXaJ1VGl2Nq5P9/YmJElgXbXMl010TSjIFKzWDm8CuquXTD9/D+UsSVki
+g6dZrkE5nv8P/n36vzHArBWf/bbl9LvnzH/8CF+f0tWfUUxeRuRjOiuRvsfBq4/5+j+4x8XfGA5e
+2cLbc64e/yk6L+lvv4gMnmAW2O4C4zxSOIZ3fxEhVmwdvUGeWerZj7g6PyfLRqRZgq2OCW6FCBIl
+M6QqcF1HXijSbAsfUrzvGO/eY3r+kOX5Z/RH+0id4v2SVKwp0pSFTpFJL7IuXGRbxMbeEILFB4e1
+S2xX8+TsivOTj7kx7vPwIqaKOil488vPc3oWA7KNSZkv1+g0Y7FacTadkmmN1wJrPUJqnn/xLnkB
+59MFQgo6Y5AyPiQlwNQNiZL0y4R5FXMu+kXBuF9QJoqPP5vx2kt7vPvhMc4HhPcMy5TrZcxFTFPJ
+8y/tkokeTeu5Pmt4/OgqCg02M3x98jffJXQGh6SuK6SXaD3glb/zG+z9uz/H8YOE09+fcfYHH1LI
+E176qYrWDrn5rX+PbLhPWzf4rkdz5WD9En/xv1xSqAHr64bBjZ+kLxjtAAAgAElEQVRidfX/UM8+
+BLdNWk7QBz/N/Phf4eySzlSsZ59iB2OGasb06ROSVNHr9WhW5xAmmC7GrxlX0R+OEbogeIOWfbxP
+SHtDJJp6XUPweAfG1ZCM8caxvHxAzNgKrOYn9MY3sc0MpRKcM4SgNkd1wNkGFwJnV3NW64qmqdkb
+DxDCc3g4YfdgwP372/zpn/0Y03mE0vigObk4wTofU7ydZFCWHO7tMBr1SFJH3dQ0zRcpbVDXDUWW
+8xOv3eajj59Q1S1aKrb7GYPhAB9ayjShbhP+5K8eUVWGQaEpMo2xHu/joKcsc5bzFWu3AO/pWkci
+IZWwO+nRKRVFd3lRkpY9uqomBMXg5hFf+2//Jz75niVdzDj8CcNb/2CHF755h8d/nRD0W9RtgReC
+tkqpriArFe000M0E7eqEtH+Xah0Y773M+vo92uXnBNeRljsMb7zJevYhwXe4ZkHW36GefoJyluXi
+GNvV5KklK0q2dp9H6hyvJPPrp7T1EpVMCOKIydZznDz4PRCBpNilXl3hXYfOEmy7pqtr1ospvcE2
+IRvQ1At0ktKuz8nLEdZUG1ia2gxKDEJm6KRk1IvxfBfTOffv3+btr74cfcHzGffu7nN+teL8suLs
+ckq/l1FmGoFk3XQMBn3uPHeIFDBfzjk5uY6aZaVBCLYnI5xtWSzWHOzv8vjkGilipJ+QUbpSty2p
+FixXbYxCKFOcdTTGRei5jkl0W0XKzqhgMBzw+HjJuopXRa+f8+TpDKWL3jveGLq6wTuPzvr80j/+
+J3x+ETj8esadXxzhJgWrxLI8aSnaPVbna9waev0KEVKKHU9/v2D2ZIGyGq9TrNVkwwLbrSgHz1NN
+f0i3PiGEBuHnKOVplh8jcNjVQ4JrMd2URGekqcL5GfX6Ch8knbF0bY01hq6tSfIJaXnE9PxP6Joz
+esN9eqPbJGmP1ewRSiu8afGmRQhPmqSEtIdH0FVXEGwca3briCrapHb7YEmKCUk6BlvRdWv2drZo
+moonT0+4f++AVbXi4mrKzZu7PHo64/p6gXOezlhcCAyHfbx3XM/mWGNIdMLF1Rwp2KCZA2WekSWS
+6+s5p5dLtscDgjUEZ2k7i9Kazjp6WcILd7a5vF5BiAC1qnO0JjK3JDCbrfnk4ZRHT5f0y5wsTRFa
+M1t2VI1Fpb3+O6bpYm2N4hv/2X9D9/rbbL25zeTFBLvI6U5WLP8i4/w7EvM4Q/oCLXusHwvmT06Y
+PfwxdjUn0Vt4a8gnY1Tq0bmIUewioRjcppk/pF09JPg59fxdgp0R3ArvKrK8T9qbkGYZzjcgGnAt
+TbXAGoM1DSIpccbQ1VMEDsEa0y45uvclVssFpmtZzx/hbRUTxtIUcCRJQggKFxzt8hwhYvZTCBCC
+i8ndQoBIkelejPrwDW01ZWdY0LQNQgieHl/R6+dkueb8fMbLL93CWMfF5Tw6+9KEybBHoqOcpmkN
+aZ4yn69pWouxHmsduzvb9MuM88sZ/UEvUg6MpUg2o0sd6ZZX0xXjfsbZ5QoZAjIEHJJ1a9FaofCk
+icLaQL8sNsuYQJCK6aLFGI/WKqEVELzglZ//e9z69d/iLHSMjyRPf2fKp7/9Ryw/P2H28PubrUyF
+zrZJi9sUk+cZHd6nGP4s6wcNXXeMkoakm1MMBwiVoQYJIS+Q8oidu7/J9YPfo16+S96/RWWXOLOK
+99L6CbIYEOwK4Q1KpDhPTB/9Ig83K+PK0hnq5TG7Ry9TFCPq1ZIsHyFIkFIhlUSnOUHEWLy2WdG5
+lsa0hA2UrGvX5MWQrpmBkDjfoZMRQmZYU0dlSFbQ1A1aSrI0oW0Mf/29B7z80iGDUY/PHz3mzbcO
+SXPB55+ekyi5EcUF+nmC8xEpW5YlVRP9RR2G1XqFs4LhoL9RSMLejQln5+cMBxnP3d3lerrms+Wa
+62nFsEhZrlvKUlNohVi2BB8YT3o0dR2TUrUk0QqtBCfXNWazcVMqzd6xTcN492Xe/Lf/R9phTiEX
+/P5/8Xv8+J/+38w+fY92dowQCUqlxNQhQfAV1ew9Zo//itmj79GtWrLiPnl5G6FGNPMas2yxlcLW
+Eucy0t4+uBXBd7TrY5J8hKkvQNiYlKYkPlhE8HhTE2wTZ8mBKMYPDm/jkEIg2Np/HZIMmUwY776J
+aSqU6GiaGUmSIfBYU22QEpogJEJEZWLwliwfYLoKITyIlLTcR4gM2y1JdQ6+pV5PKfOUsuxxfjlF
+eM90tiLLUu7dO+Dpk3OaVRORj1+IB42jbTvmiyUheG7s7bKYx/Bn6xxb4wEvvnhE3TRIISI/OwiM
+Nbzx8gFNqNnfGXJ13WCMYzwsWTctRZmwtT3k9HKNlILxIGd3q491UJQZQsYFRxCazlq6zqJ6o8k7
+pjG8/Yv/JRedpyx3+cP/4feoTh6TZUekvRfIhl8mG30Nkd9FpYdYk4C6gdRHiGSCTEuWp/+a+ZM/
+oZl2uC6lm73H/NH3Mcsat26w7RrvG8Y7t1ldfkRW9GnW5yiV4sx8445oYl/aVuTZiCJPkdpT9nfQ
+6SSK8WyDty1CZZSTl+lt3SfLb7BePEL4Ocvpp5iuRsgk7pVN9E6h1MZnLHCuAxxp1kOIyB9Jswkq
+28J2C4KvCMGRpSXBLsiTwLrqsLZjkKd01nF2sSBRCfWy4uJ0Rqkii4MAQchIxQe8s7z+xst89PGD
+mA0hIuX9xZdv8sILe1xfr1ita4wLCJXy8HjKV7/8HJfzOfuHW5yeLbmxMwIh6I1ydJbw9GSBUoKm
+7pguKgbDHkJDaxx5kXF2taSzNiag1csZBMWDT88ZvfpV/uKfvI83Ywb7XyXp7YEuEalH9ODweYmv
+auqzHC88ukjpHaT09zPc6h8y++FHzD7+AfNH38V2J8CKpfsjpMjJJy+S9g7pihF7d77Bw/f+KVs3
+3qIxFf60xTQnuG6NlIos6+O8IykHSBfwtovsyRAQIolHqqmYnX5Mr7/DunmIbc9w3QpjTPxSuobe
+aEKWCnAWVI6pN4tw76O91Rp0kuO9Rek+rp1j2gVKJzjfYnxOvzcClmz3MybP7fCjjx9hbEBIzaNH
+l/QyjULROUORaoSLD3l7Z4eiyHjy5ISTkxMkAZ0qpFIYYzk9ueb4uObF52+Sqiv++t2Pcd6jpeQP
+//wRb399wsXZioO9AadXc8oy5/2Pr/jmt14gKpwDxgWKXHN0OGB70kcnsZQajDUnpwsePV6glM7f
+0Srn1us/x8K8Qe/gHuX9F+i9eEj/tR7lqx27v9Bn71dS7v7dlNXFkpvfnLD3c4rBywn91yXF/ho1
+8JS7ByTD58lGX0GrFwmdQfiKIk/Ar2lXD2iWn9F1NVs3XmJ6+gP6uy8x3nuZ2clfRrV+UqKShLzY
+QsgELSzWGtq2wTlH0tuK/avrUEIgRcdq9gltdU1/fIi1inp1TT7cIy2G5GkK3m6IPg3WNM+C7aRK
+SLMS6wXetbE405pEJyitN1eRoactBAN5wlZ/wHLdcHN/H2MNZZ4DAeNi+5LoZDPEgRfvP0dbtzRd
+x/V0EVWh1oEPvPricwxHGR9+8ITHTy5IE02/zAG4nlbs7fZQMlDmUeCX5wUX1yvwoJRitW6RSrI9
+LGmbhsdPLjk7mdM1DdsTyWCQ8uDRCj3e2gP63PzqW+x+5RbqVoLc1mQJWOep2wTREwRlqLymvLuN
+6NeEDEDThIatSY+uqdG5YetQon2Dq3ch+TWke5uzD/47gl0w2n2Nav2UavYZIjhGk1tcfv7/Mpzc
+RacjrJliuxqZDzC+oV7OKTNN0y4oezeomgbTLqIdpANrlyxnJ6SFJO3v4YNk+9bXWMxO8SJHlTcI
+9QWduUTqlCTrEaTEtvUGVNZtRAIe2y0hCLyXmMbjnUWIhH6vQJcF8+U1Z/NTijxnf3ebqqlxxtFq
+F2k6SUpwgVXbMShzqrrmL//6Ryip6I96z8JBkiSJJCIpWS8bTs+uaWrzjACfaI2SkscP1nzj6wc8
+PV/w4ku7fPjBnN3JgMWsppcn0dXpA5ezdRzSuDjMuV601KbP3l4/qionW/vv9PpHHP7S36Pe2kLe
+s8i9HDkItK0hGSRo7XFdS57mGNOhxj1km9A1EonGVQEWGrv22M6gbG+D6I+enKzcpWtWcTfa26NZ
+foRpTtHZDoqOZn2MTnO65hqCQWqNa9ckKsUHh1Ke4WiCziY0zQrv6tjnOst493WGuzfBa4LXOBLS
+YsLy6hN0OUB7Q1cvSbIckWQY0+BtF4lCQiBVQpIouibGvntnY+u00YG5KMCmbRp6g5K3fuJ5lss1
+3kWKzqBXxEAuIhdLak3ddDRtrKY9cOvWHscnl5FOsOmFJ9tjnjw+xrWWMlGUmWbVWDrruH+0Sy+V
+XM7WvPLaIQ8+m3J6suRytiZPNU3Tsa479CZW13voFzlKSjoXmM5bLq9a2s6jvQ/Mpk8RRnP5g5bt
+wwQ56PClR+/EaYkIGaZeYRTIPCWRHjmRWBWg1YS1QyYBi0PqHnW3IihNOhT4MKDt7lBM3o6hH9LT
+rd6jWz9i6Ry94SHSzNFJ9ozK6qopXirSXBGkJElymvWU/niXKhuzbJdxjkygWjxlMDkgLYdATtIb
+U89OCNZQXTxA90oGo604sfKgdIqJvohnww2IXBJnu83vIBFSg0gQMqXqAgd7e7z0yi7PP39Ar5fy
+0UfHeCXxUjFft1xOZyRak6YJwUZd9/bWkNdfvsdyPsNvaO910xICtOuaw50B60KymDUs1oZEa452
+RgQs69rRLA1//idPubxc0rQxXqdpI1lWqYhujsBTiQ+e3a0xx5fX5Fn6LNRMJmlBlubIWx1bv9Rj
+9LImU+DaDKcyvCrxCtSgB6kmKCC0hNxAZpGqw9XRKiGlx4c16SiNBjJrkWmCLrYoxq+SD26Tjd9m
+ePgreFfhzCXrxWOK/q2o+VXZs0RTlQ+I8ZwS5yG4luvLj6KWuRijkj4g6ZoZzaoC2aM3fg5BHOPh
+O2y7wngHUuFdi2vW2KaKwvjNFyq8w5kuLiF8JOcpnaN0D52NkLqH1hkybAb90yuG44KDo228EJxe
+TFmu1qRaQwhUVQNC8tqrL/LqS/c5PjllVcef6VzEHAopSPKUy+maF+7ukWYpxgV2Rn0SESP2BHE2
+8eTJFYtFjQgeJQLWOTrjnpnx1GbM2ploXs/ShCzV0foTBDJiG24ghwXZKxZajb8IGGMwAbyUSOVx
+rcM5Qzr0MFQY7ZGJILgYCydcTDgR0tE7SEgHniTTYCxJnqATg8IjlSYdvkg2eB7vW5yZ0jYXCJ2i
+s+HmaI8CuqZdkaYFputYrBZUqwskHeBJB5M4ALFrlErQSclq9jmL8+8T3Jw0H8a2SKWgMur1HIEj
+ScsvBNUolUCwse3a/LvWJSoZoJIBiCy+bELRyws+/+iU8WDIsl7x/Ou7DMcl17M5eZ5TpCllniGk
+IM0S5sslSin2D7cjxDtJuLm3w854uBGxC5wT/OlfP4qsaCXpmgrhLaN+j53JmHXVcnt/hJKbl15G
+6XBnIxbR+1g1u037l/UyhsMeBEcIgaLIUGV/+52m8ez+zM8hXtzDnEJzZchupQjp0RKUCLgQvaxa
+S9rOoHQGRmKuDCpk+MohfYqtJXaVYFYCgUfJHma9wLXndOsHOHuJyrbQKqGZ/QghoiozzQeEYOnq
+K54RB5TCdtXm6zIoGQuJmMIjsO0K7x1SJkjpsXZGu3wS8UPFPsvFU9Kyj29XtPUcrRNQCV2zhhDQ
+SQrCbe5cgdJxHSlUjtis3IKrkQryVJNJz9XVgi+/dY+rqytefuk5Hj6+5OpqsfmyLLs7W2xPhgyK
+ggePn0IQbG+PePj4jLrpWKwqnPfcPDpgMY+mbYD2C7lwiLbZs8sZqyqqJRdrQ1km7EyS6ESsPEpL
+pIyryUG/ZH9vzGuv3iJRhulsxaq2IBSqKCfv4GH3za/hjm5TzQVyKMi3JcE5tLMkIsEHEfvUIPAW
+pHGE1pJKjbSQa4lwCpl4QmfANciQ0Mw6fCsQHqx5RLP8AcFa+v19lhd/iff1piL05L0d6sWjDeXR
+IgUxLl7nJGlCkkikSjYY4xrvHcFZvGvJyx7BzUHE2GhjoVmfIzZQk1RJkkTjkLRN3PFqncR9MNFA
+J2WKkClho/LwrkbgQAa0kox6KYkQfP7pCa+/cpeTi1PuvXjIxdmStjHsbI3RqYRNr71c16zrhr3t
+IQ+eXGC9J00TnHOkmWS5WFFkOhrspIqmOmCy1WNZrZmMEmbzjrrzaC3JUknVeOrWb4pAiZKSNJU8
+d2ubZrVEhYatYVyBzhYdKi9G74QQ2Lr7Mtlrz6NSSXaUQKbwIiASUKIDY/Ad6Noip4pwaak/htUH
+gfnnU/qjnKv3OpozjV8ZEpXhJahBSlpUOM5I0jHVxft0q09x7grCGmfi0QlRyO59jTPruDoTAqUS
+AoEk0QgsQSicF3RtXPXFCFxFXo4IvkMnOUkywNqOtrrCdhVpsbUZeBjqusba2B6pRBN8TDsLIR7b
+wRm8bwk+TrsINjJDdMLe1oDp5Sl9GbherNnZ3uLhkwvuHO5xdX6N9JbxsBezl4WkqtuYIZzA09Mp
+if7iboTDw23q9Zp2M90KQrJuDMZ66tbwpS/tk6iWi6tu46QUdF2g6QJpnhGc3zxcjQiB2XxJL1cI
+6Wi6juXKY71ASaXeQWhU3uf+f/QrJBNPNpIo4SmCRDiBWyjMg47u/Ybj3214/C88Z3+gWb2vaM4D
+kzczWHvmHySUA8fWbY3seeRuQrIXEIknKQ+QyQ5pOmJ99TG4Gp0EuuoU71uEcDjb0hvs0azPNkOP
+FIQgTUskAdPFlaZSRRxFqgRnaoRQpFnxzITetQapNG0zx9mWcnKLLM/wXYsLIrYWzsQv2McrImYr
+xAFInHUHBGGjwFAIkZJKw9FY4dqOjx5dU+R9Mp3yg+9/QLopopq6JkhJWZZMpwtuTMb0BjmPj683
+pvZosrp9e5ebR32mixV141iuOtIkFqedcVxNa+481+f0vEE4qDv3DHA6GvUINp5weaqfcUWruuN6
+FnVkZb8kSXKUUOqdODTVvPqf/xaMEhSOJCj8Bcz/qOXBPzvj8f9uOfndQHs6QdoOKWt0P2Hvpxfs
+fiXj9DtLctWn2A74xOMKizw09O+lVGfQnAiCLyi39hjsfIW2vsCbBbY928hmPGxaFpXkmG6NkCCk
+RgRH19VAHECoJCcrR3ipsc0qLg6KESopSfJt+uO7OGvj0r9dEIKjP9qnXlwx2NqnaSusiZH23m3m
+w34TUbNJRmEjeRFIpEoJSA53e7z91hE/+vApjVfMFhUXV3PqdU3Y7GuN88/+Wa8bCIG8TDk7n8cV
+n4pryiJPWVdLbu6POb+saBq7+fJBJ1EgnyWKREm88c/8WErFOXfwjlSJZ4WXd45ESZyD8aAPInBy
+NkeHjZt+fvI57kmNT3pMP7MsfhA4/W5Lc5whuh75oKT3Ykfaqyl2J7S9KbtfD0zu7vPg/1gjXY+Q
+rlm1ktHtjPKmQB+A6wwq19haINqAFQHHgBsv/CfMHvwOXfUQW58RvMWZmo5AOTqiqc7jV5YonG03
+X5FEJQ6lAiJ4ZLCoJMV2FaarGO+9hMoOIS3x8opidMRq/oiumjO7vuTGzn3SImfVGpr1NCKgvnig
+G1OtEAHE3yIIffAbQU/g5HzKyVlGvz9gnA1YNBWd60iThK7rkAGyVLM2HtMaXrp3iw8/f8TNZC8+
+COEJHoIHazxFmvLuj46pG0evzGnaLnLItCRNFNNph8I/Y4flqcIRje87Wz1W6zr6uZqoy05dQEq4
+e7uPKgKfPZqhJzt7XJ4fQ+u4+v0Trv/0Duc/dDQnliTrMTho6R3mFHuG3o2C+YXD2TW3vtlD3ig4
+/96M1OaEwxY5UpQHOYOXW9SNhHquaa7XQIfNl9AtaZYLfNgiUdukw1dRyXdoFw/wrokuftfSVXN6
+o3usrj7AtBVSRJSw1jr6h22FqeuN9d9Hb1SzIIgUU8+hOUYJS+fXUd3hOprlOXayTxI6VDBxffjF
+ofxF3HmUpm9CMyRCxGlXCN2zY/Djhycc7G9xflnhvaXIc0QQXEznGBdttd4HsC1nV9f0+yV1Y7Eb
+zojWGiEcWnk+f3CN7XzUZFvDsJcSRMQQemex3aZnlpBpSZZp5qsYkj0eluR9zWjQ52/efYLznlnt
+kSLw6ZMpr71yg51JD/Xml3/qnZOnD/E+MBy8QctLNE8T8klg5w3N5Mue0WsSOUypTEPIDXvf1LSX
+nvUHhsK2FPsJxT1Hei/BjzyiDIhWsvy8I3WS4o5m/ycznv/VHUb3xvRuj9Gpxa0EzfxzfHexye3d
+jAiR5P0JXTNHyIDUmqIYxqBkZ/AuiteC98hEY20HSLTO8a7FNFcgLDIEbLfGdCuEUCT9HaRfYtoV
+LgiCVARTbxSWXxBxYkUb7+KNrVYIlJDsjBJ+5Ze/TN3VrJY1CBj2+kwXNS4Emi4OIZQUNMayalp8
+gN2dMafn15F/rRTBe4oEnHd4G+9kJcEZF49oJXA+2llC8NzYjqa1znqsizSj2bJmUBbgwRkDPtDr
+ZwglmS86ppcV/TJHFb3hO9552rYG45nc+3WsLcj3Pf27mmxfYnxFPZckgzU3vrzF1Q8bln8pkWsN
+yiOkRaUNaabRLqV52NA+STGLKhZa9zL0jRxbCnw/obgFiU65/tEFZv4UW58gJHhvYnQ8Fu8h6+3S
+dTNkkiKFwHQ1zhmcswihkFJFdL5zEBxlbwuCp21n5MWA4CymW9K1KwIOleW0qwt8tybIyBoJrnuW
+iCI2AxA2TsWwmXgpqdDS8/Ybh3z5Jw/YORjw+ZMrOutY147recXFdEHbRrh5Zx0uBLI8pd8rKcuM
+6+slQoAxliRR3Doc8dxen+myIYSAjpSZmKKiBF3n6Yx/VnR1xvPCnQFn1w1IiZCC+aphNq1IFWgC
+QgqKPEUJwbo21K1H5Xn/ncFoTNNWLM6f8txr/zGLBpJcYdYt7VIjhKA/ruinYz77P1tm3xeoTiCS
+QH/XY6861icdywfQPnYkXQGmY/yVHvpOSj5KcTLQug5Kj50GVh+CWAbO3v8XyLCOuCRbb2jzIEIg
+yQd01SzKb2wXAdcCtFbkRR8hE6yPjOTgbEwXSzKyLKdt1jjTAI62XsSv01uEa1FJoOvaOCQJLpL0
+Ng82Xr3xL0vKOKMu84R7z+0xKRXP3Sq4ml2ztdvno08uaDvBk5MLrItFkHEOrRU722N2d8YY60gS
+zWJZ0XUmzqp94ObhFp98coaUCmMjm0QrQZYr7twaM182OBdDtZSKNPesl2JtZHpniY52XxvHmlpJ
+jHWsakNVWwKCZdUhjanJspx7z79BVmiuPvxtsn1F/54iuy0onrNMXtI0V5L3/9ea2Ucev4LWePJ8
+zuLDOWc/PiFUA/xCo3sOuetJX9YkRwmhr3AmQOvIdEYSEsKyo5nNMaLg6PV/SL2coXUfrYp4922+
+JtPMKIYH2GaF6SqStCBJ8njUIbDGEr5w+wtB11WxEhbRmpnnJWk+RsoUgsDUK4SSMSuxa5AiPJt9
+RwN8+DfQEB6l4HBnwN5QMwgVInS89+5j9nb63DwcsLs/4pMHxxRFQZGl5FlCojU6iVzJ5WpNryww
+tiP4+OC9j/NkpVKM9wx7BXmqEVIglOSF+1t41/Ha89sUmdwI6QRSac6vOgJgNqiGItf0yhQbBI2B
+ICXbW33yTKF0XCeqohi801QrmqahyPtYO+P+b/0aw18qKe5oVGZx64rL72UsPysQUtHbbdi71XL5
+/SecfviIN/7TI+r1iMGdht5zA7L7Cv1ygssNJgjaJqB0QNUG1VkUOc2xhKqHsDukuqC+/iwqKUyN
+kBtcLY40G9DVU1RaoHQazVXe4pzDuthGqaTAmQYhFUU5wHUVzlaYtsKYBmebOPUikPdH2K7ZtFvJ
+Zj3oNy9VrEK1FEgCr75wB19N2dUW5VvGW31kmoJMCBImW0M++uSC2XQdCUEubpDyLEVKQbVuqaqG
+XpFweR1BclLGIu5wf4f5bAkyUBQJrfGsG0uaKXa2clZVxWRcsFx3OE8UILqY49JZ6JcZSI9KJEop
+bJCs6w7vPYMypWoizEbeuHHIYDAkSxO0lqwuP+XWfQ3GcPUHNSf/fI5ux9iyZv/XO57/Dy07dxa8
+97/9cx7/5R/xjf/+JdztA4pX5oSdEnnTUO5q0qBRPqOPoiwDXQqdNUiZYhaWYBUurDHSUex+i/7B
+z4EeIJMi3oXBE4LDmRXFYAehU4KUGBPv57atSdMcpROEjjIeANMsom7LtdEInmQolW5sKg5jDCor
+/o3KOVaeRSr52mt3+K3f/EkmfUWm4PTkCRv3LlI4grG4leOPv/MBfVIePTzhF37hJcajHCkE/SJD
+EuI1ohSJSvAukCYRsayVivLcEGi6hrJM8SFOrhrjcEHy8ecL6iZQlhofHDd2CpwP1G0sQFdVh1Lx
+aJ4tWtrGsjUqeOO1Q37q7ftoAtKHGKkXAurg4Ll3hBRY06GVpqlaEvsSF+/u8Ph3f0zSpCRpwdHP
+9zl6Ex79i+/x7v/8f1Fdf86/9V9/k9EvvEgoBYsfZnFrclcz6GuEAicsiReoAF3tEUtITEI4bxDT
+hPWVwXd9umUgL/cJ7Qmmfop3DULESVLAodM+povoo2AN3kddsE5SdJJjnYn3bfAkWbS2pFkRN1HW
+IKSka1dRghM8UmqsaUmTJPbSAhSB3b7m8ZNTpNIYF+iVKfeOtsE7tAIpNCfnU/YGGR99dsHRrW0+
++uQpk8GAxWyFCB6xidi1zlPVMSxkstXjahpxFtZalFZMJiWDXkK1bpFC0VpPkiZIIWhaw+52HkE0
+BpZVTFFLtUQpSd2aqJiUsdqejHvUq4onT87pKUGioHWBunOoyfb+OxB/cFEMEXge//D7VA888+M/
+Z/rpdzn/wSnL9wyf/M4HnP3hj7D1kptfu8GNn/4Wn/3LBfovZ2gAAA03SURBVMsfXZElJTYItl5X
+WO+QicIIRScgOBAdJCGhna9RwZF0AbGGsO6APqEDmUA9ex9ctVE7dgihN9OthK6aonWykZrGL7Br
+O7yL5jHvLGk2oOxtg1CYrtsQ4gJtEwstAegkJUlzCA7pDQKPEIGqNlgfGA0HtMaxPeoxnvSQmYYg
+mK0qfvUbL/HgySWfHy84vaooioL3339CJgWJFBs6UOR4reuGrdEA5w2LjftPKUWRp9y6tc3OJEcK
+OD5fUdUW6xzjQU6WKqbzijzJ+PTRImI0Uk2RSqzztCaOUIssxfvAYlk/Oz2SDRGwDVC1Dl3mPYJ3
+KBRZmmJySeausO33OXr5H3F9+vvUVx9w/v1zBge/TDp4HpmueOGbf5/jvyhopjukg5bkUNK77fBz
+gdvK4koPgcVuorA8su7oXZxwo2tQ9Zq1hqei5Ynto9MDhN8nK45ozAJnVwhpCd7jbUdaDIAofc2y
+EttOIQSsjSxLlWR4Z3HWkGS9eISXJc60NO1qc6cLhNRY0zDeOmA9O449qIhcqc453n7jBbJBDp8e
+k6caJwNGpnSu5d6tMSSCJkgaE7h+ukJf1HgHQQYSJWmtw/lI4+sVBVXTUrV+A0+NsQlJqphO51TL
+WNhpFVd/bIo7YzyJ0nz2aEGygZqF4OOf27lnHXus8gOHu2OqpiFVMcfhatGClDHcZNjffqco+rRt
+y2SyS9nrs7t/i/PjH9Gb/CrDu9/CW4U1gu17P4Ue3ebma3f5+I8fc/GDM9ppD5Rn+42C9D44ryDT
+ZFpRCEEiNWXnSb/3p3z9+IK/+/w2v/naIb/48g4/edTna/uBm/kpZ0++Q1V7lvMH2O48Jph6uzn2
+VBxkpEX8CqTCmTZ+oUojlAKhcLYjOIdKS3RaIlWKEgHvOtp6uRlixCkVxBYE28bC6gu7pZbkuUYm
+gtsvHDFdWv76bz5j3cTI+OPTOcVwRCc0aZlRtSayLq2nMW7TB39ByPWUZcQOCxnXlcHDeDzAtpbl
+vOXJ8QJjHINezqAfawURJE1juX9rxLpqEYTI04Y46AixMnDek2YJCE+eCC6mFYvaEER80aSUyHIw
+4mp6RdO1NF1LrzehbVt6/YTF+b8m3ym49a2fpzx8lXJfcuPVgpOPHjL99Pfx7QmDo5Ldr5bI7QWi
+TOIm10V3+QjHjccPuf8vv8M7r7zO3//2l3jlzi69vIfKezHgOeu4OZnzG1/S3B3/gMQdE0IFIS4B
+hIoPw7sWnRQY09DUFUFE2HaaJHErFNGocSskFELmmylPTEaVm+i94B3OGpxpKYpy05bF+ZmSgsuL
+GY8enqG04vDmmKfH59w53CNRGfNGMTceowTlqNjskQUuBNIii9eIiz1pCJAkmuGwgCDQz4T3kKUJ
+ZZFS121kjKQqui+sJU8UWkeb6KrqGPYzlIBcCw53yy/EKCipmUzGjLd6SK1ZrKOxXKroa9q088is
+6COE4ouS5vj4AXW9jA34+o/x7ceUrwQOfvrL5AeaxdMfcfHBd/Hmgmy0y+6XBtz4+QxGFukVzcJC
+qiJ78Yfv843jY/6rb/80ezfGJDohDemmMvXkmWCrl7A1TBmPHK/f8mwPGpSID0tKNjvfyNNwXYcU
+Kc52SKkoil68S5F4GzdRIXisaSF4rKuxdh2LsqT4Yp2AUlE/FZwlK3LcBqUnEXSdY7FsefDZBakz
+fPvbb3F6fs54NOZyVfGt3/wGX/rJO1jTkOuEXGtSnUYxnxeREW3jHdzvlVF+RKDrOpyL3D7TRujL
+V3/iFv0ywXuQQrKuDevaMF/Fgc/1rImRuwEmkwylwoa+G4tFYyzOeG4d7TAaD7m4nEU8RYg/33uP
+1ElKmmUI4VktZygJZZExHJYU6YLq9K9IQ4oqUkIoOPn+I7w5RYiCnZdusfdTCr+1pjzaoVmuyRJB
+JgOD997l33Ga3/yJt2IClwC9kap6IpJQJClBK/pppJ0fjArefOUWKsQHKHWGkAopJN4bQnDk5XbE
+TAT3DM4Ze9j4/wPUqwusWWC7JdZbdFqSl1uRaiYUIsk2vOUK53m2eJAicqnXdcv11ZIffO9j7t4u
+efHVI56en/LKS7fJi4a9fc2tW2PyIiEEzbq2PDm9Zt10VE30J+8f7FD2Ctou5jFvj/tMxgOyRLM1
+Ljm7WPLhp1cgdXT845EEhAsMeylagndxbJlkmtnakmQaJePUXkjJbLZivqg4Pp5iTUevp+nnG9ru
+ZlgkB1tbHBweYZ2hLAryNKGr11jToFWLmf4VWS3o6jXVpUWWHqEniGSbcj9HHVXYPJCNM0KiSLY0
+Nz454dut42ffuIMvHDJovhgUfdF/SqlQeYrOUkZFj142YFQoXrw15GCnh+vm0ZC9YUbHTIMWZzvy
+3iSeOM5TVytEiEFcMi0RUuI24DOBIu8fkfUPn8l0QvAorfHeYqzBukB/ON4kcwekCGgh2R6UPPr8
+krPPr/nprzzHi7e3mOSW6fGCarnira8c0JiW6XzNumpIk2TzO3q61rKcr2jbLva9wHxZcz1b0nSG
+xTLqsq7na1brhs46OuuRQjIYJrz5xi55qcn7GUFJnBBMF5bOxWh4KcA5h9I6psZVHakWaOdiMSv/
+FtsqX3z1TfJBn9FoB+eh7I8pegN0mtPLc8zFZxS6wdserk2587O/xou/8o/o7/8knYik9kRKOtPh
+e4Jw2vDSh5/wy19+C61TspDH5JTgNxFvnkCHweMThegVpP0h48GIXtljrOCrr90F3+BdE12HMt6h
+UoC1MUmlaxuatsZ0cakupYw9cIAQLNZ2JMU25eguQmWkWYogCuza9YywCYy0LtJrglDYzUuoteD+
+/RtYC//q/3uP73znXeqrKVnwnJ/MEaLk8emUF14+YF6tnlW5SgqEFOR5gjUW6yx5kUb4mQClNVLG
+I1sISHVEHiIUJgi6AEeHW1ycz3ntlX0697cp4mmqWK/sRpAYf89UK4KPcPDL6Rp8HHJ8kVojpUSN
+t/bfaVYRLT/sj8jynCRLaUwEZNrGcPDWWyzFmPpC46xmcDhhfGcPawQq61EepdG/m1vGf/Zn/ONf
++FmKgk21ulmc+wj3FgjwEuk1IiQIp1BeYFrDumlZrdegJE/PLpjN55t13ebPCT5KaYSInCsfMxZ0
+loMuMG0VQzG9I0nGbB28hdA92vqCYFc06ylSCeSmLQnBxwQxKUnzIuIfNm//fFWzNRmiVIZpO/rS
+I0zHcDzi6mLFsCg5mc4ZjsecHF9vTgBBlsYX0XmP1grnQowL3KS6Bg+3j7bJS8Vy3eJDnEr5DeC7
+sY7DmyOuFmt2bwyZTmtWq40+LcRq3caOjyRJNyvNwM2DMV3TYjysu8juFEKgtrb23xEBxBfLaCUw
+XUuRF4QgItCzP0Tde4vqymPbgPEN2XYeZ8JtoLgdi5Ty2vMz51e8fXCEUwl684Y55wluU0J6AZ0g
+WIkzguAkoQt4L2ispbOGrl2hUs17H3y8WY1t7k7h8cGBgLycYNo5QUSgtu3ifxNS473Be0c+OELo
+BG8WuG5GUy0ij4ON/HbzFeskJaCiNJe4uussTHYnuODJkxzo6KUaneR8/92HJGiKMmNdV9w62GU6
+W8e0b/W3O2WtE4y1NK3ZuBEkIQSGox672wWrVct80cbWbfNbrdYtaSLZ3kpxnUdKxWzeEjxkuSRs
+5tJpmtG0HQHP21+/x5d+Yp/LqzW1Cyyr+EJIpZC7421SmdJ1hrOzY6rVikSk5FmfvCgpyoTTd7/H
+7t2E/isJycjjbEqzqkjKHN+2tE8ktI7Vd77Lz9x8CT83uIsKPzfYS0u4lohVgrkOqHWCvTKIpcVN
+V9AYZFogy23G2/uU/YJeWXDn4AaH+zuRfPPMEShQKkXIBI9Ep32Ch66tCT4WZkk5AATOrGiWT6Bb
+o2SH9ya2EN5vBgRq85ZLrI1iOWN51k0UueblV25C4gka0tGAeQdPz6bcGPf50ftPqVaeQhdMr2co
+LMJbus7QmZhtJKWgV/bQSrE16m04V/EECSHQNJY8T57lLSslybOUy/OapvIoJA8fTskTTb/UOOdJ
+kriRklIw3urzzW+/wc6e5vJ6wdHtrbhJ++J4ThWybRuklKzXC84vjtE6J81Kmqri/PQpaZHTzs6x
+lycM7hvKmx35lqE/TlF5SzbpYy8remtN/wc/JqtnLOaXiGoFszUsa8K8xi86ZB0IS4NqwS06VO2o
+pnOatkWVGaOdCdt7N+j3+4zKnDdfeQG8IfgWXIsUkoCMchbTkRQjnI2OiyAsUoK3zSahxTG/+BDl
+VjSLSwggpY74/DRD6/RZ0eejNQ+PxG5ara4zzBYL7tzZQ2USXQw4nndsbQ9x6v9v6VxSEIahADjm
+VxsK4v3vIy70AAqiYDd+0Npq/TR5cZFeYwZmNIPAYrnlfOqo6zvhG1DjJSZGYQgZPRpniUl4tH3O
+F6dE//phzRRnNZpE5R2+LHAukykR2B9aNrsbVivUJL+ZJAghxlHGwHxW0VyedFfB4lmtj7w/uTxb
+lA6jNH9Z74qXOF/hNQAAAABJRU5ErkJggg==
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://s0.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1563361695h&cssminify=yes
+
+@charset "utf-8";
+
+[data-carousel-extra] { cursor: pointer; }
+
+.jp-carousel-wrap * { line-height: inherit; }
+
+.jp-carousel-overlay { background: rgb(0, 0, 0); }
+
+div.jp-carousel-fadeaway { background: -webkit-gradient(linear, 0% 100%, 0%=
+ 0%, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0))); position: fixed; bott=
+om: 0px; z-index: 2147483647; width: 100%; height: 15px; }
+
+.jp-carousel-next-button span, .jp-carousel-previous-button span { backgrou=
+nd: url("./images/arrows.png") center center / 200px 126px no-repeat; }
+
+.jp-carousel-msg { font-family: "Open Sans", sans-serif; font-style: normal=
+; display: inline-block; line-height: 19px; padding: 11px 15px; font-size: =
+14px; text-align: center; margin: 25px 20px 0px 2px; background-color: rgb(=
+255, 255, 255); border-left: 4px solid rgb(255, 186, 0); box-shadow: rgba(0=
+, 0, 0, 0.1) 0px 1px 1px 0px; }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), not all, not =
+all, not all {
+  .jp-carousel-next-button span, .jp-carousel-previous-button span { backgr=
+ound-image: url("./images/arrows-2x.png"); }
+}
+
+.jp-carousel-wrap { font-family: "Helvetica Neue", sans-serif !important; }
+
+.jp-carousel-info { position: absolute; bottom: 0px; text-align: left !impo=
+rtant; -webkit-font-smoothing: subpixel-antialiased !important; }
+
+.jp-carousel-info::selection { background: rgb(104, 201, 232); color: rgb(2=
+55, 255, 255); }
+
+.jp-carousel-photo-info { position: relative; left: 25%; width: 50%; }
+
+.jp-carousel-transitions .jp-carousel-photo-info { transition: 400ms ease-o=
+ut; }
+
+.jp-carousel-info h2 { color: rgb(153, 153, 153); overflow: hidden; text-al=
+ign: left; -webkit-font-smoothing: subpixel-antialiased; background: none !=
+important; border: none !important; display: block !important; font-style: =
+normal !important; font-variant-ligatures: normal !important; font-variant-=
+caps: normal !important; font-weight: normal !important; font-stretch: norm=
+al !important; font-size: 13px !important; line-height: 1.25em !important; =
+font-family: "Helvetica Neue", sans-serif !important; letter-spacing: 0px !=
+important; margin: 7px 0px 0px !important; padding: 10px 0px 0px !important=
+; text-shadow: none !important; text-transform: none !important; }
+
+.jp-carousel-next-button, .jp-carousel-previous-button { text-indent: -9999=
+px; overflow: hidden; cursor: pointer; }
+
+.jp-carousel-next-button span, .jp-carousel-previous-button span { position=
+: absolute; top: 0px; bottom: 0px; width: 82px; zoom: 1; opacity: 0.2; }
+
+.jp-carousel-transitions .jp-carousel-next-button span, .jp-carousel-transi=
+tions .jp-carousel-previous-button span { transition: opacity 500ms ease-ou=
+t; }
+
+.jp-carousel-next-button:hover span, .jp-carousel-previous-button:hover spa=
+n { opacity: 0.6; }
+
+.jp-carousel-next-button span { background-position: -110px center; right: =
+0px; }
+
+.jp-carousel-previous-button span { background-position: -10px center; left=
+: 0px; }
+
+.jp-carousel-buttons { margin: -18px -20px 15px; padding: 8px 10px; border-=
+bottom: 1px solid rgb(34, 34, 34); background: rgb(34, 34, 34); text-align:=
+ center; }
+
+div.jp-carousel-buttons a { color: rgb(153, 153, 153); padding: 5px 2px 5px=
+ 0px; vertical-align: middle; -webkit-font-smoothing: subpixel-antialiased;=
+ border: none !important; font-style: normal !important; font-variant-ligat=
+ures: normal !important; font-variant-caps: normal !important; font-weight:=
+ normal !important; font-stretch: normal !important; font-size: 11px !impor=
+tant; line-height: 1.2em !important; font-family: "Helvetica Neue", sans-se=
+rif !important; letter-spacing: 0px !important; text-decoration: none !impo=
+rtant; text-shadow: none !important; }
+
+div.jp-carousel-buttons a:hover { color: rgb(104, 201, 232); border: none !=
+important; }
+
+.jp-carousel-transitions div.jp-carousel-buttons a:hover { transition: none=
+ !important; }
+
+.jp-carousel-slide, .jp-carousel-slide img, .jp-carousel-next-button, .jp-c=
+arousel-previous-button { transform: translate3d(0px, 0px, 0px); }
+
+.jp-carousel-slide { position: fixed; width: 0px; bottom: 0px; background-c=
+olor: rgb(0, 0, 0); border-radius: 2px; }
+
+.jp-carousel-transitions .jp-carousel-slide { transition: 300ms ease-out; }
+
+.jp-carousel-slide.selected { opacity: 1; position: absolute !important; }
+
+.jp-carousel-slide { opacity: 0.25; }
+
+.jp-carousel-slide img { display: block; box-shadow: rgba(0, 0, 0, 0.1) 0px=
+ 2px 8px; zoom: 1; width: 100% !important; height: 100% !important; max-wid=
+th: 100% !important; max-height: 100% !important; background: none !importa=
+nt; border: none !important; padding: 0px !important; }
+
+.jp-carousel-transitions .jp-carousel-slide { transition: opacity 400ms lin=
+ear; }
+
+.jp-carousel-close-hint { color: rgb(153, 153, 153); cursor: default; paddi=
+ng: 0.35em 0px 0px; position: absolute; text-align: right; width: 90%; lett=
+er-spacing: 0px !important; }
+
+.jp-carousel-transitions .jp-carousel-close-hint { transition: color 200ms =
+linear; }
+
+.jp-carousel-close-hint span { cursor: pointer; background-color: rgba(0, 0=
+, 0, 0.8); display: inline-block; height: 22px; margin: 0px 0px 0px 0.4em; =
+text-align: center; vertical-align: middle; width: 22px; border-radius: 4px=
+; font-style: normal !important; font-variant-ligatures: normal !important;=
+ font-variant-caps: normal !important; font-weight: 400 !important; font-st=
+retch: normal !important; font-size: 24px !important; line-height: 1 !impor=
+tant; font-family: "Helvetica Neue", sans-serif !important; }
+
+.jp-carousel-transitions .jp-carousel-close-hint span { transition: border-=
+color 200ms linear; }
+
+.jp-carousel-close-hint:hover { cursor: default; color: rgb(255, 255, 255);=
+ }
+
+.jp-carousel-close-hint:hover span { border-color: rgb(255, 255, 255); }
+
+div.jp-carousel-buttons a.jp-carousel-reblog, div.jp-carousel-buttons a.jp-=
+carousel-commentlink, a.jp-carousel-image-download { background: url("./ima=
+ges/carousel-sprite.png?5") 0% 0% / 16px 200px no-repeat; }
+
+div.jp-carousel-buttons a.jp-carousel-reblog, div.jp-carousel-buttons a.jp-=
+carousel-commentlink { margin: 0px 14px 0px 0px !important; }
+
+div.jp-carousel-buttons a.jp-carousel-reblog.reblogged { background-color: =
+rgb(48, 48, 48); border-radius: 2px; padding-right: 8px !important; }
+
+div.jp-carousel-buttons a.jp-carousel-reblog.reblogged { margin: 0px 2px 0p=
+x -12px !important; }
+
+div.jp-carousel-buttons a.jp-carousel-reblog, div.jp-carousel-buttons a.jp-=
+carousel-reblog.reblogged:hover { background-position: 6px -36px; color: rg=
+b(153, 153, 153); padding-left: 26px !important; }
+
+div.jp-carousel-buttons a.jp-carousel-commentlink { background-position: 0p=
+x -156px; padding-left: 19px !important; }
+
+div.jp-carousel-buttons a.jp-carousel-reblog.reblogged:hover { cursor: defa=
+ult; }
+
+div.jp-carousel-buttons a.jp-carousel-reblog:hover { background-position: 6=
+px -56px; color: rgb(104, 201, 232); }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), not all, not =
+all, not all {
+  div.jp-carousel-buttons a.jp-carousel-reblog, div.jp-carousel-buttons a.j=
+p-carousel-commentlink, a.jp-carousel-image-download { background-image: ur=
+l("./images/carousel-sprite-2x.png?5"); }
+}
+
+div#carousel-reblog-box { background: -webkit-gradient(linear, 0% 100%, 0% =
+0%, from(rgb(34, 34, 34)), to(rgb(51, 51, 51))); padding: 3px 0px 0px; disp=
+lay: none; margin: 5px auto 0px; border-radius: 2px; box-shadow: rgba(0, 0,=
+ 0, 0.9) 0px 0px 20px; height: 74px; width: 565px; }
+
+#carousel-reblog-box textarea { background: rgb(153, 153, 153); color: rgb(=
+68, 68, 68); padding: 3px 6px; width: 370px; height: 48px; float: left; mar=
+gin: 6px 9px 0px; border: 1px solid rgb(102, 102, 102); box-shadow: rgba(0,=
+ 0, 0, 0.2) 2px 2px 2px inset; border-radius: 2px; font-style: normal !impo=
+rtant; font-variant-ligatures: normal !important; font-variant-caps: normal=
+ !important; font-weight: normal !important; font-stretch: normal !importan=
+t; font-size: 13px !important; line-height: 1.4 !important; font-family: "H=
+elvetica Neue", sans-serif !important; }
+
+#carousel-reblog-box textarea:focus { background: rgb(204, 204, 204); color=
+: rgb(34, 34, 34); }
+
+#carousel-reblog-box label { color: rgb(170, 170, 170); font-size: 11px; pa=
+dding-right: 2px; padding-left: 2px; display: inline; font-weight: normal; =
+}
+
+#carousel-reblog-box select { width: 110px; padding: 0px; font-size: 12px; =
+background: rgb(51, 51, 51); color: rgb(238, 238, 238); border: 1px solid r=
+gb(68, 68, 68); margin-top: 5px; font-family: "Helvetica Neue", sans-serif =
+!important; }
+
+#carousel-reblog-box .submit, #wrapper #carousel-reblog-box p.response { fl=
+oat: left; width: 154px; padding-top: 0px; padding-left: 1px; overflow: hid=
+den; height: 34px; margin: 3px 0px 0px 2px !important; }
+
+#wrapper #carousel-reblog-box p.response { font-size: 13px; clear: none; pa=
+dding-left: 2px; height: 34px; color: rgb(170, 170, 170); }
+
+#carousel-reblog-box input#carousel-reblog-submit, #jp-carousel-comment-for=
+m-button-submit { margin-top: 8px; border-radius: 1em; height: 24px; color:=
+ rgb(51, 51, 51); cursor: pointer; background: -webkit-gradient(linear, 0% =
+100%, 0% 0%, from(rgb(170, 170, 170)), to(rgb(204, 204, 204))); border: 1px=
+ solid rgb(68, 68, 68); font-style: normal !important; font-variant-ligatur=
+es: normal !important; font-variant-caps: normal !important; font-weight: n=
+ormal !important; font-stretch: normal !important; font-size: 13px !importa=
+nt; line-height: 24px !important; font-family: "Helvetica Neue", sans-serif=
+ !important; padding: 0px 10px !important; }
+
+#carousel-reblog-box input#carousel-reblog-submit:hover, #jp-carousel-comme=
+nt-form-button-submit:hover { background: -webkit-gradient(linear, 0% 100%,=
+ 0% 0%, from(rgb(204, 204, 204)), to(rgb(238, 238, 238))); }
+
+#carousel-reblog-box .canceltext { color: rgb(170, 170, 170); font-size: 11=
+px; line-height: 24px; }
+
+#carousel-reblog-box .canceltext a { color: rgb(255, 255, 255); }
+
+.jp-carousel-titleanddesc { border-top: 1px solid rgb(34, 34, 34); color: r=
+gb(153, 153, 153); font-size: 15px; padding-top: 24px; margin-bottom: 20px;=
+ font-weight: 400; }
+
+.jp-carousel-titleanddesc-title { color: rgb(255, 255, 255); margin: 0px 0p=
+x 15px; padding: 0px; font-style: normal !important; font-variant-ligatures=
+: normal !important; font-variant-caps: normal !important; font-weight: 300=
+ !important; font-stretch: normal !important; font-size: 1.5em !important; =
+line-height: 1.1 !important; font-family: "Helvetica Neue", sans-serif !imp=
+ortant; text-transform: none !important; }
+
+.jp-carousel-titleanddesc-desc p { color: rgb(153, 153, 153); line-height: =
+1.4; margin-bottom: 0.75em; }
+
+.jp-carousel-titleanddesc p a, .jp-carousel-comments p a, .jp-carousel-info=
+ h2 a { color: rgb(255, 255, 255) !important; border: none !important; text=
+-decoration: underline !important; font-weight: normal !important; font-sty=
+le: normal !important; }
+
+.jp-carousel-titleanddesc p strong, .jp-carousel-titleanddesc p b { font-we=
+ight: bold; color: rgb(153, 153, 153); }
+
+.jp-carousel-titleanddesc p em, .jp-carousel-titleanddesc p i { font-style:=
+ italic; color: rgb(153, 153, 153); }
+
+.jp-carousel-titleanddesc p a:hover, .jp-carousel-comments p a:hover, .jp-c=
+arousel-info h2 a:hover { color: rgb(104, 201, 232) !important; }
+
+.jp-carousel-titleanddesc p:empty { display: none; }
+
+.jp-carousel-photo-info h1::before, .jp-carousel-photo-info h1::after, .jp-=
+carousel-left-column-wrapper h1::before, .jp-carousel-left-column-wrapper h=
+1::after { content: none !important; }
+
+.jp-carousel-image-meta { background: rgb(17, 17, 17); border: 1px solid rg=
+b(34, 34, 34); color: rgb(255, 255, 255); overflow: hidden; padding: 18px 2=
+0px; font-style: normal !important; font-variant-ligatures: normal !importa=
+nt; font-variant-caps: normal !important; font-weight: normal !important; f=
+ont-stretch: normal !important; font-size: 12px !important; line-height: 1.=
+4 !important; font-family: "Helvetica Neue", sans-serif !important; width: =
+209px !important; }
+
+.jp-carousel-image-meta li, .jp-carousel-image-meta h5 { font-family: "Helv=
+etica Neue", sans-serif !important; position: inherit !important; top: auto=
+ !important; right: auto !important; left: auto !important; bottom: auto !i=
+mportant; background: none !important; border: none !important; font-weight=
+: 400 !important; line-height: 1.3em !important; }
+
+.jp-carousel-image-meta ul { margin: 0px !important; padding: 0px !importan=
+t; list-style: none !important; }
+
+.jp-carousel-image-meta li { width: 48% !important; display: inline-block !=
+important; vertical-align: top !important; margin: 0px 2% 15px 0px !importa=
+nt; color: rgb(255, 255, 255) !important; font-size: 13px !important; }
+
+.jp-carousel-image-meta h5 { color: rgb(153, 153, 153) !important; text-tra=
+nsform: uppercase !important; font-size: 10px !important; margin: 0px 0px 2=
+px !important; letter-spacing: 0.1em !important; }
+
+a.jp-carousel-image-download { padding-left: 23px; display: inline-block; c=
+lear: both; color: rgb(153, 153, 153); line-height: 1; font-weight: 400; fo=
+nt-size: 13px; text-decoration: none; background-position: 0px -82px; }
+
+a.jp-carousel-image-download span.photo-size { font-size: 11px; border-radi=
+us: 1em; margin-left: 2px; display: inline-block; }
+
+a.jp-carousel-image-download span.photo-size-times { padding: 0px 1px 0px 2=
+px; }
+
+a.jp-carousel-image-download:hover { background-position: 0px -122px; color=
+: rgb(104, 201, 232); border: none !important; }
+
+.jp-carousel-image-map { position: relative; margin: -20px -20px 20px; bord=
+er-bottom: 1px solid rgba(255, 255, 255, 0.17); height: 154px; }
+
+.jp-carousel-image-map img.gmap-main { border-top-left-radius: 6px; border-=
+right: 1px solid rgba(255, 255, 255, 0.17); }
+
+.jp-carousel-image-map div.gmap-topright { width: 94px; height: 154px; posi=
+tion: absolute; top: 0px; right: 0px; }
+
+.jp-carousel-image-map div.imgclip { overflow: hidden; border-top-right-rad=
+ius: 6px; }
+
+.jp-carousel-image-map div.gmap-topright img { margin-left: -40px; }
+
+.jp-carousel-image-map img.gmap-bottomright { position: absolute; top: 96px=
+; right: 0px; }
+
+.jp-carousel-comments { background: none transparent; font-style: normal !i=
+mportant; font-variant-ligatures: normal !important; font-variant-caps: nor=
+mal !important; font-weight: normal !important; font-stretch: normal !impor=
+tant; font-size: 15px !important; line-height: 1.7 !important; font-family:=
+ "Helvetica Neue", sans-serif !important; }
+
+.jp-carousel-comments p a:hover, .jp-carousel-comments p a:focus, .jp-carou=
+sel-comments p a:active { color: rgb(104, 201, 232) !important; }
+
+.jp-carousel-comment { background: none transparent; color: rgb(153, 153, 1=
+53); margin-bottom: 20px; clear: left; overflow: auto; width: 100%; }
+
+.jp-carousel-comment p { color: rgb(153, 153, 153) !important; }
+
+.jp-carousel-comment .comment-author { font-size: 13px; font-weight: 400; p=
+adding: 0px; width: auto; display: inline; float: none; border: none; margi=
+n: 0px; }
+
+.jp-carousel-comment .comment-author a { color: rgb(255, 255, 255); }
+
+.jp-carousel-comment .comment-gravatar { float: left; }
+
+.jp-carousel-comment .comment-content { border: none; margin-left: 85px; pa=
+dding: 0px; }
+
+.jp-carousel-comment .avatar { margin: 0px 20px 0px 0px; border-radius: 4px=
+; border: none !important; padding: 0px !important; background-color: trans=
+parent !important; }
+
+.jp-carousel-comment .comment-date { color: rgb(153, 153, 153); margin-top:=
+ 4px; font-size: 11px; display: inline; float: right; }
+
+#jp-carousel-comment-form { float: left; width: 100%; margin: 0px 0px 10px =
+!important; }
+
+textarea#jp-carousel-comment-form-comment-field { background: rgba(34, 34, =
+34, 0.9); border: 1px solid rgb(58, 58, 58); color: rgb(170, 170, 170); wid=
+th: 100%; padding: 10px 10px 5px; margin: 0px; float: none; height: 147px; =
+box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 2px inset; border-radius: 3px; overf=
+low: hidden; box-sizing: border-box; font-style: normal !important; font-va=
+riant-ligatures: normal !important; font-variant-caps: normal !important; f=
+ont-weight: normal !important; font-stretch: normal !important; font-size: =
+15px !important; line-height: 1.4 !important; font-family: "Helvetica Neue"=
+, sans-serif !important; }
+
+textarea#jp-carousel-comment-form-comment-field::-webkit-input-placeholder =
+{ color: rgb(85, 85, 85); }
+
+textarea#jp-carousel-comment-form-comment-field:focus { background: rgb(204=
+, 204, 204); color: rgb(34, 34, 34); }
+
+textarea#jp-carousel-comment-form-comment-field:focus::-webkit-input-placeh=
+older { color: rgb(170, 170, 170); }
+
+#jp-carousel-comment-form-spinner { color: rgb(255, 255, 255); margin: 22px=
+ 0px 0px 10px; display: block; width: 20px; height: 20px; float: left; }
+
+#jp-carousel-comment-form-submit-and-info-wrapper { display: none; overflow=
+: hidden; width: 100%; }
+
+#jp-carousel-comment-form-commenting-as { }
+
+#jp-carousel-comment-form-commenting-as input { background: rgba(34, 34, 34=
+, 0.9); border: 1px solid rgb(58, 58, 58); color: rgb(170, 170, 170); paddi=
+ng: 3px 6px; float: left; box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 2px inset;=
+ border-radius: 2px; width: 285px; font-style: normal !important; font-vari=
+ant-ligatures: normal !important; font-variant-caps: normal !important; fon=
+t-weight: normal !important; font-stretch: normal !important; font-size: 13=
+px !important; line-height: 1.4 !important; font-family: "Helvetica Neue", =
+sans-serif !important; }
+
+#jp-carousel-comment-form-commenting-as input:focus { background: rgb(204, =
+204, 204); color: rgb(34, 34, 34); }
+
+#jp-carousel-comment-form-commenting-as p { margin: 22px 0px 0px; float: le=
+ft; font-style: normal !important; font-variant-ligatures: normal !importan=
+t; font-variant-caps: normal !important; font-weight: 400 !important; font-=
+stretch: normal !important; font-size: 13px !important; line-height: 1.7 !i=
+mportant; font-family: "Helvetica Neue", sans-serif !important; }
+
+#jp-carousel-comment-form-commenting-as fieldset { float: left; border: non=
+e; margin: 20px 0px 0px; padding: 0px; }
+
+#jp-carousel-comment-form-commenting-as fieldset { clear: both; }
+
+#jp-carousel-comment-form-commenting-as label { margin: 0px 20px 3px 0px; f=
+loat: left; width: 100px; font-style: normal !important; font-variant-ligat=
+ures: normal !important; font-variant-caps: normal !important; font-weight:=
+ 400 !important; font-stretch: normal !important; font-size: 13px !importan=
+t; line-height: 1.7 !important; font-family: "Helvetica Neue", sans-serif !=
+important; }
+
+#jp-carousel-comment-form-button-submit { margin-top: 20px; float: right; }
+
+#js-carousel-comment-form-container { margin-bottom: 15px; overflow: auto; =
+width: 100%; }
+
+#jp-carousel-comment-form-container { margin-bottom: 15px; overflow: auto; =
+width: 100%; }
+
+#jp-carousel-comment-post-results { display: none; overflow: auto; width: 1=
+00%; }
+
+#jp-carousel-comment-post-results span { display: block; text-align: center=
+; margin-top: 20px; width: 100%; overflow: auto; padding: 1em 0px; box-sizi=
+ng: border-box; background: rgba(0, 0, 0, 0.7); border-radius: 2px; border:=
+ 1px solid rgba(255, 255, 255, 0.17); box-shadow: rgb(0, 0, 0) 0px 0px 5px =
+5px inset; font-style: normal !important; font-variant-ligatures: normal !i=
+mportant; font-variant-caps: normal !important; font-weight: normal !import=
+ant; font-stretch: normal !important; font-size: 13px !important; line-heig=
+ht: 1.4 !important; font-family: "Helvetica Neue", sans-serif !important; }
+
+.jp-carousel-comment-post-error { color: rgb(223, 73, 38); }
+
+.jp-carousel-comment-post-success { }
+
+#jp-carousel-comments-closed { display: none; color: rgb(153, 153, 153); }
+
+#jp-carousel-comments-loading { display: none; color: rgb(153, 153, 153); t=
+ext-align: left; margin-bottom: 20px; font-style: normal !important; font-v=
+ariant-ligatures: normal !important; font-variant-caps: normal !important; =
+font-weight: 400 !important; font-stretch: normal !important; font-size: 15=
+px !important; line-height: 1.7 !important; font-family: "Helvetica Neue", =
+sans-serif !important; }
+
+.jp-carousel-light .jp-carousel-overlay { background: rgb(255, 255, 255); }
+
+.jp-carousel-light .jp-carousel-next-button:hover span, .jp-carousel-light =
+.jp-carousel-previous-button:hover span { opacity: 0.8; }
+
+.jp-carousel-light .jp-carousel-close-hint:hover, .jp-carousel-light .jp-ca=
+rousel-titleanddesc div { color: rgb(0, 0, 0) !important; }
+
+.jp-carousel-light .jp-carousel-comments p a, .jp-carousel-light .jp-carous=
+el-comment .comment-author a, .jp-carousel-light .jp-carousel-titleanddesc =
+p a, .jp-carousel-light .jp-carousel-titleanddesc p a, .jp-carousel-light .=
+jp-carousel-comments p a, .jp-carousel-light .jp-carousel-info h2 a { color=
+: rgb(30, 140, 190) !important; }
+
+.jp-carousel-light .jp-carousel-comments p a:hover, .jp-carousel-light .jp-=
+carousel-comment .comment-author a:hover, .jp-carousel-light .jp-carousel-t=
+itleanddesc p a:hover, .jp-carousel-light .jp-carousel-titleanddesc p a:hov=
+er, .jp-carousel-light .jp-carousel-comments p a:hover, .jp-carousel-light =
+.jp-carousel-info h2 a:hover { color: rgb(241, 131, 30) !important; }
+
+.jp-carousel-light .jp-carousel-info h2, .jp-carousel-light .jp-carousel-ti=
+tleanddesc, .jp-carousel-light .jp-carousel-titleanddesc p, .jp-carousel-li=
+ght .jp-carousel-comment, .jp-carousel-light .jp-carousel-comment p, .jp-ca=
+rousel-light div.jp-carousel-buttons a, .jp-carousel-light .jp-carousel-tit=
+leanddesc p strong, .jp-carousel-light .jp-carousel-titleanddesc p b, .jp-c=
+arousel-light .jp-carousel-titleanddesc p em, .jp-carousel-light .jp-carous=
+el-titleanddesc p i { color: rgb(102, 102, 102); }
+
+.jp-carousel-light .jp-carousel-buttons { border-bottom-color: rgb(240, 240=
+, 240); background: rgb(245, 245, 245); }
+
+.jp-carousel-light div.jp-carousel-buttons a:hover { text-decoration: none;=
+ color: rgb(241, 131, 30); }
+
+.jp-carousel-light div.jp-carousel-buttons a.jp-carousel-reblog, .jp-carous=
+el-light div.jp-carousel-buttons a.jp-carousel-reblog:hover { background-po=
+sition: 4px -56px; padding-left: 24px !important; }
+
+.jp-carousel-light div.jp-carousel-buttons a.jp-carousel-reblog.reblogged {=
+ background-color: rgb(46, 162, 204); color: rgb(255, 255, 255); }
+
+.jp-carousel-light div.jp-carousel-buttons a.jp-carousel-commentlink { back=
+ground-position: 0px -176px; }
+
+.jp-carousel-light div.jp-carousel-buttons a.jp-carousel-reblog.reblogged {=
+ background-position: 5px -36px; }
+
+.jp-carousel-light div#carousel-reblog-box { background: -webkit-gradient(l=
+inear, 0% 100%, 0% 0%, from(rgb(236, 236, 236)), to(rgb(247, 247, 247))); b=
+ox-shadow: rgba(0, 0, 0, 0.1) 0px 2px 10px; border: 1px solid rgb(221, 221,=
+ 221); }
+
+.jp-carousel-light #carousel-reblog-box textarea { color: rgb(102, 102, 102=
+); border: 1px solid rgb(207, 207, 207); background: rgb(255, 255, 255); }
+
+.jp-carousel-light #carousel-reblog-box .canceltext { color: rgb(136, 136, =
+136); }
+
+.jp-carousel-light #carousel-reblog-box .canceltext a { color: rgb(102, 102=
+, 102); }
+
+.jp-carousel-light #carousel-reblog-box select { background: rgb(238, 238, =
+238); color: rgb(51, 51, 51); border: 1px solid rgb(170, 170, 170); }
+
+.jp-carousel-light #carousel-reblog-box input#carousel-reblog-submit, #jp-c=
+arousel-comment-form-button-submit { color: rgb(51, 51, 51); background: -w=
+ebkit-gradient(linear, 0% 100%, 0% 0%, from(rgb(221, 221, 221)), to(rgb(255=
+, 255, 255))); border: 1px solid rgb(170, 170, 170); }
+
+.jp-carousel-light .jp-carousel-image-meta { background: rgb(250, 250, 250)=
+; border-width: 1px; border-style: solid; border-color: rgb(245, 245, 245) =
+rgb(238, 238, 238) rgb(238, 238, 238) rgb(245, 245, 245); border-image: ini=
+tial; color: rgb(51, 51, 51); }
+
+.jp-carousel-light .jp-carousel-image-meta li { color: rgb(0, 0, 0) !import=
+ant; }
+
+.jp-carousel-light .jp-carousel-close-hint { color: rgb(204, 204, 204); }
+
+.jp-carousel-light .jp-carousel-close-hint span { background-color: white; =
+border-color: rgb(204, 204, 204); }
+
+.jp-carousel-light #jp-carousel-comment-form-comment-field::-webkit-input-p=
+laceholder { color: rgb(170, 170, 170); }
+
+.jp-carousel-light #jp-carousel-comment-form-comment-field:focus { color: r=
+gb(51, 51, 51); }
+
+.jp-carousel-light #jp-carousel-comment-form-comment-field:focus::-webkit-i=
+nput-placeholder { color: rgb(221, 221, 221); }
+
+.jp-carousel-light a.jp-carousel-image-download { background-position: 0px =
+-122px; }
+
+.jp-carousel-light a.jp-carousel-image-download:hover { background-position=
+: 0px -122px; color: rgb(241, 131, 30); }
+
+.jp-carousel-light textarea#jp-carousel-comment-form-comment-field { backgr=
+ound: rgb(251, 251, 251); color: rgb(51, 51, 51); border: 1px solid rgb(223=
+, 223, 223); box-shadow: rgba(0, 0, 0, 0.1) 2px 2px 2px inset; }
+
+.jp-carousel-light #jp-carousel-comment-form-commenting-as input { backgrou=
+nd: rgb(251, 251, 251); border: 1px solid rgb(223, 223, 223); color: rgb(51=
+, 51, 51); box-shadow: rgba(0, 0, 0, 0.1) 2px 2px 2px inset; }
+
+.jp-carousel-light #jp-carousel-comment-form-commenting-as input:focus { ba=
+ckground: rgb(251, 251, 251); color: rgb(51, 51, 51); }
+
+.jp-carousel-light #jp-carousel-comment-post-results span { background: rgb=
+(247, 247, 247); border: 1px solid rgb(223, 223, 223); box-shadow: rgba(0, =
+0, 0, 0.05) 0px 0px 5px inset; }
+
+.jp-carousel-light .jp-carousel-slide { background-color: rgb(255, 255, 255=
+); }
+
+.jp-carousel-light .jp-carousel-titleanddesc { border-top: 1px solid rgb(23=
+8, 238, 238); }
+
+.jp-carousel-light .jp-carousel-fadeaway { background: -webkit-gradient(lin=
+ear, 0% 100%, 0% 0%, from(rgba(255, 255, 255, 0.75)), to(rgba(255, 255, 255=
+, 0))); }
+
+@media only screen and (max-width: 760px) {
+  .jp-carousel-info { margin: 0px 10px !important; }
+  .jp-carousel-next-button, .jp-carousel-previous-button { display: none !i=
+mportant; }
+  .jp-carousel-buttons { display: none !important; }
+  .jp-carousel-image-meta { box-sizing: border-box; float: none !important;=
+ width: 100% !important; }
+  .jp-carousel-close-hint { top: -10px; font-weight: 800 !important; font-s=
+ize: 26px !important; position: fixed !important; }
+  .jp-carousel-slide img { opacity: 1; }
+  .jp-carousel-wrap { background-color: rgb(0, 0, 0); }
+  .jp-carousel-fadeaway { display: none; }
+  #jp-carousel-comment-form-container { display: none !important; }
+  .jp-carousel-titleanddesc { padding-top: 0px !important; border: none !im=
+portant; }
+  .jp-carousel-titleanddesc-title { font-size: 1em !important; }
+  .jp-carousel-left-column-wrapper { padding: 0px; width: 100% !important; =
+}
+  .jp-carousel-photo-info { left: 0px !important; width: 100% !important; }
+}
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://pixel.wp.com/g.gif?blog=154036903&v=wpcom&tz=7&user_id=0&post=68&subd=alfanbro99&host=alfanbro99.wordpress.com&ref=&fcp=0&rand=0.7491920010597346
+
+R0lGODlhBgAFAIABAAAAAP///yH5BAEAAAEALAAAAAAGAAUAAAIJDGJ4ic1qgAwFADs=
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: text/html
+Content-ID: <frame-141-2be05a65-2c5d-4bac-8649-9a56dd17ea54@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:frame-17-bc720a07-e469-479c-a735-07fedc8957e1@mhtml.blink
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3Dwindows-1252">
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+
+<iframe src=3D"cid:frame-142-edd50786-b422-4cd4-9dc9-f62bdf33c0da@mhtml.bli=
+nk" style=3D"display: none;"></iframe>
+</body></html>
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg----
+Content-Type: text/html
+Content-ID: <frame-142-edd50786-b422-4cd4-9dc9-f62bdf33c0da@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:frame-18-d6b6836e-fc1a-4122-9e5c-7b0361de379a@mhtml.blink
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8">
+
+
+</head>
+<body>
+
+</body></html>
+------MultipartBoundary--l2Xk5oYI9yVx6gj2y4I0c6TTg6QEbCBMddc3KjJHUg------
